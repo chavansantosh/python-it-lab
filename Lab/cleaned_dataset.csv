@@ -1,0 +1,2001 @@
+customer_id,name,age,salary,join_date,department,performance_score,email,city,gender,is_active,invalid_email
+1357,Customer_1357,27,29664.12,2022-06-14,HR,48.2,user1356@outlook.com,Houston,Male,FALSE,False
+985,Customer_985,27,47373.17,,Marketing,48.2,user984@yahoo.com,Dallas,Female,FALSE,False
+1828,Customer_860,62,63380.36,,Operations,48.2,user859@gmail.com,,Male,,False
+1985,Customer_1985,,56746.57,,IT,48.2,user1984@company.com,New York,Male,TRUE,False
+1294,Customer_1294,41,61654.21,2019-03-12,Finance,48.2,user1293@gmail.com,New York,Other,TRUE,False
+1470,Customer_1470,54,58544.89,2022-02-24,Finance,48.2,user1469@outlook.com,San Antonio,Male,FALSE,False
+1211,Customer_1211,31,61379.54,,Marketing,48.2,user1210@gmail.com,Los Angeles,Female,TRUE,False
+368,Customer_368,65,90205.71,2021-06-18,IT,48.2,user367@company.com,San Diego,Male,TRUE,False
+1704,,71,77165.23,,Marketing,48.2,user1703@gmail.com,Chicago,Other,TRUE,False
+1384,Customer_1384,61,32664.99,2021-07-11,Sales,48.2,user1383@gmail.com,Houston,Other,TRUE,False
+1788,Customer_1788,26,46429.39,2022-12-12,HR,48.2,user1787@outlook.com,San Antonio,Other,FALSE,False
+252,Customer_252,26,59132.87,,Operations,48.2,user251@yahoo.com,,Other,FALSE,False
+472,,41,91986.01,,IT,48.2,user471@outlook.com,San Diego,Female,FALSE,False
+383,Customer_383,37,42660.68,2018-11-26,Sales,48.2,user382@outlook.com,Houston,Male,FALSE,False
+354,Customer_354,47,22214.34,,Marketing,48.2,user353@gmail.com,San Jose,Other,FALSE,False
+619,Customer_619,70,38895.56,2022-05-20,Finance,48.2,user618@yahoo.com,Los Angeles,Male,TRUE,False
+1092,Customer_1092,44,36689.95,2022-01-02,HR,48.2,user1091@outlook.com,Houston,Male,FALSE,False
+1403,CUSTOMER_1403,54,55904.83,,IT,48.2,user1402@gmail.com,New York,Male,FALSE,False
+1138,Customer_1138,33,54439.65,2016-02-28,IT,48.2,user1137@gmail.com,Chicago,Other,FALSE,False
+1602,Customer_1602,60,62606.22,2017-07-12,Sales,48.2,user1601@company.com,San Antonio,Female,TRUE,False
+584,Customer_584,33,22572.32,,Operations,48.2,user583@yahoo.com,San Diego,Male,TRUE,False
+926,Customer_926,66,62924.55,2021-03-30,Operations,48.2,user925@outlook.com,San Jose,Female,TRUE,False
+865,CUSTOMER_66,31,42198.79,2015-06-14,IT,48.2,,San Diego,Other,FALSE,True
+924,Customer_924,64,51067.39,2022-07-27,HR,48.2,user923@yahoo.com,,Male,FALSE,False
+322,Customer_322,77,50099.44,2021-08-12,Sales,48.2,user321@outlook.com,Chicago,Male,TRUE,False
+306,Customer_306,,47246.55,2022-09-24,IT,48.2,user305@outlook.com,Houston,Female,FALSE,False
+1542,Customer_1542,21,48662.31,2018-05-13,Ops,48.2,,Chicago,Female,FALSE,True
+1772,Customer_1772,39,17054.26,,HR,48.2,user1771@gmail.com,San Antonio,Other,FALSE,False
+1402,Customer_1402,58,58498.09,,Finance,48.2,user1401@gmail.com,New York,Female,FALSE,False
+433,CUSTOMER_433,72,29691.26,,Operations,48.2,user432@outlook.com,San Antonio,Male,FALSE,False
+695,Customer_695,78,55435.7,2022-07-27,HR,48.2,user694@company.com,San Antonio,Other,TRUE,False
+1665,Customer_1665,71,47902.45,,Support,48.2,user1664@outlook.com,New York,Female,FALSE,False
+112,Customer_112,74,80881.24,2018-11-23,H R,48.2,user111@outlook.com,New York,Male,TRUE,False
+1023,CUSTOMER_1023,22,67134.78,2019-11-22,Support,48.2,user1022@company.com,Houston,Other,FALSE,False
+30,Customer_30,38,79209.55,2021-12-23,Marketing,48.2,user29@yahoo.com,San Antonio,Male,TRUE,False
+1883,Customer_1883,36,52137.74,2021-06-06,HR,48.2,user1882@yahoo.com,San Diego,Other,TRUE,False
+384,Customer_384,41,52744.87,2019-07-31,Marketing,48.2,user383@yahoo.com,Philadelphia,Female,FALSE,False
+1473,Customer_1473,50,45750.92,2020-10-02,Finance,48.2,user1472@gmail.com,San Jose,Male,FALSE,False
+1874,Customer_1874,71,68425.13,2022-11-27,HR,48.2,user1873@outlook.com,Houston,Female,FALSE,False
+307,Customer_307,73,60600.94,,HR,48.2,user306@company.com,New York,Male,TRUE,False
+57,Customer_57,68,21314.99,,Marketing,48.2,user56@company.com,San Diego,Other,TRUE,False
+772,Customer_772,66,54929.51,2015-10-09,HR,48.2,user771@yahoo.com,Los Angeles,Male,TRUE,False
+778,CUSTOMER_778,30,53028.96,,Support,48.2,user777@company.com,Phoenix,Female,TRUE,False
+1694,Customer_1694,25,70496.78,2021-06-24,Sales,48.2,user1693@gmail.com,San Jose,Female,FALSE,False
+1272,Customer_1272,,74603.11,,Marketing,48.2,user1271@company.com,San Jose,Male,TRUE,False
+1577,Customer_1577,32,80584.64,,,48.2,user1576@yahoo.com,Los Angeles,Male,FALSE,False
+421,Customer_421,37,45732.81,,Sales,48.2,user420@yahoo.com,Chicago,Other,TRUE,False
+820,Customer_820,22,41171.94,,IT,48.2,user819@company.com,Phoenix,Male,TRUE,False
+1511,Customer_1511,44,74371.05,2020-08-06,Marketing,48.2,user1510@outlook.com,San Antonio,Other,TRUE,False
+1183,Customer_1183,64,86641.67,2022-05-11,Sales,48.2,USER284@YAHOO.COM,Phoenix,Female,TRUE,False
+495,Customer_495,57,63671.76,2019-08-10,Support,48.2,user494@company.com,San Jose,Male,TRUE,False
+325,Customer_325,33,53327.17,2019-10-08,HR,48.2,user324@company.com,San Antonio,Male,FALSE,False
+1331,Customer_1437,50,48548.51,2017-12-28,Support,48.2,user1436@yahoo.com,Los Angeles,Other,FALSE,False
+1134,,33,79435.14,2020-08-15,HR,48.2,user1133@company.com,Los Angeles,Male,FALSE,False
+679,Customer_679,41,66607.49,,Finance,48.2,user678@outlook.com,Chicago,Male,FALSE,False
+904,Customer_904,75,33579.54,2016-02-29,Sales,48.2,user903@yahoo.com,Chicago,Female,FALSE,False
+1367,Customer_1367,18,71307.93,2021-03-19,Operations,48.2,user1366@outlook.com,Los Angeles,Female,FALSE,False
+1152,Customer_1152,78,59604.07,,Sales,48.2,user1151@yahoo.com,Chicago,Female,TRUE,False
+1556,Customer_1556,31,58176.25,2020-07-16,Support,48.2,user1555@gmail.com,New York,Other,TRUE,False
+352,Customer_352,40,30485.57,,Finance,48.2,user351@yahoo.com,Los Angeles,Other,TRUE,False
+52,Customer_1519,,56975.8,2020-01-02,IT,48.2,user1518@outlook.com,San Diego,Female,FALSE,False
+1464,Customer_1464,53,40513.64,2019-11-17,HR,48.2,user1463@outlook.com,Philadelphia,Female,FALSE,False
+819,Customer_819,75,"$49,198",2018-05-20,Marketing,48.2,user818@outlook.com,Dallas,Male,TRUE,False
+615,Customer_615,53,54448.36,2018-04-26,Finance,48.2,user614@outlook.com,San Antonio,Male,FALSE,False
+71,Customer_71,70,82975.05,2021-12-19,Support,48.2,user70@gmail.com,Phoenix,Male,TRUE,False
+451,Customer_451,50,68026.65,2022-11-29,Marketing,48.2,user450@gmail.com,New York,Other,FALSE,False
+1308,Customer_1308,37,35683.37,,HR,48.2,user1307@gmail.com,New York,Female,TRUE,False
+1579,Customer_1579,64,67017.46,,Finance,48.2,user1578@company.com,San Jose,Male,FALSE,False
+1950,Customer_1950,42,"$34,669",2019-06-15,Marketing,48.2,user1949@company.com,San Antonio,Female,TRUE,False
+1186,Customer_1186,60,65080.91,,Operations,48.2,user1185@yahoo.com,Philadelphia,Female,TRUE,False
+870,Customer_870,56,56691.82,2018-07-04,Finance,48.2,user869@outlook.com,Phoenix,Female,TRUE,False
+1469,Customer_1469,78,67805.87,,Finance,48.2,user1468@yahoo.com,Chicago,Female,FALSE,False
+975,Customer_975,63,35680.79,,Marketing,48.2,user974@outlook.com,Los Angeles,Male,TRUE,False
+1340,Customer_1340,29,42006.6,2021-09-10,Operations,48.2,user@domain,Houston,Other,FALSE,True
+1551,Customer_1551,75,44071.82,,Operations,48.2,user1550@gmail.com,Dallas,Other,TRUE,False
+125,Customer_125,,44148.45,,Operations,48.2,user124@company.com,Los Angeles,Male,FALSE,False
+211,Customer_211,,34454.53,2018-07-16,Support,48.2,user210@company.com,San Antonio,Male,FALSE,False
+949,Customer_949,25,53862.65,,Operations,48.2,user948@gmail.com,Phoenix,Male,TRUE,False
+1079,Customer_1079,19,53285.68,2022-05-08,Support,48.2,user1078@company.com,Dallas,Male,TRUE,False
+1647,Customer_1647,79,,2018-04-01,Operations,48.2,user1646@yahoo.com,Phoenix,Male,FALSE,False
+1494,CUSTOMER_1494,46,63082.09,,Finance,48.2,user1493@outlook.com,San Diego,Other,TRUE,False
+1112,Customer_1112,34,,2015-06-04,Sales,48.2,user1111@outlook.com,Dallas,Female,FALSE,False
+585,Customer_585,25,60496.86,,Marketing,48.2,user584@gmail.com,Dallas,Other,FALSE,False
+1334,Customer_1334,21,31094.24,2022-03-02,Operations,48.2,user1333@company.com,San Jose,Other,TRUE,False
+353,Customer_353,48,70336.61,2021-09-15,Operations,48.2,user352@gmail.com,Phoenix,Female,FALSE,False
+1042,Customer_1042,30,52887.48,2020-02-28,Finance,48.2,user1041@gmail.com,New York,Male,TRUE,False
+1755,Customer_1755,19,69060.87,2021-04-03,HR,48.2,user1754@company.com,Los Angeles,Female,FALSE,False
+1567,Customer_1567,63,56696.44,2015-09-27,Support,48.2,user1566@gmail.com,Los Angeles,Female,FALSE,False
+520,Customer_520,52,73846.55,2016-09-24,Sales,48.2,user519@company.com,Philadelphia,Other,FALSE,False
+70,Customer_70,43,55538.42,,Marketing Dept,48.2,user69@yahoo.com,Los Angeles,Female,TRUE,False
+1295,Customer_1295,72,64255.45,2017-08-23,Support,48.2,user1294@outlook.com,San Jose,Male,FALSE,False
+1631,Customer_1631,,61904.95,2015-04-27,Finance,48.2,user1630@gmail.com,San Antonio,Other,,False
+1081,,68,52772.09,2016-12-26,Sales,48.2,user1080@company.com,Los Angeles,Female,TRUE,False
+1561,,40,65072.21,2019-02-20,Marketing,48.2,user1560@gmail.com,New York,Female,FALSE,False
+1014,Customer_1014,18,59011.1,,Operations,48.2,user1013@company.com,Philadelphia,Other,TRUE,False
+1834,Customer_1834,29,76319.24,,Finance,48.2,user1833@company.com,New York,Female,FALSE,False
+212,Customer_212,24,47887.39,,Support,48.2,user211@outlook.com,Philadelphia,Male,TRUE,False
+1011,,51,71145.58,2016-06-13,IT,48.2,user1010@outlook.com,Philadelphia,Male,TRUE,False
+1568,Customer_1568,53,40910.1,,HR,48.2,user1567@yahoo.com,San Diego,Male,FALSE,False
+100,Customer_100,51,71610.83,,IT,48.2,user99@company.com,Los Angeles,Other,TRUE,False
+1311,CUSTOMER_1311,21,42300.82,,Support,48.2,user1310@gmail.com,Dallas,Other,FALSE,False
+731,Customer_731,75,80304.82,,Operations,48.2,user730@company.com,Philadelphia,Male,FALSE,False
+530,Customer_530,62,51094.89,2018-09-07,HR,48.2,user529@company.com,Philadelphia,Other,TRUE,False
+299,Customer_299,43,63999.91,2016-12-12,Sales,48.2,user298@yahoo.com,Philadelphia,Male,TRUE,False
+1019,Customer_1019,45,72017.21,,HR,48.2,user1018@company.com,Chicago,Male,TRUE,False
+1331,,23,57274.28,,Sales,48.2,user1330@yahoo.com,Phoenix,Other,FALSE,False
+713,Customer_713,78,41835.36,,Support,48.2,user712@outlook.com,Chicago,Other,TRUE,False
+1330,Customer_1330,22,48359.12,2016-05-14,Finance,48.2,user1329@gmail.com,Dallas,Female,FALSE,False
+651,Customer_651,65,77171.9,,Marketing,48.2,user650@outlook.com,New York,Male,FALSE,False
+240,Customer_240,74,31893.72,2022-10-27,Marketing,48.2,user239@outlook.com,Chicago,Male,FALSE,False
+1962,Customer_1962,24,,2020-02-05,,48.2,user1961@outlook.com,Houston,Male,TRUE,False
+1722,Customer_1722,60,39693.93,,Operations,48.2,user1721@company.com,San Jose,Male,TRUE,False
+1847,Customer_1847,63,28526.19,,Sales,48.2,user1846@yahoo.com,Phoenix,Male,FALSE,False
+1877,Customer_1877,73,54802.41,,Marketing,48.2,user1876@company.com,San Jose,Male,FALSE,False
+395,Customer_395,57,57647.67,2022-06-06,Support,48.2,user394@outlook.com,Philadelphia,Other,TRUE,False
+1354,Customer_1354,23,71709.23,2021-05-26,Marketing,48.2,user1353@gmail.com,Houston,Male,TRUE,False
+1230,Customer_1230,42,78941.2,2019-03-24,Sales,48.2,user1229@yahoo.com,Chicago,Female,FALSE,False
+1717,Customer_1717,41,59703.07,,HR,48.2,user1716@company.com,San Antonio,Female,TRUE,False
+1145,Customer_1145,20,,2017-10-11,Operations,48.2,user1144@gmail.com,Houston,Other,TRUE,False
+1621,Customer_1621,45,55810.31,,Finance,48.2,user1620@company.com,New York,Other,FALSE,False
+803,Customer_803,69,54795.96,,Finance,48.2,user802@yahoo.com,New York,Male,FALSE,False
+129,Customer_129,46,49844.67,2022-12-07,Marketing,48.2,user128@yahoo.com,San Diego,Other,TRUE,False
+863,Customer_863,23,36119.03,2017-07-24,Marketing,48.2,user862@yahoo.com,Phoenix,Male,FALSE,False
+276,Customer_276,19,57666.34,2021-12-08,Operations,48.2,user275@company.com,San Jose,Male,TRUE,False
+535,Customer_535,33,35884.47,2022-01-11,Operations,48.2,user534@company.com,Chicago,Male,TRUE,False
+1056,Customer_1056,51,58481.93,,HR,48.2,user1055@gmail.com,New York,Female,TRUE,False
+1426,Customer_1426,31,,,Operations,48.2,user1425@gmail.com,Houston,Other,FALSE,False
+1377,Customer_1377,52,59288.78,,Operations,48.2,user1376@outlook.com,Phoenix,Male,TRUE,False
+1346,Customer_1346,54,55909.13,2017-09-17,Finance,48.2,user1345@outlook.com,San Jose,Female,TRUE,False
+527,Customer_527,24,32561.83,,Finance,48.2,user526@yahoo.com,San Jose,Female,TRUE,False
+486,Customer_486,50,73275.06,,IT,48.2,user485@gmail.com,Los Angeles,Other,TRUE,False
+1810,Customer_1810,38,66598.81,2015-07-30,Sales,48.2,user1809@gmail.com,Philadelphia,,FALSE,False
+1971,Customer_1971,32,73479.77,2017-02-28,Finance,48.2,,Philadelphia,Other,TRUE,True
+1892,Customer_1892,51,55072.2,,Finance,48.2,user1891@company.com,San Diego,Female,,False
+1560,Customer_1560,28,60100.89,,IT,48.2,user1559@outlook.com,San Antonio,Female,FALSE,False
+1610,Customer_1610,24,fifty thousand,2021-03-06,HR,48.2,user1609@gmail.com,Houston,Female,FALSE,False
+1813,,58,36527.97,2016-11-29,Support,48.2,user1812@gmail.com,Houston,Male,TRUE,False
+1191,Customer_1191,53,61710.99,2018-06-22,Finance,48.2,user1190@outlook.com,Philadelphia,Male,TRUE,False
+528,Customer_528,74,68231.57,2022-04-15,,48.2,user527@yahoo.com,New York,Male,TRUE,False
+1236,Customer_1236,74,39205.52,,HR,48.2,user1235@yahoo.com,Houston,Female,FALSE,False
+531,Customer_531,37,,2022-07-25,Operations,48.2,user530@gmail.com,Los Angeles,Other,TRUE,False
+901,Customer_901,55,,2021-09-25,Operations,48.2,user900@gmail.com,Philadelphia,Other,TRUE,False
+1871,CUSTOMER_1871,72,58509.21,2022-11-27,HR,48.2,user1870@company.com,New York,Other,FALSE,False
+1259,Customer_1259,64,69746.24,2019-04-14,Finance,48.2,user1258@company.com,San Antonio,Male,TRUE,False
+818,,48,56723.04,2020-11-05,IT,48.2,user817@gmail.com,Los Angeles,Other,FALSE,False
+908,Customer_908,,39793.93,,Operations,48.2,user907@company.com,Los Angeles,Female,FALSE,False
+1041,Customer_1041,62,75037.08,2021-12-06,Marketing,48.2,user1040@yahoo.com,San Diego,Male,TRUE,False
+1454,Customer_1454,59,91516.13,2021-10-04,IT,48.2,user1453@outlook.com,Chicago,Male,TRUE,False
+680,Customer_680,33,71832.63,2019-06-05,Marketing,48.2,user679@company.com,Houston,Female,TRUE,False
+1165,Customer_1165,18,88596.15,2015-09-27,HR,48.2,user1164@outlook.com,New York,Female,TRUE,False
+1537,Customer_1537,60,61391.79,2022-12-16,Sales,48.2,user1536@gmail.com,Houston,Other,FALSE,False
+116,Customer_116,33,71901.3,,Marketing,48.2,user115@yahoo.com,San Diego,Male,TRUE,False
+966,Customer_966,26,51767.53,,Operations,48.2,user965@yahoo.com,Phoenix,Other,FALSE,False
+343,Customer_343,56,61766.43,,,48.2,user342@yahoo.com,San Antonio,Female,FALSE,False
+1692,Customer_1692,24,38619.31,2016-10-16,Finance,48.2,user1691@company.com,San Antonio,Other,TRUE,False
+1942,Customer_1942,40,66338.88,,Finance,48.2,user1941@gmail.com,Phoenix,Female,TRUE,False
+1997,Customer_1997,61,38813.87,2016-07-29,Operations,48.2,user1996@gmail.com,San Jose,Female,FALSE,False
+255,Customer_255,50,70705.14,2020-05-10,Support,48.2,user254@yahoo.com,Houston,Female,TRUE,False
+1827,Customer_1827,44,,,Finance,48.2,user1826@company.com,San Jose,Male,TRUE,False
+1832,Customer_1832,57,67906.84,,Marketing,48.2,user1831@yahoo.com,San Diego,Female,TRUE,False
+1951,Customer_1951,29,45951.88,2020-07-22,Sales,48.2,user1950@outlook.com,Los Angeles,Female,TRUE,False
+1091,,32,15643.18,2022-02-15,Marketing,48.2,user1090@gmail.com,Los Angeles,Male,TRUE,False
+1275,Customer_1275,62,53523.42,2020-10-14,Operations,48.2,user1274@yahoo.com,San Antonio,Other,TRUE,False
+121,Customer_121,41,74479.9,2015-02-21,Operations,48.2,user120@company.com,San Antonio,Other,TRUE,False
+1944,Customer_1944,71,high,2020-12-31,IT,48.2,user1943@outlook.com,Los Angeles,Female,TRUE,False
+580,Customer_580,52,44343.21,,HR,48.2,user579@yahoo.com,San Diego,Other,FALSE,False
+929,Customer_1302,54,44211.35,2016-02-10,Sales,48.2,user1301@company.com,Phoenix,Male,TRUE,False
+257,Customer_257,59,55253.28,2015-09-25,Finance,48.2,user256@yahoo.com,San Jose,Female,FALSE,False
+809,Customer_809,33,60364.36,,IT,48.2,user808@company.com,Chicago,Male,TRUE,False
+136,CUSTOMER_136,41,50680.72,2021-11-27,Finance,48.2,user135@outlook.com,Chicago,Female,TRUE,False
+1111,Customer_1111,73,36375.76,,Support,48.2,user1110@yahoo.com,San Antonio,Male,FALSE,False
+1582,Customer_1582,26,61535.12,2022-08-17,Finance,48.2,user1581@gmail.com,Chicago,Male,TRUE,False
+940,,27,67889.65,2017-01-13,IT,48.2,user939@gmail.com,Chicago,Male,TRUE,False
+465,Customer_465,63,66596.61,,Marketing,48.2,user464@company.com,Chicago,Female,FALSE,False
+439,Customer_439,,,,Operations,48.2,user438@gmail.com,San Jose,Male,TRUE,False
+1345,Customer_1345,55,68551.74,2021-06-13,,48.2,user1344@yahoo.com,Dallas,Female,TRUE,False
+1048,Customer_1048,49,$60k,2017-09-23,Sales,48.2,user1047@gmail.com,Phoenix,Female,FALSE,False
+931,Customer_931,70,37028.44,,IT,48.2,user930@yahoo.com,San Antonio,Female,TRUE,False
+110,Customer_110,40,83662.07,,IT,48.2,user109@yahoo.com,Houston,Other,FALSE,False
+362,Customer_362,74,77960.99,,Operations,48.2,user361@company.com,Phoenix,Female,TRUE,False
+351,CUSTOMER_351,67,52750.18,,Sales,48.2,user350@company.com,San Antonio,Male,TRUE,False
+1633,Customer_1633,45,29218.74,2015-07-06,Support,48.2,user1632@outlook.com,Chicago,Male,FALSE,False
+1757,Customer_1757,40,65890.05,,Operations,48.2,user1756@gmail.com,San Diego,Female,FALSE,False
+621,Customer_621,33,42564.44,,Support,48.2,user620@gmail.com,Los Angeles,Other,TRUE,False
+234,Customer_234,45,31768.3,,IT,48.2,user233@company.com,Los Angeles,Male,TRUE,False
+1526,,29,45175.81,2016-05-17,Operations,48.2,user1525@outlook.com,San Antonio,Male,TRUE,False
+1428,Customer_1428,68,fifty thousand,2019-12-07,HR,48.2,user1427@company.com,Dallas,Female,TRUE,False
+693,,50,33331.64,2019-03-02,IT,48.2,user692@outlook.com,San Diego,Other,FALSE,False
+1926,Customer_1926,78,,2015-01-22,Operations,48.2,user1925@company.com,Dallas,Other,FALSE,False
+789,,24,high,,Finance,48.2,user788@yahoo.com,Dallas,Male,FALSE,False
+1343,CUSTOMER_1343,43,48093.9,2022-02-01,Operations,48.2,user1342@yahoo.com,Phoenix,Female,FALSE,False
+882,Customer_882,79,64279.96,,IT,48.2,user881@company.com,Chicago,Female,FALSE,False
+757,Customer_757,,56935.97,2016-05-15,Sales,48.2,user756@company.com,Philadelphia,Male,FALSE,False
+480,Customer_480,50,55587.46,2021-01-15,HR,48.2,user479@gmail.com,Phoenix,Other,FALSE,False
+553,CUSTOMER_553,75,60804.48,2016-11-12,Sales,48.2,user552@gmail.com,New York,Other,TRUE,False
+248,,56,42287.15,,Marketing,48.2,user247@yahoo.com,San Diego,Other,TRUE,False
+1745,Customer_1745,46,60319.26,2018-02-19,Sales,48.2,user1744@company.com,Philadelphia,Other,TRUE,False
+345,Customer_345,57,55041.74,,Operations,48.2,user344@company.com,San Jose,,TRUE,False
+1860,Customer_1860,,51938.6,,HR,48.2,user1859@outlook.com,Houston,Female,TRUE,False
+568,Customer_568,77,,2021-05-07,Operations,48.2,user567@company.com,San Jose,Female,TRUE,False
+571,Customer_571,,500000,2016-11-27,IT,48.2,user570@gmail.com,Dallas,Female,FALSE,False
+308,Customer_308,76,62605.24,2020-04-08,IT,48.2,user307@company.com,Chicago,Male,TRUE,False
+1783,,34,54451.06,2018-10-09,,48.2,user1782@yahoo.com,Los Angeles,Female,TRUE,False
+213,Customer_213,76,34829.72,2021-01-03,,48.2,user212@gmail.com,New York,Male,TRUE,False
+1938,Customer_1938,25,58284.89,,HR,48.2,user@domain,San Antonio,Female,TRUE,True
+905,Customer_905,,46415.54,,Sales,48.2,user904@gmail.com,Houston,Female,FALSE,False
+232,Customer_232,75,72003.2,2022-12-10,Sales,48.2,user231@gmail.com,Chicago,Other,FALSE,False
+415,Customer_415,50,63381.11,,IT,48.2,user414@company.com,San Diego,Other,FALSE,False
+1352,,20,-10000,2018-12-16,Finance,48.2,user1351@company.com,Houston,Male,FALSE,False
+282,Customer_282,34,55663.66,2018-05-02,Finance,48.2,user281@company.com,New York,Male,FALSE,False
+1968,Customer_1968,,50479.8,,IT,48.2,user1967@company.com,Houston,Male,TRUE,False
+1240,Customer_1240,43,37163.91,2019-02-01,Support,48.2,user1239@gmail.com,Dallas,Male,TRUE,False
+434,,39,36203.13,,Marketing,48.2,user433@gmail.com,Phoenix,Male,FALSE,False
+50,Customer_50,68,62044.31,,Sales,48.2,user49@yahoo.com,Houston,Female,FALSE,False
+298,Customer_298,61,62581.41,2017-09-09,IT,48.2,user297@yahoo.com,Dallas,Male,FALSE,False
+445,Customer_445,51,51302.37,,HR,48.2,user444@yahoo.com,Philadelphia,Female,FALSE,False
+483,Customer_483,38,60479.51,,Sales,48.2,user482@gmail.com,San Jose,Female,FALSE,False
+707,Customer_707,46,71013.99,2020-03-16,Sales,48.2,user706@company.com,San Jose,Female,FALSE,False
+775,Customer_775,65,46640.78,,HR,48.2,user774@yahoo.com,San Antonio,Female,TRUE,False
+1126,,60,59071.32,2015-06-18,HR,48.2,user1125@outlook.com,San Antonio,Other,FALSE,False
+1125,Customer_1125,60,62856.4,2021-03-20,Finance,48.2,user1124@yahoo.com,Philadelphia,Female,FALSE,False
+1353,Customer_1353,50,71717.74,,,48.2,user1352@yahoo.com,San Diego,Female,FALSE,False
+174,Customer_174,52,"$38,484",,IT,48.2,user173@gmail.com,Houston,Male,TRUE,False
+810,Customer_810,74,42440.21,2021-08-28,IT,48.2,user809@yahoo.com,San Jose,Female,TRUE,False
+430,CUSTOMER_430,76,68021.55,2015-04-29,IT,48.2,USER855@COMPANY.COM,Houston,Female,FALSE,False
+496,Customer_496,63,47163.97,2015-06-28,HR,48.2,user495@gmail.com,Houston,Female,TRUE,False
+1736,Customer_1736,24,64721.33,,HR,48.2,user1735@yahoo.com,San Diego,Other,FALSE,False
+238,Customer_238,50,44240.68,,HR,48.2,user237@outlook.com,Chicago,Male,TRUE,False
+1748,Customer_1748,19,55486.02,2021-11-07,Operations,48.2,user1747@yahoo.com,Chicago,Other,TRUE,False
+544,Customer_544,25,74906.17,2018-03-23,Sales,48.2,user543@company.com,San Jose,Other,FALSE,False
+24,,41,57527.14,,Support,48.2,user23@yahoo.com,Philadelphia,Other,FALSE,False
+1670,Customer_1670,55,,2018-11-15,Sales,48.2,user1669@outlook.com,Philadelphia,Other,FALSE,False
+64,Customer_64,42,58444.68,,Support,48.2,user63@company.com,San Jose,Female,FALSE,False
+631,Customer_631,33,36813.14,,Marketing,48.2,user630@gmail.com,Philadelphia,Male,FALSE,False
+189,Customer_189,43,64771.14,,Finance,48.2,user188@outlook.com,Chicago,Male,FALSE,False
+1880,Customer_1880,53,64576.76,2018-01-25,Finance,48.2,user1879@company.com,Philadelphia,Female,FALSE,False
+862,Customer_862,53,53875.53,2020-01-24,Marketing,48.2,user861@gmail.com,Dallas,Male,TRUE,False
+1678,Customer_1678,20,66696.33,,IT,48.2,user1677@outlook.com,Houston,Other,TRUE,False
+369,Customer_369,79,62836.28,,HR,48.2,user368@gmail.com,,Other,FALSE,False
+271,Customer_271,,35552.47,2016-04-30,Sales,48.2,user270@gmail.com,Chicago,Other,FALSE,False
+1618,Customer_1618,60,72571.4,,Operations,48.2,user1617@gmail.com,Houston,Male,TRUE,False
+874,Customer_874,36,,2017-11-10,Operations,48.2,user873@company.com,Houston,Male,TRUE,False
+197,Customer_197,69,64754.22,2020-12-14,Marketing,48.2,user196@outlook.com,Houston,Female,FALSE,False
+484,Customer_484,49,76031.08,2021-03-10,Finance,48.2,user483@gmail.com,Los Angeles,Male,TRUE,False
+1217,Customer_1217,64,39892.24,,Sales,48.2,user1216@yahoo.com,Philadelphia,Female,TRUE,False
+1270,Customer_1270,43,50119.56,,IT,48.2,user1269@yahoo.com,Phoenix,Male,TRUE,False
+1273,Customer_1273,20,64722.06,,Support,48.2,user1272@outlook.com,New York,Female,TRUE,False
+1314,Customer_1314,71,83785.01,2020-01-12,Finance,48.2,user1313@yahoo.com,New York,,TRUE,False
+101,Customer_101,27,63357.68,2022-09-29,Operations,48.2,user100@yahoo.com,Philadelphia,Female,FALSE,False
+1829,Customer_1829,48,,2019-09-12,Operations,48.2,user1828@company.com,New York,Female,TRUE,False
+1588,Customer_1588,58,53632.39,,Operations,48.2,user1587@outlook.com,San Antonio,Male,FALSE,False
+1969,Customer_1969,24,44822.72,2020-04-01,Support,48.2,user1968@company.com,San Diego,Male,TRUE,False
+221,Customer_221,74,68106.75,2020-11-18,Support,48.2,user220@yahoo.com,Philadelphia,Male,TRUE,False
+556,Customer_556,66,63690.99,2015-04-29,Operations,48.2,user555@outlook.com,Houston,Female,FALSE,False
+1674,Customer_1674,25,69366.85,2020-10-10,HR,48.2,user1673@gmail.com,Philadelphia,Male,TRUE,False
+481,Customer_481,69,,,Operations,48.2,user480@outlook.com,San Antonio,Other,TRUE,False
+1677,Customer_1677,56,53438.14,,Marketing,48.2,user1676@company.com,Dallas,Female,FALSE,False
+1447,Customer_1447,68,,2016-02-25,IT,48.2,user1446@outlook.com,Chicago,Female,TRUE,False
+734,Customer_734,62,57959.51,2016-02-10,HR,48.2,user733@yahoo.com,New York,Other,FALSE,False
+758,Customer_758,40,47665.28,,Marketing,48.2,user757@yahoo.com,New York,Other,TRUE,False
+980,Customer_980,68,59330.99,2020-09-29,HR,48.2,user979@gmail.com,Phoenix,Other,FALSE,False
+612,,49,65304.2,2021-05-31,Operations,48.2,user611@company.com,,Other,FALSE,False
+1988,Customer_1988,35,54435.1,,IT,48.2,user1987@company.com,New York,Female,FALSE,False
+858,Customer_858,24,43414.45,,IT,48.2,user857@company.com,Chicago,Male,FALSE,False
+317,Customer_317,,30797.97,2015-10-19,IT,48.2,user316@yahoo.com,Dallas,Male,TRUE,False
+597,Customer_597,43,45836.65,2018-11-16,Finance,48.2,user596@outlook.com,Phoenix,Female,FALSE,False
+1943,Customer_1943,54,58099.7,,Operations,48.2,,San Jose,Male,FALSE,True
+1508,Customer_1508,53,"$77,991",2016-04-09,HR,48.2,user1507@gmail.com,San Diego,Male,TRUE,False
+1243,,42,$60k,2019-12-25,HR,48.2,user1242@gmail.com,,Female,FALSE,False
+1284,Customer_1284,23,,,HR,48.2,user1283@yahoo.com,Dallas,Male,FALSE,False
+79,Customer_79,78,500000,,Operations,48.2,user@.com,Houston,Male,TRUE,True
+839,Customer_839,57,60701.18,2018-01-31,Sales,48.2,user838@gmail.com,San Jose,Female,FALSE,False
+33,Customer_33,75,40698.11,2019-06-02,Support,48.2,user32@yahoo.com,Chicago,Other,FALSE,False
+463,Customer_463,47,67979.75,,Support,48.2,user462@company.com,Chicago,Female,TRUE,False
+747,Customer_747,,54193.83,,Marketing,48.2,user746@company.com,San Diego,Other,TRUE,False
+1848,Customer_1848,19,50592.29,2019-03-24,Operations,48.2,user1847@gmail.com,San Diego,Other,TRUE,False
+423,Customer_423,25,80628.2,,HR,48.2,user422@yahoo.com,Los Angeles,Male,TRUE,False
+593,Customer_164,79,62036.75,,Sales,48.2,user163@outlook.com,Los Angeles,Female,TRUE,False
+204,Customer_204,56,51939.54,2020-02-02,IT,48.2,user203@gmail.com,Los Angeles,Male,FALSE,False
+1415,Customer_1415,79,66742.56,2015-05-30,Support,48.2,,Los Angeles,Other,TRUE,True
+290,Customer_290,54,51802.97,,Sales,48.2,user289@yahoo.com,Houston,Male,TRUE,False
+938,Customer_938,28,44732.23,2018-12-08,IT,48.2,user937@company.com,San Diego,Female,TRUE,False
+781,Customer_781,66,62049.97,,Support,48.2,,Los Angeles,Male,FALSE,True
+539,,40,62359.54,2021-12-04,IT,48.2,user538@gmail.com,Dallas,Male,FALSE,False
+1996,Customer_1996,52,55314.21,2017-01-26,Marketing,48.2,user1995@company.com,Chicago,Other,TRUE,False
+1812,CUSTOMER_1812,53,77596.33,2020-05-21,IT,48.2,user1811@gmail.com,San Diego,Male,FALSE,False
+1455,Customer_1455,69,45252.68,,Support,48.2,user1454@yahoo.com,Los Angeles,Male,FALSE,False
+1393,Customer_1393,52,51386.33,2022-09-05,Marketing,48.2,user1392@yahoo.com,Dallas,Female,TRUE,False
+219,Customer_219,62,,2018-02-06,Operations,48.2,user218@yahoo.com,Phoenix,Male,TRUE,False
+1961,Customer_1961,33,79552.39,2018-03-11,Operations,48.2,user1960@yahoo.com,San Antonio,Other,FALSE,False
+1669,Customer_1669,47,66059.37,,Sales,48.2,user1668@outlook.com,New York,Male,TRUE,False
+1327,Customer_1327,68,45700.99,2018-03-26,,48.2,user1326@gmail.com,Philadelphia,Male,TRUE,False
+611,Customer_611,51,50371.76,,IT,48.2,user610@company.com,Philadelphia,Female,FALSE,False
+722,Customer_722,43,38774.46,,Sales,48.2,user721@company.com,Philadelphia,Male,FALSE,False
+60,Customer_60,26,28572.04,2015-08-02,Operations,48.2,user59@yahoo.com,San Jose,Female,TRUE,False
+1709,Customer_1709,68,76926.07,,Sales,48.2,USER1349@OUTLOOK.COM,Dallas,Female,TRUE,False
+1406,Customer_1406,47,66411.54,,Sales,48.2,user1405@yahoo.com,Los Angeles,Female,FALSE,False
+74,Customer_74,,56988.49,2016-06-01,Sales,48.2,user73@outlook.com,Phoenix,Female,TRUE,False
+163,Customer_163,40,58869.95,2018-10-26,Sales,48.2,user162@gmail.com,Dallas,Female,FALSE,False
+367,Customer_367,18,61925.45,,Sales,48.2,user366@outlook.com,San Jose,Female,FALSE,False
+533,Customer_533,25,69058.87,2019-04-06,Finance,48.2,user532@yahoo.com,San Diego,Female,TRUE,False
+562,Customer_562,60,48472.65,2019-03-16,Sales,48.2,user561@company.com,Philadelphia,Male,FALSE,False
+1826,Customer_1826,38,,,HR,48.2,user1825@yahoo.com,New York,Other,TRUE,False
+603,Customer_603,26,69227.62,,HR,48.2,user602@yahoo.com,Dallas,Female,TRUE,False
+1965,Customer_1965,43,76517,2020-11-17,Finance,48.2,user1964@outlook.com,,Other,,False
+46,Customer_46,79,62622.85,2019-04-02,Finance,48.2,user45@yahoo.com,San Jose,Male,FALSE,False
+979,Customer_979,35,59468.82,2017-06-01,IT,48.2,user978@gmail.com,Los Angeles,Other,FALSE,False
+355,Customer_355,59,67823.51,2019-11-05,HR,48.2,user354@outlook.com,Dallas,Female,FALSE,False
+1648,Customer_1648,49,71114.01,2022-03-14,Operations,48.2,user1647@company.com,Chicago,Other,TRUE,False
+1001,,,63687.67,,Operations,48.2,user1000@company.com,Dallas,Male,FALSE,False
+77,Customer_77,24,49325.61,2016-04-13,IT,48.2,user76@gmail.com,Chicago,Female,TRUE,False
+1947,Customer_1947,25,55625.84,2019-09-08,Marketing Dept,48.2,user1946@outlook.com,Los Angeles,Other,TRUE,False
+1789,Customer_1789,57,57265.18,2021-04-24,Operations,48.2,user1788@gmail.com,Los Angeles,Male,FALSE,False
+681,Customer_681,72,64513.62,,Marketing,48.2,user680@company.com,Houston,Other,FALSE,False
+1332,Customer_1332,43,55381.4,2017-09-03,Sales,48.2,user1331@gmail.com,Chicago,Female,FALSE,False
+983,Customer_983,42,33239.32,2019-10-27,Marketing,48.2,user982@company.com,New York,Other,TRUE,False
+1183,Customer_394,55,38778.71,2018-03-26,Finance,48.2,user393@gmail.com,San Jose,Other,TRUE,False
+837,Customer_837,63,85297.57,2015-09-27,Support,48.2,user836@yahoo.com,Dallas,Female,TRUE,False
+31,Customer_31,50,61901.13,2020-12-27,Sales,48.2,user30@gmail.com,Chicago,Male,FALSE,False
+1107,Customer_1107,22,,2020-09-09,Finance,48.2,user1106@outlook.com,Dallas,Other,TRUE,False
+1612,Customer_1612,23,76886.61,2016-05-27,Marketing,48.2,user1611@gmail.com,Chicago,Male,FALSE,False
+716,Customer_716,52,52431.26,2018-05-31,IT,48.2,user715@gmail.com,Phoenix,Male,FALSE,False
+977,Customer_977,78,69440.03,2019-08-24,IT,48.2,user976@company.com,San Jose,Female,TRUE,False
+1557,Customer_1557,57,47453.79,2015-04-18,IT,48.2,user1556@company.com,Chicago,Other,FALSE,False
+825,Customer_825,28,42799.68,2019-07-04,Finance,48.2,user824@gmail.com,New York,Other,TRUE,False
+1958,Customer_1958,64,59940.6,2021-10-04,Finance,48.2,user1957@yahoo.com,San Jose,Other,TRUE,False
+1574,CUSTOMER_1574,72,"$60,563",2021-06-12,IT,48.2,user1573@yahoo.com,Chicago,Male,TRUE,False
+1977,Customer_1977,25,33775.36,,Finance,48.2,user1976@gmail.com,Houston,Male,TRUE,False
+375,Customer_375,72,59743,,Support,48.2,user374@gmail.com,Houston,Male,TRUE,False
+1597,Customer_1597,35,30283.03,,IT,48.2,user1596@outlook.com,San Jose,Other,FALSE,False
+45,Customer_45,32,62028.45,,Finance,48.2,user44@yahoo.com,Chicago,Male,TRUE,False
+1695,Customer_1695,18,76713.8,,Support,48.2,user1694@company.com,New York,Other,FALSE,False
+169,Customer_169,57,54789.44,2015-02-11,Support,48.2,user168@gmail.com,San Jose,Other,FALSE,False
+304,Customer_304,,54598.08,2019-08-01,HR,48.2,user303@company.com,San Diego,Other,TRUE,False
+1966,Customer_1966,38,58856.96,,Sales,48.2,user1965@outlook.com,San Antonio,Male,TRUE,False
+1614,Customer_1614,41,65463.8,2018-05-25,Finance,48.2,user1613@yahoo.com,Los Angeles,Other,FALSE,False
+1955,Customer_1955,58,63732.51,2015-02-07,IT,48.2,user1954@outlook.com,Los Angeles,Female,TRUE,False
+620,Customer_620,18,60464.1,,IT,48.2,user@.com,Phoenix,Female,FALSE,True
+1436,Customer_1436,34,39549.78,2020-10-27,Support,48.2,user1435@company.com,Phoenix,Other,FALSE,False
+721,Customer_721,46,61835.35,2021-01-10,Support,48.2,user720@outlook.com,New York,Male,TRUE,False
+1774,Customer_1774,41,52022.85,2016-07-26,IT,48.2,user1773@gmail.com,San Diego,Other,FALSE,False
+1320,Customer_1320,79,84154.05,,Operations,48.2,user1319@company.com,,Male,TRUE,False
+594,Customer_594,45,57786.51,2016-10-09,Sales,48.2,user593@gmail.com,Chicago,Male,TRUE,False
+1970,Customer_1970,31,54426.83,,Operations,48.2,user1969@gmail.com,Los Angeles,Male,TRUE,False
+1293,Customer_1293,48,51176.5,,Finance,48.2,user1292@outlook.com,,Male,FALSE,False
+1613,Customer_1613,70,0,2022-01-04,Operations,48.2,user1612@yahoo.com,Phoenix,Female,TRUE,False
+1090,Customer_1090,47,33202.52,,HR,48.2,user1089@company.com,Houston,Male,FALSE,False
+508,,34,53265.67,,Operations,48.2,user507@gmail.com,Dallas,Male,TRUE,False
+186,Customer_186,26,63390.39,2018-04-20,Operations,48.2,user185@outlook.com,Houston,Female,TRUE,False
+652,Customer_652,38,47564.55,,IT,48.2,user651@gmail.com,Dallas,Other,FALSE,False
+428,Customer_428,65,50898.04,2020-06-08,Operations,48.2,user427@gmail.com,Los Angeles,Male,TRUE,False
+487,Customer_487,20,17274.42,,Support,48.2,user486@outlook.com,Phoenix,Other,FALSE,False
+1221,,64,38154.09,,Operations,48.2,user1220@gmail.com,San Jose,Other,FALSE,False
+301,Customer_301,23,48123.45,,Sales,48.2,user300@yahoo.com,San Diego,,FALSE,False
+1051,Customer_1051,48,46571.72,2019-06-29,HR,48.2,user1050@outlook.com,New York,Other,TRUE,False
+742,,74,59979.58,2017-06-08,Marketing,48.2,user741@outlook.com,Houston,Male,FALSE,False
+555,Customer_555,39,40098.16,,Finance,48.2,user554@company.com,San Diego,Female,TRUE,False
+1624,Customer_1624,66,32133.77,,IT,48.2,user1623@outlook.com,Chicago,Male,FALSE,False
+1672,,21,39941.63,,Sales,48.2,user1671@gmail.com,Phoenix,Other,TRUE,False
+1963,Customer_1963,34,50127.51,,Finance,48.2,user1962@yahoo.com,Houston,Male,TRUE,False
+1385,Customer_1385,67,42663.53,,IT,48.2,user1384@company.com,Los Angeles,Other,FALSE,False
+999,Customer_999,64,49456.47,2017-04-17,Support,48.2,user998@company.com,Philadelphia,Female,TRUE,False
+176,,64,71126.86,2021-03-24,HR,48.2,user175@yahoo.com,Houston,Male,FALSE,False
+582,Customer_582,57,74676.76,,Marketing,48.2,user581@company.com,San Diego,Other,FALSE,False
+1481,Customer_1481,27,77460.53,2015-05-23,IT,48.2,user1480@outlook.com,Los Angeles,Female,FALSE,False
+1733,Customer_1733,,42296.32,,Sales,48.2,user1732@outlook.com,Los Angeles,Female,TRUE,False
+124,Customer_124,77,47579.45,2016-03-08,IT,48.2,user123@yahoo.com,Phoenix,Male,TRUE,False
+454,Customer_454,78,65416.09,,Finance,48.2,user453@gmail.com,New York,Male,FALSE,False
+412,,78,57163.75,,Operations,48.2,user411@gmail.com,Chicago,Other,TRUE,False
+1007,Customer_1007,44,65317.95,,Finance,48.2,user1006@company.com,Dallas,Other,FALSE,False
+40,,76,45108.8,,Operations,48.2,user39@gmail.com,Chicago,Female,TRUE,False
+807,Customer_807,70,78741.81,2020-01-11,HR,48.2,user806@gmail.com,Los Angeles,Female,FALSE,False
+1924,Customer_1924,76,500000,2022-08-22,Operations,48.2,user1923@outlook.com,New York,Female,FALSE,False
+332,Customer_332,36,72466.52,,IT,48.2,user331@yahoo.com,San Diego,Female,FALSE,False
+1652,Customer_1652,62,"$45,520",2022-09-06,Marketing,48.2,user1651@company.com,Houston,Male,FALSE,False
+195,Customer_195,56,51671.31,,HR,48.2,user194@gmail.com,Philadelphia,Other,FALSE,False
+536,Customer_536,31,64391.15,,Sale,48.2,user535@company.com,New York,Female,TRUE,False
+1572,Customer_1572,18,35687.21,,Marketing,48.2,user1571@company.com,Chicago,Other,FALSE,False
+1739,Customer_1739,38,49617.3,,Sales,48.2,user1738@outlook.com,Phoenix,Female,TRUE,False
+323,Customer_323,,73347.85,2022-06-01,IT,48.2,user322@yahoo.com,Houston,Male,FALSE,False
+1386,Customer_1386,31,74754.38,,IT,48.2,user1385@outlook.com,Chicago,Female,FALSE,False
+267,Customer_267,69,41695.03,,,48.2,user266@gmail.com,Philadelphia,Other,TRUE,False
+671,Customer_671,75,78167.89,2015-11-05,Sales,48.2,user670@outlook.com,San Jose,Female,FALSE,False
+1451,Customer_1451,24,52492.06,2018-04-25,,48.2,user1450@gmail.com,San Antonio,Other,TRUE,False
+68,Customer_68,75,45535.12,2017-10-09,Operations,48.2,user67@company.com,San Jose,Other,TRUE,False
+1260,Customer_1260,25,50369.18,,Operations,48.2,user1259@outlook.com,Los Angeles,,FALSE,False
+549,CUSTOMER_549,75,48906.97,,Sales,48.2,user548@outlook.com,New York,Other,TRUE,False
+1803,Customer_1803,62,56559.08,,Finance,48.2,user1802@outlook.com,San Antonio,Male,FALSE,False
+986,Customer_986,73,53272.41,,Finance,48.2,user985@outlook.com,Chicago,Female,FALSE,False
+1418,Customer_1418,62,79152.57,2018-03-17,,48.2,user1417@outlook.com,San Diego,Male,FALSE,False
+1705,Customer_1705,74,13584.07,,Finance,48.2,user1704@yahoo.com,Chicago,Female,FALSE,False
+1432,Customer_1432,40,46979.27,2020-07-25,Support,48.2,user1431@yahoo.com,New York,Male,FALSE,False
+1638,Customer_1638,18,18889.84,2017-05-13,Sale,48.2,user1637@yahoo.com,Phoenix,Female,TRUE,False
+1817,Customer_1817,54,64589.04,2019-04-07,Operations,48.2,user1816@company.com,San Diego,Female,FALSE,False
+906,Customer_906,62,"$53,249",2020-09-09,IT,48.2,user905@outlook.com,Phoenix,Female,FALSE,False
+1182,Customer_1182,39,38088.65,2018-06-24,Operations,48.2,user1181@outlook.com,New York,Male,FALSE,False
+1658,Customer_1658,35,75949.43,2015-09-03,IT,48.2,user1657@company.com,Houston,Female,TRUE,False
+991,Customer_991,22,70573.59,,Support,48.2,user990@gmail.com,Los Angeles,Male,TRUE,False
+1386,Customer_1517,57,71130.9,2017-12-02,IT,48.2,user1516@yahoo.com,San Antonio,Other,TRUE,False
+893,Customer_893,45,46084.5,,Operations,48.2,user892@yahoo.com,Los Angeles,Female,FALSE,False
+417,Customer_417,55,66013.66,2020-08-03,Marketing,48.2,user416@outlook.com,Phoenix,Other,FALSE,False
+1845,Customer_1845,79,74461.32,2022-06-05,Marketing,48.2,user1844@yahoo.com,San Antonio,Female,TRUE,False
+1554,Customer_1554,68,45786.45,,Sales,48.2,user1553@gmail.com,Houston,Other,TRUE,False
+1603,Customer_1603,76,500000,2018-11-18,HR,48.2,user1602@outlook.com,San Antonio,Male,TRUE,False
+1683,Customer_1683,63,56660.24,,Marketing,48.2,user1682@gmail.com,Los Angeles,Male,FALSE,False
+889,Customer_889,56,51636.17,,Finance,48.2,user888@outlook.com,San Jose,Other,TRUE,False
+744,,27,57127.53,2019-12-27,Finance,48.2,user743@gmail.com,Los Angeles,Other,FALSE,False
+545,Customer_545,40,35907.63,2017-07-20,Marketing,48.2,user544@yahoo.com,San Diego,Male,FALSE,False
+1934,Customer_1934,79,65765.36,2017-03-27,IT,48.2,user1933@yahoo.com,Dallas,Other,FALSE,False
+907,Customer_907,49,,,Support,48.2,user906@yahoo.com,New York,Other,TRUE,False
+932,Customer_932,71,35902.6,,IT,48.2,user931@gmail.com,Chicago,Male,TRUE,False
+262,Customer_262,,43597.76,2022-01-22,IT,48.2,user261@yahoo.com,Houston,Other,TRUE,False
+591,Customer_591,34,71396.03,,Finance,48.2,user590@gmail.com,Los Angeles,Other,TRUE,False
+989,Customer_989,76,67745.75,,Support,48.2,user988@gmail.com,Dallas,Other,FALSE,False
+241,Customer_241,44,34216.22,,Marketing,48.2,user240@company.com,,Other,FALSE,False
+1475,Customer_1475,21,high,2016-10-17,Support,48.2,user1474@outlook.com,San Antonio,Other,TRUE,False
+706,Customer_706,61,60788.27,2022-02-15,IT,48.2,user705@gmail.com,Philadelphia,Female,TRUE,False
+1663,Customer_1663,67,30030.85,,IT,48.2,user1662@yahoo.com,San Jose,Other,TRUE,False
+1101,Customer_1101,77,64847.22,2022-01-30,IT,48.2,user1100@outlook.com,Houston,Male,TRUE,False
+1053,Customer_1053,56,87862.38,2015-11-19,Finance,48.2,user1052@outlook.com,Chicago,Other,TRUE,False
+366,,19,500000,2022-07-16,Finance,48.2,user365@company.com,,Other,FALSE,False
+1037,Customer_1037,26,66973.81,,IT,48.2,user1036@yahoo.com,Dallas,Female,FALSE,False
+1784,Customer_1784,67,60339.66,,Finance,48.2,user1783@gmail.com,Phoenix,Male,TRUE,False
+600,Customer_600,70,21952.59,,HR,48.2,user599@yahoo.com,San Diego,Other,FALSE,False
+1337,Customer_1337,50,77054.81,,Sales,48.2,user1336@outlook.com,Los Angeles,Male,TRUE,False
+515,,,58628,2020-02-15,Sales,48.2,user514@gmail.com,San Diego,Other,TRUE,False
+592,Customer_592,73,63630.54,,HR,48.2,user591@outlook.com,San Antonio,Male,FALSE,False
+72,Customer_72,19,67307.24,,Operations,48.2,user71@yahoo.com,San Diego,Other,TRUE,False
+1024,Customer_1024,55,59579.8,2015-03-18,Operations,48.2,user1023@company.com,Dallas,Male,TRUE,False
+260,Customer_260,32,78190.06,,Operations,48.2,user259@company.com,Houston,Female,FALSE,False
+52,Customer_52,72,57660.63,,Sales,48.2,user51@gmail.com,Philadelphia,Other,FALSE,False
+199,Customer_199,5,50525.45,2019-10-09,Sales,48.2,user198@gmail.com,Houston,Male,TRUE,False
+1241,Customer_1241,79,57772.2,,Sales,48.2,user1240@company.com,San Jose,Other,,False
+1387,Customer_1387,70,42450.58,,Finance,48.2,user1386@outlook.com,Los Angeles,Other,FALSE,False
+333,Customer_333,,75071.73,,Support,48.2,user332@outlook.com,Houston,Female,FALSE,False
+1379,Customer_1379,48,16141.81,,Marketing,48.2,user1378@outlook.com,Phoenix,Male,FALSE,False
+1768,Customer_1768,61,27868.79,2020-04-24,Support,48.2,user1767@company.com,San Jose,Other,FALSE,False
+1461,,47,54578.65,2015-06-23,Support,48.2,user1460@company.com,San Jose,Female,FALSE,False
+589,Customer_589,47,45934.91,,Finance,48.2,user588@gmail.com,Chicago,Male,TRUE,False
+974,,30,"$32,310",,Finance,48.2,user973@yahoo.com,Houston,,TRUE,False
+586,Customer_586,67,,2020-02-26,Finance,48.2,user585@outlook.com,Houston,Female,FALSE,False
+1742,Customer_1742,78,59521.31,2020-08-27,Marketing,48.2,user1741@gmail.com,Phoenix,Male,FALSE,False
+1038,Customer_1038,63,52062.09,2015-03-27,Finance,48.2,user1037@yahoo.com,New York,Female,FALSE,False
+1069,Customer_1069,76,42017.3,2022-03-28,Sales,48.2,user1068@outlook.com,Chicago,Female,FALSE,False
+427,Customer_427,50,65219.44,2022-10-31,Support,48.2,user426@outlook.com,San Jose,Male,FALSE,False
+577,Customer_577,69,59877.65,2022-08-30,Operations,48.2,user576@outlook.com,Los Angeles,Male,TRUE,False
+1904,Customer_1904,60,57983.54,,Sales,48.2,user1903@gmail.com,San Antonio,,TRUE,False
+1263,Customer_1263,61,74060.49,2016-10-25,Support,48.2,user1262@outlook.com,Dallas,Male,TRUE,False
+1002,Customer_1002,38,60224.08,,Finance,48.2,user1001@outlook.com,San Jose,Female,TRUE,False
+1641,Customer_1641,47,59954.36,2021-12-06,Operations,48.2,user1640@yahoo.com,Los Angeles,Other,TRUE,False
+479,Customer_479,77,74651.1,2020-01-04,,48.2,user@domain,Houston,Female,FALSE,True
+737,Customer_737,73,44630.24,2019-07-30,Finance,48.2,user736@yahoo.com,Philadelphia,Male,FALSE,False
+399,Customer_399,65,71047.76,,Finance,48.2,user398@outlook.com,Philadelphia,Male,FALSE,False
+1575,,68,57605.15,2015-10-30,Sales,48.2,user1574@company.com,Los Angeles,Other,TRUE,False
+437,Customer_437,23,73578.25,,HR,48.2,user436@company.com,Dallas,Male,TRUE,False
+193,Customer_193,68,46304.49,2021-07-10,IT,48.2,user192@company.com,Los Angeles,Female,TRUE,False
+1456,Customer_1456,32,57009.4,,Support,48.2,user1455@outlook.com,Houston,Female,TRUE,False
+850,Customer_850,36,,,IT,48.2,user849@company.com,Houston,Other,TRUE,False
+293,,18,57220.48,,IT,48.2,user292@outlook.com,New York,Female,FALSE,False
+950,Customer_950,75,68132.62,,IT,48.2,user949@outlook.com,New York,Female,,False
+1482,Customer_1482,50,47431.71,,Operations,48.2,noemail,Phoenix,Other,TRUE,True
+1657,Customer_1657,36,49053.46,,IT,48.2,user1656@company.com,Dallas,Male,FALSE,False
+1976,,65,63782.36,,Marketing,48.2,user1975@yahoo.com,Philadelphia,Female,FALSE,False
+377,Customer_377,58,56371.51,,Marketing,48.2,user376@outlook.com,New York,Male,TRUE,False
+142,,68,47773.4,2018-01-04,Support,48.2,user141@yahoo.com,San Jose,Female,TRUE,False
+746,Customer_746,26,40010.31,2019-01-25,Marketing,48.2,user745@company.com,San Antonio,Other,TRUE,False
+3,Customer_3,46,23799.74,2015-03-22,Support,48.2,user2@gmail.com,Los Angeles,Other,FALSE,False
+766,,40,80348.4,2015-07-27,Sales,48.2,user765@outlook.com,New York,Male,FALSE,False
+1978,Customer_1978,67,35501.59,2017-02-01,Sales,48.2,user1977@outlook.com,Dallas,Male,TRUE,False
+1176,Customer_1176,44,57178.58,,Operations,48.2,,Philadelphia,Male,FALSE,True
+340,Customer_340,58,81524.47,,Marketing,48.2,user339@company.com,Chicago,Male,TRUE,False
+1462,Customer_1462,56,,,Sales,48.2,user1461@outlook.com,Philadelphia,Other,FALSE,False
+409,Customer_409,71,53796.11,,Finance,48.2,user408@outlook.com,New York,Female,TRUE,False
+1287,Customer_1287,21,59375.96,2020-01-22,Operations,48.2,user1286@gmail.com,San Jose,Male,TRUE,False
+266,Customer_266,58,25717.22,2016-09-03,Support,48.2,user265@outlook.com,Chicago,Male,FALSE,False
+702,Customer_702,50,45002.19,,Support,48.2,user701@company.com,Dallas,Other,FALSE,False
+994,Customer_994,50,56039.41,,Marketing Dept,48.2,user993@yahoo.com,San Jose,Female,FALSE,False
+440,Customer_440,68,58081.43,2019-07-30,Marketing,48.2,user439@yahoo.com,Phoenix,Other,FALSE,False
+272,Customer_272,45,32311.07,2021-04-04,Marketing,48.2,user271@yahoo.com,San Antonio,Male,FALSE,False
+185,Customer_185,44,73977.96,2016-01-17,Operations,48.2,user184@yahoo.com,Los Angeles,Other,FALSE,False
+1245,Customer_1245,30,61922.69,,Marketing,48.2,,Houston,Other,FALSE,True
+245,Customer_245,30,53390.11,,HR,48.2,user244@gmail.com,New York,Other,TRUE,False
+614,Customer_614,71,38994.75,,Finance,48.2,,Dallas,Other,FALSE,True
+1118,Customer_1118,,70909.64,,Sales,48.2,user1117@outlook.com,Chicago,Female,FALSE,False
+446,Customer_446,38,31929.46,,Finance,48.2,user445@gmail.com,Chicago,Male,FALSE,False
+608,Customer_608,,53238.99,,Finance,48.2,user607@yahoo.com,San Jose,Female,FALSE,False
+875,Customer_875,56,58737.98,,,48.2,user874@company.com,Los Angeles,Male,FALSE,False
+1740,Customer_1740,36,55849.43,,Support,48.2,user1739@outlook.com,Chicago,Female,FALSE,False
+1764,,47,53509.3,2015-07-05,Support,48.2,user1763@yahoo.com,Chicago,Female,FALSE,False
+1291,Customer_1291,79,42113.68,2015-08-07,Operations,48.2,user1290@yahoo.com,New York,Male,TRUE,False
+694,Customer_694,50,30080.81,,Support,48.2,user693@company.com,Philadelphia,Other,TRUE,False
+416,Customer_416,21,37150.82,,Operations,48.2,user415@company.com,Chicago,Female,TRUE,False
+274,Customer_274,79,,,IT,48.2,user273@outlook.com,New York,Female,FALSE,False
+745,Customer_745,54,50886.57,2017-08-25,Operations,48.2,user744@gmail.com,Houston,Female,FALSE,False
+1972,Customer_1972,70,16939.17,2016-04-06,Sales,48.2,user1971@gmail.com,San Diego,Other,TRUE,False
+1476,Customer_1476,39,48036.68,2015-05-08,Support,48.2,user1475@outlook.com,Chicago,Other,TRUE,False
+251,Customer_251,44,44713.94,,HR,48.2,user250@gmail.com,Houston,Female,TRUE,False
+414,Customer_414,53,43899.3,,Sales,48.2,user413@yahoo.com,San Jose,Female,FALSE,False
+629,Customer_629,29,54311.79,2017-07-31,IT,48.2,user628@gmail.com,Philadelphia,Female,FALSE,False
+1420,Customer_1420,42,66191.32,,IT,48.2,user1419@gmail.com,San Diego,Other,FALSE,False
+1238,Customer_1238,56,70899.11,2015-06-28,HR,48.2,,Los Angeles,Other,FALSE,True
+311,Customer_311,41,57709.68,,HR,48.2,user310@gmail.com,Los Angeles,Male,FALSE,False
+583,Customer_583,69,40769.17,2020-03-03,Finance,48.2,user582@outlook.com,Los Angeles,Male,FALSE,False
+382,Customer_382,20,45068.31,2020-04-09,IT,48.2,user381@outlook.com,San Antonio,Other,TRUE,False
+1842,Customer_1842,,62979.86,,Support,48.2,user1841@gmail.com,Chicago,Other,,False
+426,Customer_426,34,73061.02,,Finance,48.2,user425@company.com,San Antonio,Female,TRUE,False
+1905,Customer_1905,,32695.96,,Marketing,48.2,user1904@gmail.com,Houston,Other,TRUE,False
+1838,Customer_1838,24,,,Support,48.2,user1837@gmail.com,Phoenix,Male,FALSE,False
+1171,Customer_1171,51,76704,,Marketing,48.2,user1170@gmail.com,San Antonio,Male,TRUE,False
+1375,Customer_1375,55,79248.56,,Support,48.2,user1374@company.com,San Diego,Female,TRUE,False
+708,Customer_708,30,1000000,,Operations,48.2,user707@yahoo.com,New York,Male,FALSE,False
+1600,Customer_1600,44,39895.31,,Sales,48.2,user1599@company.com,Chicago,Male,FALSE,False
+1487,Customer_1487,64,62130.49,,HR,48.2,user1486@yahoo.com,New York,Male,TRUE,False
+927,Customer_927,31,66181.06,,Sales,48.2,user926@company.com,Los Angeles,Female,,False
+1617,Customer_1617,46,42484.54,2016-01-18,Support,48.2,user1616@outlook.com,Chicago,Female,TRUE,False
+183,Customer_183,31,31993.77,2020-01-10,HR,48.2,user182@outlook.com,Philadelphia,Female,FALSE,False
+171,Customer_171,44,45857.57,2017-02-21,HR,48.2,user170@outlook.com,New York,Female,FALSE,False
+573,Customer_573,21,62418.94,,Marketing,48.2,user572@outlook.com,Dallas,Other,FALSE,False
+1252,Customer_1252,62,49093.64,,Sales,48.2,user1251@outlook.com,Dallas,Other,FALSE,False
+1907,Customer_1907,42,77754.2,2016-03-23,Operations,48.2,user1906@outlook.com,Houston,Other,FALSE,False
+29,Customer_29,77,65008.09,,Operations,48.2,user28@gmail.com,San Antonio,Female,TRUE,False
+1382,Customer_1382,79,64352.83,,HR,48.2,user1381@gmail.com,San Antonio,Other,TRUE,False
+1731,Customer_1731,72,63045.67,2015-07-05,Support,48.2,user1730@gmail.com,Phoenix,Male,TRUE,False
+273,Customer_273,29,30449.13,2019-09-01,Marketing,48.2,user272@company.com,Houston,Male,TRUE,False
+1573,Customer_1573,71,56443.91,2019-08-05,Marketing,48.2,user1572@gmail.com,Philadelphia,Male,TRUE,False
+1736,Customer_705,60,40114.86,2015-09-16,Operations,48.2,user704@company.com,Chicago,Other,FALSE,False
+1562,,18,64921.34,,Marketing,48.2,user1561@company.com,San Antonio,Male,TRUE,False
+372,Customer_372,54,69683.4,2020-10-26,Marketing,48.2,user371@company.com,San Diego,Male,TRUE,False
+223,Customer_223,23,101573.01,2018-03-05,IT,48.2,,Los Angeles,Male,TRUE,True
+1809,Customer_1809,,71894.45,,IT,48.2,user1808@yahoo.com,Philadelphia,Other,TRUE,False
+945,Customer_945,29,47300.33,,Financ,48.2,USER1667@YAHOO.COM,Chicago,Female,TRUE,False
+793,Customer_793,69,51987.23,2019-01-07,Operations,48.2,user792@yahoo.com,Los Angeles,Other,FALSE,False
+519,Customer_519,43,30153.51,2022-05-05,,48.2,user518@gmail.com,Philadelphia,Female,FALSE,False
+335,CUSTOMER_335,36,24706.67,,Support,48.2,user334@gmail.com,San Diego,Other,FALSE,False
+1310,Customer_1310,28,35795.97,2022-10-22,Sales,48.2,user1309@outlook.com,New York,Male,FALSE,False
+1685,Customer_1685,77,64235.51,2016-02-01,Sales,48.2,user1684@company.com,San Antonio,Other,TRUE,False
+1424,Customer_1424,56,47093.18,2016-05-24,Support,48.2,user1423@gmail.com,San Diego,Other,FALSE,False
+1404,Customer_1404,31,35150.93,,Support,48.2,user1403@company.com,Chicago,Female,TRUE,False
+16,Customer_16,70,37204.97,2020-06-22,Finance,48.2,user15@gmail.com,Phoenix,Female,FALSE,False
+1660,Customer_1660,31,55006.32,2019-12-06,Marketing,48.2,USER1023@COMPANY.COM,Houston,Male,FALSE,False
+1993,Customer_1993,31,46900.19,2019-06-30,Marketing,48.2,user1992@yahoo.com,San Jose,Female,TRUE,False
+1563,Customer_1563,63,61367.1,2021-03-09,IT,48.2,,Philadelphia,Male,FALSE,True
+1711,Customer_1711,45,60614.17,2021-07-17,Marketing,48.2,user1710@yahoo.com,San Diego,Male,FALSE,False
+618,Customer_618,62,67442.11,,IT,48.2,user617@company.com,Phoenix,Female,TRUE,False
+922,Customer_922,74,,,Marketing,48.2,USER898@OUTLOOK.COM,San Jose,Male,FALSE,False
+466,Customer_466,70,37672.3,,Sales,48.2,user465@yahoo.com,Chicago,Other,FALSE,False
+1266,Customer_1266,58,35108.57,2016-07-20,Marketing,48.2,user1265@outlook.com,New York,Other,TRUE,False
+200,Customer_200,21,87454.85,,sales,48.2,user199@company.com,Dallas,Male,FALSE,False
+1224,Customer_1224,35,69038.22,,IT,48.2,user1223@yahoo.com,Phoenix,Female,FALSE,False
+1466,Customer_1466,55,75067.47,2022-03-04,Finance,48.2,user1465@outlook.com,New York,Male,FALSE,False
+1538,,29,52252.13,2015-09-23,IT,48.2,user1537@gmail.com,New York,Other,,False
+1319,Customer_1319,68,62797.97,2017-11-14,Sales,48.2,user1318@gmail.com,New York,Male,FALSE,False
+1712,Customer_1712,64,27422.4,2018-12-16,Support,48.2,user1711@yahoo.com,Chicago,Male,TRUE,False
+1987,Customer_1987,52,59695.75,,Support,48.2,user1986@company.com,New York,Other,TRUE,False
+1421,Customer_1421,35,38718.16,,Operations,48.2,user1420@company.com,Chicago,Other,FALSE,False
+1434,Customer_1434,50,58204.69,,IT,48.2,user1433@company.com,Los Angeles,Male,FALSE,False
+1119,Customer_1119,51,70980.21,2021-11-24,Marketing,48.2,user1118@outlook.com,Chicago,Male,FALSE,False
+1594,Customer_1594,55,87048.39,2016-05-23,Sales,48.2,user1593@yahoo.com,Chicago,Female,FALSE,False
+44,,33,47482.9,2015-07-25,IT,48.2,user43@yahoo.com,San Diego,Female,TRUE,False
+275,Customer_275,56,77420.33,,Sales,48.2,user274@company.com,Houston,Male,FALSE,False
+1114,Customer_1114,34,49631.33,2019-02-19,Sales,48.2,user1113@company.com,Chicago,Male,FALSE,False
+102,Customer_102,79,44441.58,,IT,48.2,user101@gmail.com,Los Angeles,Female,TRUE,False
+887,Customer_887,78,62043.39,,Support,48.2,user886@outlook.com,San Antonio,Female,TRUE,False
+1839,,27,78267.33,,HR,48.2,user1838@yahoo.com,Phoenix,Male,TRUE,False
+1589,Customer_1589,52,85687.26,,Support,48.2,user1588@company.com,Philadelphia,Male,TRUE,False
+108,Customer_108,25,82702.09,2021-09-25,SALES,48.2,user107@yahoo.com,Chicago,Other,FALSE,False
+1076,Customer_1076,54,57127.92,2016-12-11,Operations,48.2,user1075@company.com,Philadelphia,Male,FALSE,False
+498,Customer_498,,46843.31,2020-04-21,Finance,48.2,user497@yahoo.com,San Diego,Male,FALSE,False
+749,Customer_749,66,40689.07,2019-02-13,Operations,48.2,user748@outlook.com,San Jose,Other,TRUE,False
+1129,Customer_1129,68,29671.57,,Operations,48.2,user1128@outlook.com,San Antonio,Female,FALSE,False
+1180,Customer_1180,64,44557.71,2016-08-02,Marketing,48.2,user1179@company.com,Dallas,Male,FALSE,False
+655,Customer_655,50,,2019-08-29,Marketing,48.2,user654@company.com,Chicago,Male,TRUE,False
+1448,Customer_1448,23,47794.34,,Finance,48.2,user1447@outlook.com,Philadelphia,Female,FALSE,False
+1316,Customer_1316,47,66794.69,,IT,48.2,user1315@company.com,Phoenix,Other,FALSE,False
+1673,Customer_1673,18,0,,IT,48.2,user1672@gmail.com,New York,Male,TRUE,False
+965,Customer_965,34,68602.87,2016-10-06,Finance,48.2,user964@company.com,Houston,Other,FALSE,False
+73,Customer_73,37,71555.71,2017-09-04,HR,48.2,user72@outlook.com,Philadelphia,Female,TRUE,False
+768,Customer_768,52,49346.29,,Finance,48.2,USER61@GMAIL.COM,San Jose,Female,FALSE,False
+1232,Customer_1232,54,68524.16,2016-10-26,Support,48.2,user1231@outlook.com,Los Angeles,Female,FALSE,False
+1587,Customer_1587,43,41710.69,2022-03-05,Marketing,48.2,user1586@yahoo.com,San Diego,Other,TRUE,False
+1915,Customer_1915,46,64817.39,2017-07-13,Sales,48.2,user1914@company.com,New York,Male,TRUE,False
+482,Customer_482,78,53555.9,2018-11-14,Marketing,48.2,user481@outlook.com,San Diego,Other,FALSE,False
+1084,,77,41503.18,,Support,48.2,user1083@gmail.com,Chicago,Other,TRUE,False
+507,Customer_507,43,,2016-06-01,HR,48.2,user506@outlook.com,Houston,Male,FALSE,False
+756,Customer_756,49,52461.24,,Finance,48.2,user755@outlook.com,San Diego,Male,FALSE,False
+786,Customer_786,36,76439.86,2017-10-23,HR,48.2,user785@company.com,San Antonio,Male,FALSE,False
+1215,Customer_1215,24,38731.99,,Support,48.2,user1214@yahoo.com,Chicago,Other,FALSE,False
+1940,,38,58735.18,2016-01-02,Finance,48.2,user1939@gmail.com,Phoenix,Other,FALSE,False
+675,Customer_675,22,72953.42,2022-07-25,Marketing,48.2,,Phoenix,Other,TRUE,True
+1623,,38,58957.78,2016-09-23,IT,48.2,user1622@yahoo.com,San Antonio,Female,TRUE,False
+312,Customer_312,22,66276.1,2018-03-26,IT,48.2,user311@company.com,Chicago,Other,TRUE,False
+1756,Customer_1756,20,51649.74,,Operations,48.2,user1755@gmail.com,San Jose,Male,TRUE,False
+406,Customer_406,63,38087.43,,HR,48.2,user405@gmail.com,Houston,Female,TRUE,False
+1828,Customer_1117,41,41468.71,,Support,48.2,user1116@company.com,New York,Other,TRUE,False
+1161,Customer_1161,78,38465.8,2015-08-03,Marketing,48.2,user1160@gmail.com,Phoenix,Male,TRUE,False
+310,Customer_310,55,51105.91,,Support,48.2,user309@yahoo.com,Chicago,Female,TRUE,False
+227,Customer_227,61,53757.24,2017-07-20,Support,48.2,user226@company.com,San Jose,Female,TRUE,False
+1724,,21,45088.87,,Marketing,48.2,user1723@gmail.com,Los Angeles,Female,TRUE,False
+1006,Customer_1006,76,70438.33,,Finance,48.2,user1005@yahoo.com,New York,Other,TRUE,False
+1552,Customer_1552,26,35829.12,,Operations,48.2,,San Antonio,Male,FALSE,True
+1850,Customer_1850,71,62449.97,2016-12-10,Marketing,48.2,user1849@yahoo.com,Dallas,Other,TRUE,False
+846,Customer_846,22,56344.93,,Support,48.2,user845@gmail.com,New York,Other,TRUE,False
+149,Customer_149,57,60482.6,2020-03-18,Operations,48.2,user148@outlook.com,Chicago,Female,FALSE,False
+638,Customer_638,45,78986.84,,Operations,48.2,user637@company.com,Dallas,Other,TRUE,False
+728,CUSTOMER_728,58,55730.12,2021-01-21,Support,48.2,user727@outlook.com,Chicago,Male,TRUE,False
+1133,Customer_1133,72,59901.98,,HR,48.2,user1132@outlook.com,San Diego,Other,TRUE,False
+833,Customer_833,,37873.54,,IT,48.2,user832@company.com,Chicago,Female,TRUE,False
+1199,Customer_1199,64,72254.44,,HR,48.2,user1198@outlook.com,Phoenix,Male,TRUE,False
+576,Customer_576,49,57499.79,,Sales,48.2,user575@company.com,San Diego,Female,FALSE,False
+558,Customer_558,47,70494.32,2018-08-21,Support,48.2,user557@yahoo.com,San Diego,Male,TRUE,False
+711,Customer_711,63,41432.28,2019-07-31,HR,48.2,user710@gmail.com,,Male,FALSE,False
+1279,Customer_1279,50,92008.06,2016-10-18,IT,48.2,user1278@company.com,Los Angeles,Male,TRUE,False
+1376,,72,38519.46,,Sales,48.2,user1375@company.com,Chicago,Other,FALSE,False
+1179,Customer_1179,74,"$74,306",,Support,48.2,user1178@company.com,New York,Female,FALSE,False
+1507,Customer_1507,53,44359.32,2017-10-19,Support,48.2,user1506@company.com,Philadelphia,Other,FALSE,False
+1390,Customer_1390,26,50233.29,,Marketing,48.2,user1389@company.com,San Diego,Other,FALSE,False
+287,Customer_287,45,41783.39,2021-12-18,Marketing,48.2,user286@company.com,Houston,Other,TRUE,False
+1628,Customer_1628,58,38072.9,2018-10-14,Support,48.2,user1627@outlook.com,San Diego,Female,FALSE,False
+753,Customer_753,35,47796.96,2015-09-06,Support,48.2,user752@gmail.com,San Diego,Male,TRUE,False
+599,Customer_599,43,73660.51,,Operations,48.2,user598@gmail.com,Phoenix,Other,TRUE,False
+951,Customer_951,45,49171.39,,Sale,48.2,user950@outlook.com,Philadelphia,Female,FALSE,False
+1008,Customer_1008,66,61294.98,,Operations,48.2,user1007@yahoo.com,Houston,Female,FALSE,False
+1661,Customer_1661,,35627.33,2019-08-30,Operations,48.2,user1660@company.com,Phoenix,Female,TRUE,False
+1611,Customer_1611,69,,2018-01-29,HR,48.2,user1610@company.com,San Antonio,Male,TRUE,False
+1055,Customer_1055,75,49614.66,2018-06-24,Finance,48.2,user1054@outlook.com,Philadelphia,Male,FALSE,False
+1248,,21,45871.21,,HR,48.2,user1247@gmail.com,New York,Other,TRUE,False
+649,Customer_649,43,48637.01,2021-07-01,Sales,48.2,user648@gmail.com,Los Angeles,Female,FALSE,False
+923,Customer_923,35,32924.63,2021-11-18,Finance,48.2,user922@company.com,Phoenix,Male,FALSE,False
+1303,Customer_1303,53,43552.77,2022-04-16,Sales,48.2,user1302@company.com,Houston,Other,TRUE,False
+1222,,77,-10000,2021-01-19,Support,48.2,user1221@company.com,Philadelphia,Female,TRUE,False
+783,Customer_783,29,70181.02,,Ops,48.2,user782@yahoo.com,Los Angeles,Female,FALSE,False
+610,Customer_610,64,63614.63,2017-08-29,Finance,48.2,user609@outlook.com,Los Angeles,Other,FALSE,False
+1059,Customer_1059,20,63652.57,2016-11-19,IT,48.2,user1058@company.com,San Diego,Male,TRUE,False
+813,Customer_813,70,56291.09,2020-08-25,IT,48.2,user812@gmail.com,Los Angeles,Male,FALSE,False
+1443,Customer_1443,57,41449.85,2017-01-09,IT,48.2,user1442@company.com,New York,Female,TRUE,False
+1121,Customer_1121,70,80782.76,,Finance,48.2,user1120@yahoo.com,Dallas,Other,FALSE,False
+494,,20,61509.51,,Finance,48.2,user493@yahoo.com,New York,Other,FALSE,False
+1339,Customer_1339,66,64937.22,,Operations,48.2,user1338@gmail.com,Philadelphia,Female,TRUE,False
+278,Customer_278,66,81867.16,2020-11-10,Finance,48.2,user277@outlook.com,Philadelphia,Other,TRUE,False
+1876,Customer_1876,22,70627.78,,IT,48.2,user1875@gmail.com,San Jose,Male,FALSE,False
+359,Customer_359,33,68749.43,2015-04-16,IT,48.2,user358@outlook.com,Phoenix,Female,FALSE,False
+1570,Customer_1570,40,60679.99,,Sales,48.2,user1569@yahoo.com,Chicago,Female,FALSE,False
+237,Customer_237,26,-10000,,Finance,48.2,user236@gmail.com,San Antonio,Male,TRUE,False
+552,Customer_552,39,39302.83,2019-12-23,Operations,48.2,user551@outlook.com,Philadelphia,Other,FALSE,False
+1897,Customer_1897,26,57903.54,,HR,48.2,user1896@company.com,New York,Male,FALSE,False
+916,Customer_916,77,62428.19,2016-04-15,HR,48.2,user915@company.com,Phoenix,Male,FALSE,False
+209,Customer_209,53,42349.4,2016-05-09,Finance,48.2,user208@gmail.com,Chicago,Female,FALSE,False
+1407,Customer_1407,52,$60k,2015-06-21,Operations,48.2,user1406@company.com,Phoenix,Male,TRUE,False
+467,Customer_1584,69,60173.46,2018-11-12,Finance,48.2,user1583@outlook.com,Chicago,Other,FALSE,False
+59,Customer_59,38,52285.14,2021-01-18,Finance,48.2,user58@gmail.com,San Antonio,Female,FALSE,False
+632,Customer_632,,72032.28,2017-06-16,Finance,48.2,user631@outlook.com,San Antonio,Female,TRUE,False
+1608,Customer_1608,41,78111.79,,Sales,48.2,user1607@outlook.com,Dallas,Female,TRUE,False
+1993,Customer_1889,76,43441.48,,IT,48.2,,Phoenix,Female,FALSE,True
+1601,Customer_1601,34,35559.65,,Marketing,48.2,user1600@gmail.com,New York,Female,TRUE,False
+364,Customer_364,77,33857.33,,Operations,48.2,user363@yahoo.com,Phoenix,Other,TRUE,False
+506,,19,59525.84,2015-06-01,IT,48.2,user505@gmail.com,Los Angeles,Other,FALSE,False
+1981,Customer_1981,46,-10000,,,48.2,user1980@outlook.com,Phoenix,Male,FALSE,False
+1139,Customer_1139,25,41359.53,,HR,48.2,user1138@gmail.com,Dallas,Other,TRUE,False
+1627,Customer_1627,37,63807.07,2021-10-14,Operations,48.2,user1626@gmail.com,Los Angeles,Female,FALSE,False
+1234,Customer_1234,27,48564.22,2022-10-08,Sales,48.2,user1233@gmail.com,San Jose,Male,TRUE,False
+1646,Customer_1646,36,49905.98,,Operations,48.2,user1645@gmail.com,Houston,,TRUE,False
+1890,,62,48988.97,,,48.2,user1889@yahoo.com,Dallas,Other,FALSE,False
+944,Customer_944,55,53736.11,,Marketing,48.2,user943@yahoo.com,Chicago,Female,FALSE,False
+119,,64,65174.49,,Sales,48.2,user118@yahoo.com,San Antonio,Female,TRUE,False
+1822,Customer_1822,40,72433.01,2021-06-03,Operations,48.2,user1821@yahoo.com,Chicago,Female,FALSE,False
+782,,53,83720.68,,Marketing,48.2,user781@gmail.com,Philadelphia,Female,FALSE,False
+523,Customer_523,41,46561,2017-12-21,SALES,48.2,user522@company.com,Houston,Female,FALSE,False
+514,Customer_514,65,55541.65,,Sales,48.2,user513@yahoo.com,San Diego,Other,TRUE,False
+82,Customer_82,,43862.28,2017-11-15,Marketing,48.2,user81@outlook.com,San Antonio,Other,FALSE,False
+1891,Customer_1891,60,51930.67,2015-06-22,Finance,48.2,user1890@yahoo.com,New York,Female,TRUE,False
+1034,Customer_1034,34,,2019-09-07,Support,48.2,user1033@yahoo.com,San Antonio,Other,FALSE,False
+381,Customer_381,33,69234.1,2016-01-09,HR,48.2,user380@yahoo.com,San Antonio,Male,TRUE,False
+1044,,79,45284.68,2019-01-22,Marketing,48.2,user1043@company.com,New York,Male,TRUE,False
+1714,Customer_1714,51,28259.43,,Finance,48.2,user1713@yahoo.com,Phoenix,Female,TRUE,False
+85,Customer_85,53,70603.09,2021-10-17,IT,48.2,user84@outlook.com,Chicago,Other,FALSE,False
+1703,Customer_1703,25,43494.74,,Finance,48.2,user1702@yahoo.com,Houston,Female,FALSE,False
+988,Customer_988,67,46272.43,2021-08-26,Operations,48.2,user987@company.com,San Diego,Male,TRUE,False
+330,Customer_330,76,41512.58,,Marketing,48.2,user329@outlook.com,,Other,TRUE,False
+7,,78,85635.95,,Support,48.2,user6@yahoo.com,Chicago,Male,FALSE,False
+760,Customer_760,49,66755.78,2022-06-07,IT,48.2,user759@outlook.com,Los Angeles,Male,FALSE,False
+773,Customer_773,79,61690,,IT,48.2,user772@company.com,San Jose,Other,TRUE,False
+933,Customer_933,71,73579.48,,HR,48.2,user932@gmail.com,Philadelphia,Other,TRUE,False
+1844,Customer_1844,45,66009.84,2018-08-24,Marketing,48.2,user1843@company.com,Phoenix,Other,FALSE,False
+452,Customer_452,22,28059.57,2018-01-24,Finance,48.2,user451@company.com,Chicago,Other,FALSE,False
+491,,48,60595.88,,Operations,48.2,user490@yahoo.com,Phoenix,Male,TRUE,False
+1504,Customer_1504,48,61810.21,2018-07-11,Marketing Dept,48.2,user1503@outlook.com,Chicago,Female,FALSE,False
+288,Customer_288,71,79239.38,2015-09-04,Sales,48.2,user287@company.com,Philadelphia,Other,FALSE,False
+1854,Customer_1854,70,67245.09,2021-02-15,HR,48.2,user1853@company.com,New York,Other,FALSE,False
+1356,Customer_1356,,66595.2,2017-02-06,Finance,48.2,user1355@company.com,Phoenix,Male,TRUE,False
+1388,Customer_1388,73,fifty thousand,2018-12-14,H R,48.2,user1387@company.com,San Antonio,Other,FALSE,False
+808,Customer_808,40,59120.22,,HR,48.2,user807@company.com,New York,Male,TRUE,False
+1360,Customer_1360,27,"$44,189",2020-11-14,Operations,48.2,user1359@yahoo.com,Chicago,Female,TRUE,False
+963,Customer_963,44,51885.53,,Operations,48.2,user962@yahoo.com,San Antonio,Male,FALSE,False
+1727,CUSTOMER_1727,71,61730.35,2017-12-19,Sales,48.2,user1726@company.com,Philadelphia,Female,TRUE,False
+814,Customer_814,59,64581.75,,Finance,48.2,user813@gmail.com,Dallas,Female,TRUE,False
+1484,Customer_1484,55,56996.41,,IT,48.2,user1483@company.com,Philadelphia,Male,FALSE,False
+939,Customer_939,29,82910.27,2015-01-26,Operations,48.2,user938@yahoo.com,San Jose,Male,TRUE,False
+1104,,59,47988.48,,Operations,48.2,user1103@company.com,Los Angeles,Other,TRUE,False
+1675,Customer_1675,46,51866.07,,HR,48.2,user1674@outlook.com,Phoenix,Female,FALSE,False
+328,,37,49128.62,,HR,48.2,user327@company.com,Houston,Female,FALSE,False
+443,Customer_443,44,80344.55,,HR,48.2,user442@yahoo.com,Los Angeles,Other,FALSE,False
+1478,Customer_1478,27,78534.02,2021-10-24,IT,48.2,user1477@yahoo.com,San Jose,Female,FALSE,False
+1095,Customer_1095,69,58028.49,2018-07-18,Sales,48.2,,Chicago,Female,FALSE,True
+943,Customer_943,25,80827.77,,IT,48.2,user942@company.com,Dallas,Other,FALSE,False
+1433,Customer_1433,32,33719.37,2022-10-05,Finance,48.2,user1432@yahoo.com,New York,Other,TRUE,False
+178,Customer_178,20,40318.5,2022-09-29,Operations,48.2,user177@company.com,Los Angeles,Other,FALSE,False
+1341,Customer_1341,64,67493.49,2021-01-04,Finance,48.2,user1340@company.com,Phoenix,Female,FALSE,False
+1365,Customer_1365,19,52447.31,,Finance,48.2,user1364@outlook.com,Chicago,Other,FALSE,False
+87,Customer_87,57,58444.42,2016-04-14,Operations,48.2,user86@gmail.com,Los Angeles,Other,TRUE,False
+1429,Customer_1429,78,51730.72,2019-05-03,Marketing,48.2,user1428@gmail.com,Phoenix,Female,FALSE,False
+1930,Customer_1930,72,35979.79,,Finance,48.2,user1929@yahoo.com,San Diego,Female,FALSE,False
+458,Customer_458,52,50498.59,2021-03-07,HR,48.2,user457@yahoo.com,Dallas,Male,TRUE,False
+1857,Customer_1857,43,29500.6,2022-08-20,Marketing,48.2,user1856@company.com,Philadelphia,Other,FALSE,False
+55,Customer_55,20,88535.12,,Operations,48.2,user54@gmail.com,New York,Male,FALSE,False
+1525,Customer_1525,60,28324.74,2017-03-30,Finance,48.2,user1524@outlook.com,Houston,Female,TRUE,False
+644,Customer_644,79,59710.79,2022-04-01,Sales,48.2,user643@company.com,Chicago,Female,FALSE,False
+678,Customer_678,33,,,IT,48.2,user677@outlook.com,Philadelphia,,TRUE,False
+222,Customer_222,70,66521.86,,HR,48.2,user221@gmail.com,New York,Male,FALSE,False
+114,Customer_114,57,52471.66,2019-10-21,HR,48.2,user113@gmail.com,New York,Other,TRUE,False
+1974,Customer_1974,26,47739.26,2016-10-27,HR,48.2,user1973@outlook.com,San Antonio,Male,TRUE,False
+1246,Customer_1246,37,68552.21,2020-01-13,Finance,48.2,user1245@outlook.com,Dallas,Female,FALSE,False
+1895,Customer_1895,19,30214.49,2019-12-17,Sales,48.2,user1894@company.com,San Jose,Male,FALSE,False
+175,Customer_175,54,47933.38,,Finance,48.2,user174@outlook.com,Philadelphia,Female,TRUE,False
+1147,Customer_1147,,86235.23,2019-11-29,Marketing,48.2,user1146@outlook.com,Houston,Female,TRUE,False
+590,Customer_590,36,53862.74,,Operations,48.2,user589@outlook.com,Los Angeles,Female,TRUE,False
+1583,Customer_1583,27,37211.33,2020-10-20,IT,48.2,user1582@company.com,San Diego,Male,FALSE,False
+19,Customer_19,41,44834.36,,Support,48.2,user18@gmail.com,Phoenix,Male,TRUE,False
+424,Customer_424,24,,2016-06-20,Marketing,48.2,user423@gmail.com,Los Angeles,Male,FALSE,False
+1362,Customer_1362,19,fifty thousand,2015-10-05,HR,48.2,user1361@yahoo.com,Houston,Other,TRUE,False
+458,,19,41581.55,,Sales,48.2,user285@outlook.com,New York,Male,TRUE,False
+1607,Customer_1607,71,34263.1,,HR,48.2,user1606@gmail.com,,Female,FALSE,False
+429,Customer_429,29,43770.47,,Support,48.2,user428@company.com,Dallas,,TRUE,False
+1533,Customer_1533,50,69512.32,,Operations,48.2,user1532@gmail.com,Los Angeles,Female,TRUE,False
+765,,30,60269.33,2015-03-29,IT,48.2,user764@yahoo.com,Houston,Other,TRUE,False
+670,Customer_670,36,63758.29,2020-04-02,Marketing,48.2,user669@gmail.com,Phoenix,Male,TRUE,False
+32,Customer_32,29,51254.03,2015-04-21,Marketing,48.2,user31@outlook.com,Los Angeles,Female,FALSE,False
+1861,Customer_1861,57,61683.08,,Support,48.2,user1860@gmail.com,,Other,FALSE,False
+723,Customer_723,27,35084.26,,Support,48.2,user722@gmail.com,San Jose,Male,FALSE,False
+1684,CUSTOMER_1684,51,56885.5,2016-07-31,Finance,48.2,user@domain,Philadelphia,Female,TRUE,True
+215,Customer_215,39,49950.66,,IT,48.2,user214@company.com,Houston,Female,FALSE,False
+830,Customer_830,27,44390.42,,Marketing,48.2,user829@yahoo.com,Phoenix,Male,TRUE,False
+1264,Customer_1264,36,64462.24,,Marketing,48.2,user1263@company.com,Dallas,Female,FALSE,False
+1651,Customer_327,20,66848.5,,Finance,48.2,user326@gmail.com,San Jose,Male,FALSE,False
+561,Customer_561,71,53164.8,,Operations,48.2,user560@gmail.com,Los Angeles,Female,TRUE,False
+1305,Customer_1305,,32129.42,,IT,48.2,user1304@yahoo.com,Phoenix,Male,FALSE,False
+701,Customer_701,18,54700.37,2018-09-05,Finance,48.2,user700@yahoo.com,Houston,Male,TRUE,False
+1164,Customer_1164,23,42064.71,2018-10-02,IT,48.2,,San Antonio,Male,TRUE,True
+1207,Customer_1207,41,52948.25,2015-03-16,Support,48.2,user1206@yahoo.com,San Diego,Other,FALSE,False
+342,Customer_342,57,51514.01,,Support,48.2,user341@outlook.com,San Diego,Other,TRUE,False
+630,,43,85644.77,2021-10-22,Finance,48.2,user629@gmail.com,Chicago,Other,FALSE,False
+148,Customer_148,76,77515.58,,Sales,48.2,user147@yahoo.com,San Antonio,Male,FALSE,False
+1290,Customer_1290,79,67196.1,2019-08-27,Operations,48.2,,Chicago,Other,FALSE,True
+361,Customer_361,65,,2017-07-26,Operations,48.2,user360@gmail.com,San Diego,Other,FALSE,False
+84,Customer_84,34,63915.53,2016-11-18,Support,48.2,user83@company.com,San Antonio,Female,TRUE,False
+49,Customer_49,79,92525.47,,IT,48.2,user48@outlook.com,San Jose,Female,FALSE,False
+469,Customer_469,5,61377.68,2020-09-10,HR,48.2,user468@company.com,Chicago,Female,FALSE,False
+156,Customer_156,26,84479.91,2020-07-17,,48.2,user155@company.com,Chicago,Other,TRUE,False
+788,Customer_788,26,63273.39,2016-03-26,Operations,48.2,user787@company.com,San Antonio,Female,FALSE,False
+1636,Customer_1636,66,50002.43,2017-12-20,Finance,48.2,user1635@outlook.com,San Antonio,Female,TRUE,False
+1786,Customer_1786,34,55119.95,,Operations,48.2,user1785@gmail.com,Chicago,Female,FALSE,False
+1423,Customer_1423,25,80253.2,,HR,48.2,user1422@company.com,Philadelphia,Female,TRUE,False
+1405,Customer_1405,77,45887.1,2015-06-29,Sales,48.2,USER871@GMAIL.COM,Houston,Male,TRUE,False
+1654,Customer_1654,,74080.88,,Marketing,48.2,user1653@outlook.com,New York,,FALSE,False
+501,Customer_501,23,56848.45,2019-05-01,Support,48.2,user500@yahoo.com,New York,Other,FALSE,False
+1791,Customer_1791,62,78191.35,,Sales,48.2,user1790@gmail.com,San Antonio,Male,TRUE,False
+180,Customer_180,22,56991.71,,Marketing,48.2,user179@yahoo.com,San Antonio,Female,FALSE,False
+1062,Customer_1062,29,55663.89,2022-02-06,HR,48.2,user1061@company.com,Dallas,Female,FALSE,False
+1782,Customer_1782,49,72700.68,2021-08-28,IT,48.2,user1781@gmail.com,Chicago,Male,TRUE,False
+915,Customer_915,28,67651.21,2019-02-14,IT,48.2,user914@outlook.com,Dallas,Male,FALSE,False
+1855,Customer_1855,,48840.48,2018-12-22,Marketing,48.2,user1854@company.com,Los Angeles,Female,TRUE,False
+1174,Customer_1174,43,33406.54,2021-10-04,IT,48.2,user1173@yahoo.com,Houston,Female,FALSE,False
+1643,Customer_1643,68,1000000,,Sales,48.2,user1642@company.com,San Jose,Male,TRUE,False
+529,Customer_529,53,36538.37,2015-11-25,Support,48.2,user528@yahoo.com,Philadelphia,Male,TRUE,False
+347,Customer_347,28,64335.95,2018-01-20,Marketing,48.2,user346@company.com,Chicago,Female,FALSE,False
+1408,Customer_1408,38,33147.43,2018-07-16,IT,48.2,user1407@yahoo.com,,Female,FALSE,False
+1991,,56,42040.61,,Sales,48.2,user1990@yahoo.com,Philadelphia,Female,FALSE,False
+937,Customer_937,74,67785.27,2018-10-23,Sales,48.2,user936@yahoo.com,San Antonio,Other,TRUE,False
+1030,Customer_1030,25,66427.06,2021-06-06,Sales,48.2,user1029@outlook.com,Phoenix,Male,FALSE,False
+602,,40,52829.04,2022-09-28,Operations,48.2,user601@company.com,Chicago,Female,FALSE,False
+1064,Customer_1064,71,56941.17,,HR,48.2,user1063@yahoo.com,Chicago,Female,FALSE,False
+244,Customer_244,69,60678.53,2016-02-25,Operations,48.2,user243@outlook.com,Philadelphia,Female,TRUE,False
+1453,Customer_1453,25,80038.43,2020-01-01,Operations,48.2,user1452@yahoo.com,San Diego,Other,TRUE,False
+1990,Customer_1990,59,43762.85,2020-10-11,Operations,48.2,user1989@gmail.com,Chicago,Male,TRUE,False
+1499,,21,48733.3,2021-06-08,Support,48.2,user1498@gmail.com,Phoenix,Female,TRUE,False
+313,Customer_313,69,,2022-12-05,HR,48.2,user312@company.com,San Jose,Female,,False
+436,CUSTOMER_436,47,31727.04,,Operations,48.2,user435@gmail.com,Dallas,Male,TRUE,False
+1929,Customer_1929,,52312.75,,Support,48.2,user1928@gmail.com,Chicago,Male,FALSE,False
+953,Customer_953,43,49765.23,2019-09-16,Sales,48.2,user952@gmail.com,San Jose,Female,TRUE,False
+309,Customer_309,34,,,Support,48.2,user308@yahoo.com,Houston,Female,FALSE,False
+431,Customer_431,,,,Support,48.2,user430@outlook.com,,Female,TRUE,False
+661,Customer_661,27,63949.66,,Support,48.2,user660@yahoo.com,San Jose,Other,TRUE,False
+371,Customer_371,22,91836.64,2020-04-11,IT,48.2,user370@company.com,Chicago,Other,FALSE,False
+567,Customer_567,,49156.05,2019-08-15,,48.2,user566@outlook.com,Phoenix,Male,FALSE,False
+1000,Customer_1000,66,38147.26,,Marketing,48.2,user999@outlook.com,Houston,Female,FALSE,False
+182,Customer_182,72,75747.18,2020-07-03,Finance,48.2,user181@gmail.com,New York,Female,TRUE,False
+1622,Customer_1622,67,75199.99,,IT,48.2,USER697@GMAIL.COM,Houston,Male,FALSE,False
+622,Customer_622,78,58025.51,,IT,48.2,user621@gmail.com,Los Angeles,Male,TRUE,False
+835,Customer_835,55,,2021-10-27,Support,48.2,user834@yahoo.com,San Diego,Male,FALSE,False
+1348,Customer_1348,28,39524.24,,IT,48.2,user1347@gmail.com,San Antonio,Other,FALSE,False
+1795,CUSTOMER_1795,71,53043.1,2022-07-22,Finance,48.2,user1794@outlook.com,San Diego,Other,TRUE,False
+1442,Customer_1442,70,49519.56,2021-10-03,Finance,48.2,user1441@yahoo.com,Houston,Female,TRUE,False
+1869,Customer_1869,71,83451.07,2018-05-04,HR,48.2,,San Jose,Female,TRUE,True
+1495,Customer_941,49,42877.87,,IT,48.2,user940@outlook.com,Phoenix,Other,FALSE,False
+1223,Customer_1223,62,40535.58,2020-11-26,HR,48.2,user1222@outlook.com,Houston,Male,FALSE,False
+297,Customer_297,70,44009.74,,HR,48.2,user296@yahoo.com,San Antonio,Male,TRUE,False
+1262,Customer_1262,66,54076.85,2019-09-11,Support,48.2,user1261@gmail.com,San Antonio,,FALSE,False
+462,Customer_462,45,50767.29,2021-09-21,Finance,48.2,user461@company.com,Chicago,Other,FALSE,False
+1321,Customer_1321,74,60568.19,,Support,48.2,user1320@yahoo.com,Houston,Other,TRUE,False
+1194,Customer_1194,66,64544.4,,Operations,48.2,user1193@outlook.com,New York,Male,TRUE,False
+378,Customer_378,52,74716.04,2019-11-21,,48.2,user377@outlook.com,Dallas,Other,TRUE,False
+799,Customer_799,22,50466.25,2017-12-22,Support,48.2,user798@outlook.com,Los Angeles,Other,FALSE,False
+1489,Customer_1489,62,41132.54,2021-05-12,IT,48.2,user1488@company.com,Chicago,Female,TRUE,False
+106,Customer_106,65,45943.3,,IT,48.2,user105@yahoo.com,San Antonio,Male,FALSE,False
+127,Customer_127,62,61462.6,2022-02-16,Operations,48.2,user126@yahoo.com,Philadelphia,Female,TRUE,False
+995,Customer_995,25,50596.92,2019-06-07,Operations,48.2,user994@outlook.com,Houston,Other,TRUE,False
+856,Customer_856,69,45756.69,,HR,48.2,user855@company.com,Philadelphia,Other,TRUE,False
+356,Customer_356,52,69691.16,2018-08-13,HR,48.2,user355@gmail.com,Chicago,Male,TRUE,False
+1640,Customer_1640,,44609.03,2019-09-03,Support,48.2,user1639@gmail.com,Los Angeles,Other,TRUE,False
+683,Customer_683,66,58472.69,,Support,48.2,user682@gmail.com,Chicago,Female,FALSE,False
+1380,Customer_1380,5,54265.52,,Support,48.2,user1379@gmail.com,Chicago,Other,FALSE,False
+890,Customer_890,18,46087.35,,IT,48.2,user889@company.com,Houston,Other,FALSE,False
+690,Customer_210,30,54796.76,2017-02-27,Support,48.2,user209@outlook.com,New York,Male,FALSE,False
+987,Customer_987,47,67439.87,2022-08-11,Finance,48.2,user986@outlook.com,San Diego,Other,FALSE,False
+141,Customer_141,,48716.2,2021-08-23,Finance,48.2,user140@company.com,New York,Male,TRUE,False
+1458,Customer_1458,46,42335.81,2019-12-24,Sales,48.2,user1457@company.com,Phoenix,Male,TRUE,False
+1358,Customer_1358,22,44210.2,,Finance,48.2,user1357@company.com,San Jose,Other,TRUE,False
+1122,Customer_1122,19,50693.4,2019-04-24,HR,48.2,user1121@company.com,New York,Female,FALSE,False
+1816,Customer_1816,34,49722.64,,HR,48.2,user1815@company.com,Phoenix,Other,TRUE,False
+1113,Customer_1113,41,59866,,Finance,48.2,user1112@outlook.com,San Antonio,Other,TRUE,False
+1430,Customer_866,36,65982.11,,Support,48.2,user865@company.com,Chicago,Male,TRUE,False
+910,Customer_910,64,76175.64,,Marketing,48.2,user909@gmail.com,Houston,Male,TRUE,False
+712,Customer_712,19,50453.61,,Sales,48.2,user711@outlook.com,San Jose,Female,TRUE,False
+1285,Customer_1285,72,59475.66,2016-01-11,Marketing,48.2,user1284@yahoo.com,New York,Male,FALSE,False
+1103,Customer_1103,72,70933.51,,Finance,48.2,user1102@outlook.com,Phoenix,Male,TRUE,False
+1659,Customer_1659,18,77485.52,,HR,48.2,user1658@yahoo.com,New York,Female,TRUE,False
+11,Customer_11,36,70152.05,,HR,48.2,user10@company.com,New York,Male,FALSE,False
+1720,Customer_1720,73,58141.7,2020-04-11,IT,48.2,user1719@yahoo.com,Houston,Female,TRUE,False
+1286,,65,45476.4,2017-06-28,Marketing,48.2,user1285@company.com,San Antonio,Other,TRUE,False
+283,Customer_283,76,36439.88,,HR,48.2,user282@yahoo.com,Dallas,Female,TRUE,False
+811,CUSTOMER_811,56,47537.52,,Marketing,48.2,user810@gmail.com,Houston,Other,FALSE,False
+1108,Customer_1108,46,56280.3,2015-10-31,Finance,48.2,user1107@gmail.com,San Diego,Male,TRUE,False
+292,Customer_292,50,61001.72,,Sales,48.2,user291@company.com,Dallas,Other,FALSE,False
+755,Customer_755,56,57608.74,2018-02-04,Finance,48.2,user754@company.com,Phoenix,Male,TRUE,False
+627,Customer_627,72,59725.61,2020-07-27,Support,48.2,user626@yahoo.com,Los Angeles,Other,TRUE,False
+964,Customer_964,71,28750.33,2016-09-29,HR,48.2,user963@yahoo.com,Dallas,Male,TRUE,False
+880,Customer_880,67,30656.33,2016-01-09,Finance,48.2,user879@yahoo.com,Dallas,Male,FALSE,False
+130,Customer_130,32,78238.14,2016-09-18,Marketing,48.2,user129@gmail.com,San Diego,Other,TRUE,False
+1193,Customer_1193,,38475.07,2019-03-23,HR,48.2,user1192@gmail.com,Chicago,Female,TRUE,False
+844,Customer_844,75,35752.34,,Marketing,48.2,user843@outlook.com,New York,Other,TRUE,False
+324,,38,65413.5,2017-03-21,Support,48.2,user323@outlook.com,Houston,Female,FALSE,False
+1106,Customer_1106,34,63352.62,,Finance,48.2,user1105@yahoo.com,San Diego,Female,TRUE,False
+1477,,19,58807.92,2016-08-07,Support,48.2,user1476@gmail.com,Phoenix,Female,FALSE,False
+1488,Customer_1488,53,52804.86,2019-04-18,Marketing,48.2,user1487@gmail.com,Los Angeles,Female,TRUE,False
+1894,Customer_1894,43,64895.82,,Sales,48.2,user1893@yahoo.com,San Diego,Other,TRUE,False
+1808,Customer_1808,23,59569.54,2021-06-23,Support,48.2,user1807@company.com,Los Angeles,Other,TRUE,False
+696,Customer_696,68,71129.71,,Marketing,48.2,USER726@COMPANY.COM,San Antonio,Other,FALSE,False
+216,Customer_216,45,60276.32,2017-02-23,HR,48.2,user215@yahoo.com,San Diego,Other,FALSE,False
+1642,Customer_1642,40,,,HR,48.2,user1641@gmail.com,New York,Female,TRUE,False
+1945,Customer_1945,33,67151.21,,HR,48.2,user1944@company.com,Los Angeles,Other,,False
+159,Customer_159,51,,2020-06-20,Marketing,48.2,user158@yahoo.com,Dallas,Female,TRUE,False
+1074,Customer_1074,40,72371.66,2017-11-14,HR,48.2,user1073@company.com,Philadelphia,Male,TRUE,False
+1779,Customer_1779,76,63578.17,,Marketing,48.2,user1778@gmail.com,Houston,Other,FALSE,False
+969,Customer_969,37,52222.52,,Operations,48.2,user968@outlook.com,San Antonio,Male,TRUE,False
+842,Customer_842,,50921.32,2021-07-25,Marketing,48.2,user841@company.com,Houston,Male,FALSE,False
+635,Customer_635,74,86934.2,2021-12-18,HR,48.2,user634@outlook.com,Phoenix,Male,FALSE,False
+517,Customer_517,59,65886.5,2016-08-13,Marketing,48.2,user516@gmail.com,San Jose,Other,FALSE,False
+1449,Customer_1449,23,11126.12,,Finance,48.2,user1448@gmail.com,Phoenix,Other,TRUE,False
+1544,Customer_1544,73,51401.52,2022-12-25,Sales,48.2,user1543@gmail.com,New York,Female,FALSE,False
+598,Customer_598,54,72917.98,2021-08-03,IT,48.2,user597@outlook.com,Houston,Male,TRUE,False
+196,Customer_196,66,36782.22,2021-03-17,Finance,48.2,user195@gmail.com,Dallas,Male,TRUE,False
+1667,Customer_1667,66,44785.73,2016-08-11,HR,48.2,user1666@gmail.com,San Diego,Male,TRUE,False
+888,Customer_888,58,39901.59,2015-09-03,Operations,48.2,user887@outlook.com,New York,Female,FALSE,False
+411,Customer_411,33,35322.4,2019-08-20,Support,48.2,,New York,Other,FALSE,True
+97,,35,54303.69,2019-06-13,IT,48.2,user96@company.com,San Diego,Male,TRUE,False
+1658,Customer_1781,40,57319.13,2018-05-10,Operations,48.2,user1780@company.com,New York,Other,TRUE,False
+967,Customer_967,50,67098.46,2015-07-23,Finance,48.2,user966@outlook.com,Los Angeles,Male,FALSE,False
+157,Customer_157,25,84442.34,,Operations,48.2,user156@outlook.com,,Male,TRUE,False
+420,Customer_420,65,31757.03,,Support,48.2,user419@outlook.com,San Jose,Female,FALSE,False
+1831,Customer_1831,44,69138.53,,HR,48.2,user1830@yahoo.com,San Antonio,Male,FALSE,False
+478,Customer_478,52,44219.77,,Operations,48.2,user477@yahoo.com,Chicago,Other,FALSE,False
+1885,Customer_1885,69,51456.46,,Operations,48.2,user1884@outlook.com,San Diego,Other,FALSE,False
+669,Customer_669,75,fifty thousand,,Finance,48.2,user668@outlook.com,Los Angeles,Female,TRUE,False
+1054,Customer_1054,43,34322.06,2019-06-10,Support,48.2,user1053@outlook.com,San Antonio,Female,TRUE,False
+1902,Customer_1902,42,38920.38,,HR,48.2,user1901@yahoo.com,Chicago,Female,FALSE,False
+1318,Customer_1318,55,56966.53,,Marketing,48.2,user1317@company.com,Phoenix,Female,FALSE,False
+448,Customer_448,50,35055.35,,Finance,48.2,user447@company.com,Houston,Male,FALSE,False
+554,Customer_554,75,75514.86,2022-10-13,IT,48.2,user553@yahoo.com,Philadelphia,Male,TRUE,False
+179,Customer_179,18,60278.37,2020-05-04,Finance,48.2,user178@company.com,New York,Female,FALSE,False
+391,Customer_391,66,63689.35,2019-08-14,Marketing,48.2,user@.com,New York,Female,TRUE,True
+579,Customer_579,64,67133.94,2020-07-31,Finance,48.2,user578@outlook.com,Dallas,Female,FALSE,False
+1028,Customer_1028,54,50239.82,,Support,48.2,user1027@company.com,San Diego,Female,TRUE,False
+1732,Customer_1732,65,60498.49,,HR,48.2,,Dallas,Female,TRUE,True
+1306,Customer_1306,23,,2016-07-17,,48.2,user1305@yahoo.com,Dallas,Male,FALSE,False
+1668,Customer_1668,67,41473.28,,HR,48.2,user1667@yahoo.com,New York,Other,TRUE,False
+917,Customer_917,54,55582.98,2018-02-15,Support,48.2,user916@outlook.com,San Jose,Other,TRUE,False
+821,Customer_821,52,73968.68,2022-03-20,Finance,48.2,user820@gmail.com,Philadelphia,Other,FALSE,False
+1853,Customer_1853,68,66089.59,,Operations,48.2,user1852@company.com,Chicago,Other,TRUE,False
+1005,Customer_1005,39,37027.24,2018-09-05,Sales,48.2,user1004@gmail.com,San Diego,Male,FALSE,False
+1068,Customer_1068,47,,,Marketing,48.2,user1067@yahoo.com,New York,Other,FALSE,False
+665,CUSTOMER_665,51,58675.28,,Finance,48.2,user664@outlook.com,San Jose,Other,,False
+1443,Customer_143,34,79397.79,,Sales,48.2,user142@yahoo.com,Los Angeles,Female,FALSE,False
+1616,Customer_1616,66,86585.16,,Operations,48.2,user1615@outlook.com,San Antonio,Male,TRUE,False
+1450,Customer_1450,5,73717.17,2022-05-31,Sales,48.2,user1449@gmail.com,Houston,Male,TRUE,False
+865,,,59150.64,2018-10-20,Finance,48.2,user864@outlook.com,San Antonio,Other,FALSE,False
+422,Customer_422,73,83447.42,2017-12-29,Marketing,48.2,user421@outlook.com,New York,Male,FALSE,False
+637,Customer_637,31,60587.44,,Finance,48.2,user636@yahoo.com,San Jose,Female,FALSE,False
+1753,Customer_1753,28,61282.97,,HR,48.2,user1752@yahoo.com,San Diego,Female,FALSE,False
+800,Customer_800,52,58352.67,2015-08-03,HR,48.2,user799@outlook.com,Chicago,Female,TRUE,False
+1300,Customer_1300,,78477.58,2015-04-26,Finance,48.2,user1299@gmail.com,Dallas,Other,TRUE,False
+616,Customer_616,42,39771.8,,HR,48.2,user615@outlook.com,Houston,Other,FALSE,False
+295,Customer_295,79,61418.06,2022-05-29,Marketing,48.2,user294@yahoo.com,Houston,Male,FALSE,False
+942,Customer_942,33,44267.92,2021-05-08,Operations,48.2,user941@outlook.com,New York,Female,TRUE,False
+1933,Customer_1933,29,58648.67,,Sales,48.2,user1932@company.com,Chicago,Female,FALSE,False
+1653,Customer_89,19,42838.36,,Finance,48.2,user88@yahoo.com,New York,Female,TRUE,False
+42,Customer_42,45,63959.59,,IT,48.2,user41@outlook.com,Phoenix,Female,FALSE,False
+1830,Customer_1830,23,36571.02,,Marketing,48.2,user1829@company.com,Philadelphia,Other,TRUE,False
+1964,Customer_1964,40,64845.36,2021-02-03,Marketing,48.2,user1963@company.com,San Diego,Female,FALSE,False
+132,,18,,,Sales,48.2,user131@company.com,Los Angeles,Other,FALSE,False
+1800,,43,59584.44,,IT,48.2,user1799@outlook.com,Los Angeles,Other,TRUE,False
+1010,Customer_1010,50,63636.7,2016-12-20,Marketing,48.2,user1009@company.com,Los Angeles,Male,TRUE,False
+1085,Customer_1085,51,54391.42,2021-04-28,Finance,48.2,user1084@outlook.com,Chicago,Male,FALSE,False
+1884,Customer_1884,52,54446.81,,Support,48.2,user1883@company.com,Chicago,Other,FALSE,False
+1363,Customer_1363,30,59226.03,,Support,48.2,user1362@yahoo.com,San Antonio,Other,TRUE,False
+1522,Customer_1522,64,55148.97,,Support,48.2,user1521@yahoo.com,San Diego,Female,FALSE,False
+165,Customer_165,,45690.94,,Operations,48.2,user164@gmail.com,San Antonio,Male,FALSE,False
+725,Customer_725,,67751.41,2019-02-28,Marketing,48.2,user724@gmail.com,Chicago,Other,FALSE,False
+291,Customer_291,49,56016.3,,Marketing,48.2,user290@company.com,New York,Female,,False
+1160,Customer_1160,59,43083.61,2021-09-14,,48.2,user1159@gmail.com,New York,Female,FALSE,False
+1559,Customer_1559,39,46615.08,2021-03-19,Marketing,48.2,,Chicago,Male,FALSE,True
+1927,Customer_1927,34,35187.64,,Operations,48.2,user1926@outlook.com,Philadelphia,Other,TRUE,False
+1035,Customer_1035,38,42460.69,,Finance,48.2,user1034@outlook.com,Houston,Male,TRUE,False
+1381,Customer_1381,22,55465.34,,Finance,48.2,user1380@outlook.com,Chicago,Other,FALSE,False
+190,Customer_779,76,42653.23,2016-08-27,Operations,48.2,user778@outlook.com,San Jose,Female,TRUE,False
+840,Customer_840,59,38220.71,,Operations,48.2,user839@yahoo.com,Dallas,Other,FALSE,False
+349,Customer_349,74,56344.12,,Operations,48.2,user348@yahoo.com,New York,Female,FALSE,False
+1975,Customer_1975,68,36148.58,,Sales,48.2,user1974@company.com,New York,Male,TRUE,False
+572,Customer_572,56,59815.78,2016-12-18,Sales,48.2,user571@company.com,San Jose,Female,FALSE,False
+918,Customer_918,53,57314.74,,Finance,48.2,user917@outlook.com,San Diego,Male,FALSE,False
+1203,Customer_1203,43,77218.58,2022-07-09,Support,48.2,,Los Angeles,,TRUE,True
+1917,Customer_1917,55,48435.88,2017-08-11,Finance,48.2,user1916@outlook.com,Los Angeles,Female,TRUE,False
+1491,Customer_1491,69,76850.65,2021-10-14,Support,48.2,user1490@company.com,Chicago,Other,TRUE,False
+1615,Customer_1615,50,54624.87,2021-11-21,Finance,48.2,user1614@company.com,Dallas,Other,FALSE,False
+1336,Customer_1336,,75232.44,2020-02-16,Finance,48.2,user1335@company.com,Philadelphia,Female,FALSE,False
+1873,,41,63879.77,,Support,48.2,user1872@yahoo.com,San Jose,Female,TRUE,False
+137,Customer_137,18,62536.33,,Sales,48.2,user136@outlook.com,San Diego,Male,FALSE,False
+459,Customer_459,66,54699.72,,IT,48.2,user458@company.com,San Antonio,Male,TRUE,False
+376,Customer_376,26,54004.14,2017-01-13,Operations,48.2,user375@yahoo.com,New York,Male,FALSE,False
+1361,Customer_1361,61,64819.81,2019-01-17,HR,48.2,user1360@outlook.com,San Diego,Other,FALSE,False
+334,Customer_334,20,78795.61,,HR,48.2,user333@company.com,Phoenix,Male,FALSE,False
+1325,Customer_1325,25,59681.04,,HR,48.2,user1324@outlook.com,Philadelphia,Male,TRUE,False
+1177,Customer_1177,26,45711.45,,Operations,48.2,user1176@gmail.com,San Antonio,Female,FALSE,False
+1953,,76,67994.8,2018-03-31,Finance,48.2,user1952@outlook.com,San Jose,Male,FALSE,False
+1787,,31,53994.89,,IT,48.2,user1786@company.com,San Jose,Female,FALSE,False
+1952,Customer_1952,32,45452.11,2017-02-02,Operations,48.2,,San Diego,Other,TRUE,True
+817,Customer_817,31,0,,Support,48.2,user816@company.com,Los Angeles,Female,FALSE,False
+1132,Customer_1132,,54264.5,,IT,48.2,user1131@gmail.com,Phoenix,Other,FALSE,False
+606,Customer_606,18,65643,2017-03-26,Support,48.2,user605@outlook.com,Philadelphia,Female,FALSE,False
+1886,Customer_1886,60,,,Marketing,48.2,user1885@yahoo.com,,Male,TRUE,False
+1928,Customer_1928,27,88544.25,,Finance,48.2,user1927@yahoo.com,Los Angeles,Male,FALSE,False
+1335,Customer_1335,36,74379.2,,Operations,48.2,user1334@yahoo.com,Phoenix,Female,TRUE,False
+911,Customer_911,38,54259.35,2017-07-07,HR,48.2,user910@gmail.com,San Antonio,Other,FALSE,False
+1960,Customer_1960,27,25963.52,2018-10-04,Sales,48.2,user1959@outlook.com,Phoenix,Other,TRUE,False
+1226,Customer_1226,55,51794.32,2018-10-11,Marketing,48.2,user1225@outlook.com,San Jose,Other,FALSE,False
+329,Customer_329,77,32963.81,,Marketing,48.2,user328@company.com,Phoenix,Other,FALSE,False
+1690,Customer_1690,49,43291.9,2019-09-09,Sales,48.2,user1689@gmail.com,New York,Other,FALSE,False
+319,Customer_319,33,49982.39,2017-08-14,Support,48.2,user318@gmail.com,San Antonio,Male,TRUE,False
+1553,Customer_1553,71,51312.25,2017-04-03,IT,48.2,user1552@outlook.com,Houston,Female,FALSE,False
+1545,Customer_1545,54,49502.48,2022-12-16,IT,48.2,user1544@yahoo.com,Philadelphia,Female,TRUE,False
+1759,Customer_1759,29,-10000,,Sales,48.2,user1758@outlook.com,Philadelphia,Other,TRUE,False
+168,Customer_168,61,41323.08,2021-03-26,IT,48.2,user167@outlook.com,New York,Other,TRUE,False
+13,Customer_13,28,38588.44,2021-02-14,Support,48.2,user12@yahoo.com,Houston,Other,FALSE,False
+1957,Customer_1957,43,48337.67,,Support,48.2,user1956@yahoo.com,Dallas,Female,TRUE,False
+172,Customer_172,52,37802.63,,Support,48.2,user171@yahoo.com,San Antonio,Other,FALSE,False
+650,Customer_650,43,,2019-02-03,Finance,48.2,user649@gmail.com,San Antonio,Female,TRUE,False
+1524,Customer_1524,63,,,Support,48.2,user1523@gmail.com,Dallas,Female,TRUE,False
+261,Customer_261,76,43495.7,2021-06-21,IT,48.2,user260@outlook.com,San Antonio,Female,FALSE,False
+1231,Customer_1231,72,57845.68,2016-09-23,Finance,48.2,user1230@outlook.com,San Jose,Other,TRUE,False
+1430,Customer_1430,55,38340.22,2018-10-20,Operations,48.2,USER1929@YAHOO.COM,Dallas,Male,FALSE,False
+902,Customer_902,70,60192.67,2018-07-03,,48.2,user901@yahoo.com,Philadelphia,Male,TRUE,False
+673,Customer_673,18,65298.49,,HR,48.2,user672@outlook.com,Houston,Male,FALSE,False
+259,Customer_259,41,30723.13,2020-07-07,Operations,48.2,user258@gmail.com,Phoenix,Male,FALSE,False
+845,Customer_845,19,48603.59,,Support,48.2,user844@company.com,Houston,Other,FALSE,False
+868,Customer_868,,42402.62,,Finance,48.2,user867@gmail.com,San Diego,Other,FALSE,False
+1212,Customer_1212,76,88281.1,,Support,48.2,user1211@gmail.com,Los Angeles,Other,TRUE,False
+139,Customer_139,25,92733.19,2020-03-19,Support,48.2,user138@company.com,Chicago,Male,FALSE,False
+894,Customer_894,79,,,Sales,48.2,user893@company.com,Dallas,Male,TRUE,False
+1866,Customer_1866,56,50161.53,2021-04-04,HR,48.2,user1865@yahoo.com,Chicago,Female,FALSE,False
+550,Customer_550,79,37565.39,,HR,48.2,user549@company.com,Philadelphia,Female,FALSE,False
+320,Customer_320,50,58092.86,,Support,48.2,user319@gmail.com,San Diego,Other,FALSE,False
+1550,Customer_1550,48,69221.82,2020-09-14,Support,48.2,user1549@outlook.com,Chicago,Other,FALSE,False
+1329,Customer_1329,61,57588.91,,Marketing,48.2,user1328@gmail.com,Los Angeles,Other,FALSE,False
+1828,Customer_1828,74,28591.32,2018-07-08,Marketing,48.2,user1827@outlook.com,San Antonio,Male,TRUE,False
+559,Customer_559,23,61243.55,2015-08-18,IT,48.2,user558@yahoo.com,San Antonio,Female,FALSE,False
+140,Customer_140,,30153.79,2019-11-20,HR,48.2,user139@yahoo.com,Chicago,Male,FALSE,False
+1761,Customer_1761,5,70766.43,2019-07-03,Support,48.2,user1760@gmail.com,San Antonio,Female,FALSE,False
+532,Customer_532,18,46593.17,,HR,48.2,user531@gmail.com,New York,Other,FALSE,False
+225,,45,93903.57,,Support,48.2,user224@yahoo.com,San Antonio,Male,TRUE,False
+724,Customer_724,43,54762.7,,Support,48.2,user723@outlook.com,Los Angeles,Male,TRUE,False
+787,Customer_787,29,34931.9,2016-12-15,HR,48.2,user786@yahoo.com,New York,Female,FALSE,False
+1743,Customer_1743,36,66364.94,,IT,48.2,user1742@outlook.com,San Jose,Female,FALSE,False
+1178,Customer_1178,43,59696.78,2021-07-14,Operations,48.2,user1177@outlook.com,San Diego,Female,FALSE,False
+410,Customer_410,52,71399.06,,IT,48.2,user409@outlook.com,Philadelphia,Male,FALSE,False
+326,Customer_326,46,,,Sales,48.2,user325@yahoo.com,,Female,TRUE,False
+1546,Customer_1546,25,35798.12,2022-11-08,HR,48.2,user1545@gmail.com,Philadelphia,Female,FALSE,False
+300,Customer_300,49,42848.9,2021-03-10,Marketing,48.2,user299@yahoo.com,Chicago,Female,FALSE,False
+1281,,39,70031.28,2020-01-15,Sales,48.2,user1280@outlook.com,San Diego,Female,FALSE,False
+1158,Customer_1158,52,75856.41,2018-10-17,Finance,48.2,user1157@gmail.com,Chicago,Female,TRUE,False
+26,Customer_26,47,52979.91,,Sales,48.2,user25@yahoo.com,New York,Male,TRUE,False
+1888,Customer_1888,79,62262.39,,Finance,48.2,user1887@gmail.com,San Antonio,Male,TRUE,False
+715,Customer_715,67,46260.45,,Support,48.2,user714@company.com,San Diego,Other,TRUE,False
+847,Customer_847,46,75341.17,,Support,48.2,user846@outlook.com,Houston,Other,TRUE,False
+194,Customer_194,49,54638.43,,IT,48.2,user193@outlook.com,Philadelphia,Female,FALSE,False
+319,Customer_441,71,34819.47,2016-01-17,IT,48.2,user440@company.com,San Antonio,Female,TRUE,False
+574,Customer_574,23,53250.14,2021-11-01,Finance,48.2,user573@gmail.com,New York,Female,TRUE,False
+947,CUSTOMER_947,45,47231.31,,Support,48.2,user946@yahoo.com,San Antonio,Other,TRUE,False
+998,Customer_998,49,53691.77,,HR,48.2,user997@gmail.com,Dallas,Female,FALSE,False
+504,Customer_504,44,51726.23,,Finance,48.2,user503@yahoo.com,San Jose,Female,FALSE,False
+1190,Customer_1190,43,30732.49,2015-12-14,Sales,48.2,user1189@gmail.com,Houston,Female,TRUE,False
+1903,,42,70818.9,,Operations,48.2,user1902@company.com,San Jose,Female,FALSE,False
+1267,Customer_1814,55,,2020-11-17,Sales,48.2,user1813@yahoo.com,San Diego,Other,FALSE,False
+4,Customer_4,32,35737.89,2021-06-16,Operations,48.2,user3@outlook.com,Chicago,Other,FALSE,False
+1269,Customer_1269,69,69006.76,,sales,48.2,user1268@company.com,Chicago,Female,FALSE,False
+468,Customer_468,52,49054.09,2018-10-24,Marketing,48.2,user467@yahoo.com,San Diego,Other,FALSE,False
+6,Customer_6,25,59767.23,2020-05-07,HR,48.2,user5@gmail.com,Dallas,,FALSE,False
+1394,,52,31815.25,2020-03-18,Operations,48.2,user1393@outlook.com,Chicago,Other,FALSE,False
+548,Customer_548,42,95495.71,2016-02-08,Support,48.2,user547@yahoo.com,Houston,Male,FALSE,False
+1310,,47,77645.89,2017-01-04,Finance,48.2,user228@outlook.com,Los Angeles,Other,FALSE,False
+543,,19,48512.02,,Sales,48.2,user542@yahoo.com,San Diego,Female,TRUE,False
+243,Customer_243,74,15852.37,,Operations,48.2,user242@yahoo.com,Los Angeles,Other,TRUE,False
+899,Customer_899,73,65251.28,2015-07-30,Operations,48.2,user898@outlook.com,Philadelphia,Other,TRUE,False
+1778,Customer_1778,73,46176.45,2016-10-27,HR,48.2,user1777@gmail.com,New York,Other,FALSE,False
+1209,Customer_1209,62,58288.48,,Support,48.2,user1208@gmail.com,Philadelphia,Male,FALSE,False
+1790,Customer_1790,19,50750.99,2018-05-12,IT,48.2,user1789@gmail.com,Houston,Other,FALSE,False
+843,Customer_843,44,55409.84,,Finance,48.2,user842@outlook.com,Los Angeles,Other,FALSE,False
+1702,Customer_1702,78,,2018-06-17,Marketing,48.2,user1701@outlook.com,Houston,Female,FALSE,False
+1713,Customer_1713,,40175.97,2015-07-19,Operations,48.2,user1712@gmail.com,Philadelphia,Male,TRUE,False
+2000,Customer_2000,,60367.58,2017-10-13,Support,48.2,user1999@company.com,Dallas,Other,TRUE,False
+662,Customer_662,71,66542.97,2020-08-17,Operations,48.2,user661@company.com,Phoenix,Female,FALSE,False
+315,Customer_315,23,40149.61,,Support,48.2,,Houston,Other,FALSE,True
+692,Customer_692,77,48822.61,2022-02-28,Operations,48.2,user691@gmail.com,San Antonio,Male,TRUE,False
+1527,Customer_1527,43,39445.73,,Marketing,48.2,user1526@yahoo.com,Los Angeles,Other,TRUE,False
+425,Customer_425,20,60849.41,2018-03-25,IT,48.2,user424@gmail.com,San Antonio,Female,FALSE,False
+595,Customer_595,75,58536.43,,Support,48.2,user594@gmail.com,Philadelphia,Male,FALSE,False
+1994,Customer_1994,48,38620.37,2022-07-04,Finance,48.2,user1993@company.com,Philadelphia,Female,TRUE,False
+623,Customer_623,56,high,,HR,48.2,user622@company.com,Los Angeles,Female,FALSE,False
+1188,Customer_1188,78,66893.99,2021-09-03,Operations,48.2,user1187@gmail.com,Philadelphia,Male,FALSE,False
+1058,Customer_1058,71,53876.34,2018-09-26,Operations,48.2,user1057@gmail.com,San Antonio,Other,FALSE,False
+228,Customer_228,37,49402.52,,,48.2,user227@company.com,New York,Other,TRUE,False
+1135,,48,57420.37,2016-09-09,IT,48.2,user1134@yahoo.com,San Antonio,Male,FALSE,False
+1823,Customer_1823,70,43103.12,2022-11-09,HR,48.2,user1822@yahoo.com,,Male,FALSE,False
+1115,Customer_1115,77,64465.85,,HR,48.2,user1114@yahoo.com,Los Angeles,Female,FALSE,False
+67,Customer_67,67,55683.88,2015-05-08,IT,48.2,user66@yahoo.com,San Diego,Male,TRUE,False
+25,Customer_25,61,54867.04,2022-08-13,SALES,48.2,,Dallas,Other,FALSE,True
+145,Customer_145,52,62707.53,2015-12-21,IT,48.2,user144@gmail.com,Phoenix,Female,TRUE,False
+537,Customer_537,,44008.7,,IT,48.2,user536@yahoo.com,Chicago,Female,FALSE,False
+812,Customer_812,62,44672.45,2020-01-26,IT,48.2,user811@outlook.com,Chicago,Other,FALSE,False
+1767,Customer_1767,70,58994.26,2018-09-26,Sales,48.2,user1766@yahoo.com,Dallas,Male,TRUE,False
+86,Customer_86,,53578.7,,HR,48.2,user85@gmail.com,San Jose,Other,FALSE,False
+1351,Customer_1351,60,44418.62,,Finance,48.2,user1350@company.com,,Female,FALSE,False
+1201,Customer_1201,39,32840.08,,HR,48.2,user1200@outlook.com,Phoenix,Female,FALSE,False
+1086,Customer_1086,55,37320.05,,HR,48.2,user1085@outlook.com,Philadelphia,Male,FALSE,False
+1833,Customer_1833,51,86160.7,2017-04-15,Marketing,48.2,user1832@outlook.com,Houston,Other,FALSE,False
+1936,Customer_1936,,59496.62,2018-08-08,Support,48.2,user1935@company.com,Chicago,Male,,False
+1392,Customer_1392,29,1000000,2016-12-18,Operations,48.2,user1391@company.com,Los Angeles,Other,FALSE,False
+1162,,39,42251.21,2022-01-28,HR,48.2,user1161@outlook.com,,Male,TRUE,False
+363,Customer_363,,53546.71,,Sales,48.2,user362@outlook.com,San Diego,Other,FALSE,False
+1700,Customer_1700,40,39172.32,2020-03-27,Finance,48.2,user1699@gmail.com,Los Angeles,Female,TRUE,False
+1170,Customer_1170,63,41980,,Operations,48.2,user1169@gmail.com,San Antonio,Male,TRUE,False
+1027,Customer_1027,40,50481.17,2018-07-06,Marketing,48.2,user1026@company.com,Phoenix,Male,TRUE,False
+1031,Customer_1031,27,74231.48,2019-07-15,Marketing,48.2,user1030@yahoo.com,Houston,Male,TRUE,False
+1235,Customer_1235,56,57773.51,2022-01-02,HR,48.2,,Houston,Other,FALSE,True
+1515,Customer_1515,79,58840.82,2016-04-27,Support,48.2,user1514@outlook.com,Houston,Male,FALSE,False
+1088,Customer_1088,51,,2022-08-21,IT,48.2,user1087@company.com,New York,Male,TRUE,False
+666,Customer_666,69,52038.56,2020-05-27,Finance,48.2,user665@yahoo.com,Philadelphia,Other,TRUE,False
+365,Customer_365,66,47997.78,2015-03-26,Finance,48.2,user364@outlook.com,San Antonio,Female,FALSE,False
+78,Customer_78,61,63201.69,2021-04-29,HR,48.2,user77@gmail.com,San Antonio,Male,FALSE,False
+28,Customer_28,19,48215.08,2020-03-29,Sales,48.2,user27@yahoo.com,Philadelphia,Female,FALSE,False
+1457,Customer_1457,64,75502.55,2022-09-26,IT,48.2,user1456@gmail.com,Los Angeles,Male,FALSE,False
+526,Customer_526,75,53510.61,,Sales,48.2,user525@gmail.com,San Antonio,Female,FALSE,False
+1898,Customer_1898,,45959.71,,Operations,48.2,user1897@yahoo.com,Houston,Other,FALSE,False
+56,Customer_56,54,45010.92,,Finance,48.2,user55@company.com,Chicago,Male,FALSE,False
+639,,22,71871.98,,IT,48.2,user638@gmail.com,Houston,Male,TRUE,False
+303,Customer_303,72,53457.34,2015-01-11,Sales,48.2,user302@gmail.com,Los Angeles,Other,FALSE,False
+719,Customer_719,43,41393.1,,HR,48.2,user718@company.com,Houston,Other,TRUE,False
+625,Customer_625,39,38282.86,2015-07-20,Operations,48.2,user624@outlook.com,San Jose,Male,FALSE,False
+8,Customer_8,,62277.63,2018-12-11,Sales,48.2,user7@outlook.com,New York,Other,TRUE,False
+804,Customer_804,76,76860.38,,Sales,48.2,user803@yahoo.com,Dallas,Female,FALSE,False
+1050,Customer_1050,45,70767.91,,Support,48.2,user1049@gmail.com,Los Angeles,Other,FALSE,False
+337,Customer_337,49,88182.87,,Sales,48.2,user336@gmail.com,Philadelphia,Male,TRUE,False
+48,Customer_48,64,63572.21,,IT,48.2,,Phoenix,Other,TRUE,True
+1503,Customer_1503,44,40869.01,2019-06-19,Sales,48.2,user1502@yahoo.com,Chicago,Other,TRUE,False
+107,Customer_107,32,51490.14,,HR,48.2,user106@outlook.com,San Diego,Female,FALSE,False
+350,Customer_350,42,37279.09,2020-07-15,Support,48.2,user349@yahoo.com,San Antonio,Male,FALSE,False
+1080,Customer_1080,28,52640.54,,Marketing,48.2,user1079@gmail.com,Phoenix,Male,TRUE,False
+239,Customer_239,18,79854.83,,HR,48.2,user238@company.com,Philadelphia,Female,TRUE,False
+214,Customer_214,68,49447.44,,IT,48.2,user213@company.com,San Antonio,Other,TRUE,False
+1271,Customer_1271,51,67562.62,,Sales,48.2,user1270@outlook.com,New York,Other,TRUE,False
+1315,Customer_1315,66,83235.43,2021-11-25,Sales,48.2,user1314@outlook.com,Chicago,Male,FALSE,False
+794,Customer_794,36,52874.56,,Finance,48.2,user793@yahoo.com,Dallas,Female,FALSE,False
+1097,Customer_1097,55,54725.45,2019-12-07,Operations,48.2,user1096@company.com,Los Angeles,Female,FALSE,False
+1197,Customer_1197,,43165.89,2022-07-07,,48.2,user1196@yahoo.com,Philadelphia,Other,TRUE,False
+1592,Customer_1592,43,76825.91,2020-08-21,Marketing,48.2,user1591@gmail.com,Phoenix,Female,TRUE,False
+1606,Customer_1606,68,52875.85,,Sales,48.2,user1605@outlook.com,Phoenix,Male,TRUE,False
+1697,Customer_1697,72,50136.46,,Finance,48.2,user1696@yahoo.com,Philadelphia,Male,FALSE,False
+524,Customer_524,30,45976.24,2018-10-18,Marketing,48.2,user523@gmail.com,Philadelphia,Other,FALSE,False
+233,Customer_233,72,35841.69,,Finance,48.2,user232@company.com,Phoenix,Male,FALSE,False
+645,CUSTOMER_645,69,45968.42,,Operations,48.2,user644@outlook.com,Dallas,Female,FALSE,False
+1531,Customer_1531,35,70811.93,2019-12-29,HR,48.2,user1530@outlook.com,San Jose,Male,FALSE,False
+534,Customer_534,63,77819.95,2018-07-21,Finance,48.2,user533@company.com,San Antonio,Other,FALSE,False
+1532,Customer_1532,42,77403.74,,HR,48.2,user1531@company.com,Houston,Male,FALSE,False
+604,Customer_604,29,55522.79,,,48.2,user603@company.com,San Diego,Male,FALSE,False
+1227,,52,63404.6,,Sales,48.2,user1226@gmail.com,San Antonio,Male,TRUE,False
+1075,Customer_1075,32,40927.34,,Marketing,48.2,user1074@gmail.com,Phoenix,Male,FALSE,False
+1323,Customer_1323,32,40984.73,,IT,48.2,user1322@gmail.com,Los Angeles,Male,FALSE,False
+61,Customer_61,56,53964.66,,Operations,48.2,user60@yahoo.com,Houston,Female,TRUE,False
+1282,Customer_1282,38,62757.95,,Sales,48.2,user1281@company.com,,Female,FALSE,False
+93,Customer_93,59,50753.36,2018-07-01,Sales,48.2,user92@gmail.com,Dallas,Female,TRUE,False
+667,Customer_667,48,35596.96,2018-04-23,Finance,48.2,user666@company.com,Phoenix,Female,TRUE,False
+281,Customer_281,73,47253.27,2019-12-19,Operations,48.2,user280@yahoo.com,Philadelphia,Female,FALSE,False
+802,Customer_802,42,54672.92,2019-09-21,Operations,48.2,user801@gmail.com,Chicago,Female,TRUE,False
+360,Customer_360,43,52603.8,2016-01-10,Marketing,48.2,user359@company.com,San Antonio,Male,FALSE,False
+1256,Customer_1256,64,28883.96,2019-12-10,Marketing,48.2,user1255@outlook.com,Philadelphia,Male,FALSE,False
+1342,Customer_1342,18,58776.82,2015-03-09,Support,48.2,user1341@company.com,Chicago,Female,TRUE,False
+848,Customer_848,54,43081.59,2020-12-13,IT,48.2,user847@company.com,New York,Female,FALSE,False
+1605,Customer_1605,76,47448.68,,Sales,48.2,user1604@gmail.com,Dallas,,TRUE,False
+111,Customer_111,77,71555,,Operations,48.2,user110@gmail.com,Dallas,Female,FALSE,False
+43,Customer_43,77,53076.83,2017-01-14,IT,48.2,user42@outlook.com,San Antonio,Male,FALSE,False
+126,Customer_126,77,65967.18,,Operations,48.2,user125@company.com,Chicago,Female,FALSE,False
+205,Customer_205,69,52209.15,2018-01-14,Marketing,48.2,user204@company.com,Houston,Male,TRUE,False
+53,Customer_53,69,27537.77,2018-02-13,IT,48.2,user52@yahoo.com,Phoenix,Other,TRUE,False
+546,Customer_546,39,75181.09,2016-01-06,Operations,48.2,user545@gmail.com,Dallas,Female,TRUE,False
+69,Customer_69,26,68612.42,2017-03-27,Finance,48.2,user68@gmail.com,New York,Female,FALSE,False
+1921,Customer_1921,54,57361.72,,Operations,48.2,user1920@yahoo.com,San Antonio,Male,FALSE,False
+1862,Customer_1862,28,71667.99,,HR,48.2,user1861@outlook.com,San Antonio,Other,TRUE,False
+184,Customer_184,56,67916.92,,Operations,48.2,user183@company.com,Houston,Male,TRUE,False
+138,Customer_138,61,80812.45,,Sales,48.2,user137@yahoo.com,Phoenix,,TRUE,False
+900,Customer_900,50,46087.98,,Support,48.2,user899@gmail.com,Los Angeles,Other,FALSE,False
+797,Customer_797,33,42360.7,2015-03-06,Sales,48.2,user796@company.com,Los Angeles,Other,FALSE,False
+133,Customer_133,42,69132.5,,Sales,48.2,user132@yahoo.com,Dallas,Other,TRUE,False
+81,Customer_81,64,37466.56,,Support,48.2,user80@yahoo.com,San Jose,Female,TRUE,False
+1506,Customer_1506,68,48268.48,,Sales,48.2,user1505@gmail.com,Philadelphia,Female,TRUE,False
+1961,Customer_1564,54,52478.6,2016-06-15,IT,48.2,user1563@company.com,New York,Female,TRUE,False
+1237,Customer_542,51,65951.7,2022-01-29,,48.2,user541@yahoo.com,Philadelphia,Male,TRUE,False
+1619,Customer_1619,39,60255.13,2022-03-10,Operations,48.2,user1618@yahoo.com,San Antonio,Other,TRUE,False
+984,Customer_984,19,50248.7,,Operations,48.2,user983@outlook.com,San Antonio,Other,TRUE,False
+166,Customer_166,54,,2022-11-12,IT,48.2,user165@outlook.com,Phoenix,Female,FALSE,False
+249,Customer_249,23,,,IT,48.2,user248@company.com,San Antonio,Male,TRUE,False
+447,Customer_447,47,32506.19,,IT,48.2,user446@company.com,Phoenix,Female,TRUE,False
+1166,Customer_1166,22,61901.06,2018-09-12,Sales,48.2,user1165@company.com,San Jose,Female,FALSE,False
+859,Customer_859,51,47468.45,2021-03-08,Marketing,48.2,USER461@COMPANY.COM,San Jose,Male,FALSE,False
+1229,Customer_1229,32,65408.18,2021-09-12,Marketing,48.2,user1228@yahoo.com,,Male,FALSE,False
+98,Customer_98,43,50051.28,2017-03-23,IT,48.2,user97@outlook.com,San Antonio,Male,TRUE,False
+738,Customer_738,53,21645.82,2018-02-19,Sales,48.2,user737@company.com,San Jose,Male,FALSE,False
+1274,Customer_1274,76,66337.82,,Sales,48.2,user1273@yahoo.com,Houston,Other,TRUE,False
+103,Customer_103,53,,2017-09-21,Finance,48.2,user102@company.com,Los Angeles,Male,FALSE,False
+435,Customer_435,63,72428.85,2016-10-10,Sales,48.2,user434@company.com,Phoenix,Female,FALSE,False
+75,Customer_75,64,57360.42,2020-04-23,HR,48.2,user74@yahoo.com,San Antonio,Other,FALSE,False
+1819,Customer_1819,55,77035.35,,HR,48.2,user1818@outlook.com,Dallas,Male,FALSE,False
+1645,Customer_1645,73,34359.37,2022-01-12,,48.2,user1644@outlook.com,New York,Female,TRUE,False
+919,Customer_919,,85626.19,2017-07-15,Finance,48.2,user918@yahoo.com,Los Angeles,Other,TRUE,False
+1737,Customer_1737,50,62952.87,2019-01-24,IT,48.2,user1736@gmail.com,Philadelphia,Male,FALSE,False
+1747,Customer_1747,54,39740,,Sales,48.2,user1746@gmail.com,Los Angeles,Female,FALSE,False
+1811,Customer_1811,,42985.29,,Support,48.2,user1810@gmail.com,San Jose,Male,TRUE,False
+763,Customer_763,66,52737.47,2022-03-04,Marketing,48.2,user762@yahoo.com,San Diego,Other,TRUE,False
+990,Customer_990,62,46370.65,,Marketing,48.2,user989@gmail.com,Dallas,Other,TRUE,False
+389,Customer_389,69,93190.73,,HR,48.2,user388@outlook.com,Los Angeles,Female,FALSE,False
+236,Customer_236,56,53097.83,2015-07-06,HR,48.2,user235@outlook.com,Philadelphia,Female,TRUE,False
+1558,,58,36248.97,2019-01-18,Operations,48.2,user1557@outlook.com,Los Angeles,Female,FALSE,False
+268,Customer_268,,61362.11,2018-05-29,HR,48.2,user267@company.com,San Diego,Other,FALSE,False
+1205,,40,63970.87,,IT,48.2,user1204@company.com,Chicago,Female,FALSE,False
+118,Customer_118,,65968.23,2020-09-03,Support,48.2,user117@outlook.com,Philadelphia,Male,TRUE,False
+1630,Customer_1630,37,26838.36,,Support,48.2,user1629@yahoo.com,Philadelphia,Other,FALSE,False
+674,Customer_674,73,21801.59,2022-08-02,IT,48.2,,San Diego,Female,TRUE,True
+250,Customer_250,25,82067.46,,,48.2,user249@gmail.com,Dallas,Other,FALSE,False
+1474,,79,,2022-08-14,Sales,48.2,user1473@yahoo.com,Chicago,Male,FALSE,False
+34,Customer_34,39,50873.14,2021-08-21,IT,48.2,user33@gmail.com,Dallas,Other,FALSE,False
+95,Customer_95,71,49135.92,2022-08-06,IT,48.2,user94@yahoo.com,Los Angeles,Male,TRUE,False
+1858,Customer_1858,46,,2022-03-19,Operations,48.2,user1857@yahoo.com,Phoenix,Female,TRUE,False
+1693,Customer_1693,46,47879.53,2018-09-03,Operations,48.2,user1692@yahoo.com,San Diego,Female,TRUE,False
+449,Customer_449,45,,2018-04-10,Operations,48.2,user448@outlook.com,San Antonio,Male,TRUE,False
+717,Customer_717,40,1000000,2020-07-10,IT,48.2,user716@outlook.com,Chicago,Female,TRUE,False
+1856,Customer_1856,68,47389.24,2022-07-31,Sales,48.2,user1855@outlook.com,San Antonio,Male,FALSE,False
+1541,Customer_1541,65,49115.28,,Support,48.2,user1540@yahoo.com,San Diego,Other,TRUE,False
+1,Customer_1,56,56194.87,,Marketing,48.2,user0@gmail.com,San Diego,,TRUE,False
+1395,Customer_1395,18,63434.75,2022-10-19,IT,48.2,user1394@outlook.com,New York,Other,FALSE,False
+1102,Customer_1102,47,47638.42,,HR,48.2,,San Diego,Female,FALSE,True
+1109,Customer_1109,21,64523.62,,Operations,48.2,user1108@gmail.com,Chicago,Other,TRUE,False
+1766,Customer_1766,51,50876.52,2016-07-15,,48.2,user1765@outlook.com,Philadelphia,Female,FALSE,False
+83,Customer_83,31,41075.96,2019-02-19,Operations,48.2,user82@company.com,San Diego,Female,TRUE,False
+1629,Customer_1629,66,40403.27,,Operations,48.2,user1628@company.com,San Diego,Other,FALSE,False
+677,Customer_677,21,59687.38,,IT,48.2,,New York,Other,FALSE,True
+1472,Customer_1472,72,66013.27,2019-01-28,Marketing,48.2,user1471@yahoo.com,Philadelphia,Male,FALSE,False
+1047,Customer_1047,57,"$63,781",2016-03-09,IT,48.2,user1046@outlook.com,Philadelphia,Other,TRUE,False
+771,Customer_771,34,61125.18,,Finance,48.2,user770@gmail.com,Phoenix,Other,FALSE,False
+1035,Customer_1233,45,23898.69,2017-01-10,IT,48.2,user1232@outlook.com,New York,Male,FALSE,False
+1299,Customer_1299,68,50965.08,,Operations,48.2,user1298@yahoo.com,Dallas,Female,FALSE,False
+1653,,69,54967.5,2019-07-22,Marketing,48.2,user1652@company.com,San Jose,Other,FALSE,False
+1512,Customer_1512,22,4197.79,,IT,48.2,user1511@company.com,San Jose,Other,,False
+405,Customer_405,35,51328,,Marketing,48.2,user404@outlook.com,San Antonio,Other,FALSE,False
+1754,Customer_1754,59,67958.2,,,48.2,user1753@company.com,Chicago,Female,TRUE,False
+1317,,73,70415.17,,HR,48.2,user1316@company.com,Chicago,Male,TRUE,False
+1359,Customer_1359,35,,2015-12-17,Operations,48.2,user1358@yahoo.com,San Antonio,Male,FALSE,False
+105,Customer_105,,62356.29,2022-10-26,HR,48.2,user104@gmail.com,Philadelphia,Male,TRUE,False
+689,Customer_689,29,48127.95,2017-12-09,Marketing,48.2,user688@gmail.com,Dallas,Other,FALSE,False
+1324,Customer_1324,28,45006.42,,Finance,48.2,user1323@outlook.com,New York,Other,FALSE,False
+827,Customer_827,,34638.96,,HR,48.2,,Phoenix,Female,FALSE,True
+63,Customer_63,21,56877.32,2022-04-16,Marketing,48.2,user62@gmail.com,Philadelphia,Other,FALSE,False
+853,Customer_853,62,54863.7,,Sales,48.2,user852@yahoo.com,Dallas,Female,TRUE,False
+1805,Customer_1805,66,76531.54,2017-12-23,Sales,48.2,user1804@company.com,Houston,Female,FALSE,False
+224,Customer_224,45,60211.04,,Sales,48.2,user223@yahoo.com,Houston,Female,TRUE,False
+146,Customer_146,,51147.85,2018-02-16,Finance,48.2,user145@outlook.com,Los Angeles,Female,FALSE,False
+1089,Customer_1089,35,33943.65,,Support,48.2,user1088@gmail.com,Philadelphia,Male,TRUE,False
+374,Customer_374,76,47808.82,,Sales,48.2,user373@outlook.com,Chicago,Male,FALSE,False
+1441,Customer_1441,31,65157.4,2019-10-30,Support,48.2,user1440@company.com,New York,Female,FALSE,False
+1143,Customer_1143,73,53745.98,2016-12-07,Finance,48.2,user1142@yahoo.com,Los Angeles,Male,FALSE,False
+1518,Customer_1518,55,60446.79,2022-11-23,Support,48.2,user1517@yahoo.com,Dallas,Other,TRUE,False
+1625,Customer_1625,24,73292.55,2022-05-22,Support,48.2,user1624@outlook.com,Dallas,Other,FALSE,False
+1289,Customer_1289,28,62549.27,2015-04-20,Finance,48.2,user1288@yahoo.com,Houston,Other,TRUE,False
+10,Customer_10,75,80703.61,,HR,48.2,user9@outlook.com,San Diego,Other,FALSE,False
+450,,64,56701,,H R,48.2,user449@company.com,Phoenix,Male,FALSE,False
+709,Customer_709,29,56223.45,2018-05-22,Support,48.2,user708@gmail.com,Phoenix,Other,TRUE,False
+1099,Customer_256,68,50571.07,,Support,48.2,user255@outlook.com,New York,Other,FALSE,False
+883,Customer_883,75,47844.96,2019-11-04,Marketing,48.2,user882@outlook.com,San Antonio,Male,FALSE,False
+390,Customer_390,,$60k,2018-09-12,Support,48.2,user389@company.com,San Antonio,Female,TRUE,False
+909,Customer_909,78,53534.15,2022-05-13,HR,48.2,user908@company.com,San Antonio,Male,TRUE,False
+925,,58,29496.93,,Finance,48.2,user924@gmail.com,Phoenix,Male,FALSE,False
+1729,Customer_1729,31,54414.94,,Operations,48.2,user1728@outlook.com,New York,Female,TRUE,False
+1250,Customer_1250,20,57992.32,,HR,48.2,user1249@outlook.com,Houston,Male,FALSE,False
+461,,61,41302.02,,Support,48.2,user460@company.com,San Antonio,Female,FALSE,False
+1699,Customer_1288,47,52252.33,,IT,48.2,user1287@outlook.com,New York,Male,TRUE,False
+1918,Customer_1918,51,70881.16,,,48.2,user1917@gmail.com,San Diego,Other,TRUE,False
+1169,Customer_1169,43,73214.04,2022-08-10,Finance,48.2,user1168@gmail.com,New York,Female,TRUE,False
+959,,45,42827.65,,HR,48.2,user958@outlook.com,San Diego,Female,FALSE,False
+564,CUSTOMER_502,40,65641.93,,Finance,48.2,user501@company.com,Phoenix,Other,FALSE,False
+740,Customer_740,38,43007.53,2022-09-28,Finance,48.2,user739@gmail.com,Chicago,Female,FALSE,False
+1879,Customer_1879,75,,2021-04-14,HR,48.2,user1878@gmail.com,Philadelphia,Other,TRUE,False
+869,Customer_869,71,57012.78,2016-01-25,HR,48.2,user868@yahoo.com,Los Angeles,Female,FALSE,False
+732,Customer_732,70,80109.08,,Support,48.2,user731@company.com,San Diego,Female,FALSE,False
+540,,32,39581.46,2015-10-08,Marketing,48.2,user539@gmail.com,Phoenix,Female,TRUE,False
+1202,Customer_1202,31,58866.41,2022-03-31,Sales,48.2,user1201@company.com,San Jose,Other,TRUE,False
+698,Customer_698,54,59551.67,,Support,48.2,user697@gmail.com,Dallas,Other,TRUE,False
+1413,,31,53731.56,2020-04-23,Finance,48.2,user1412@gmail.com,Dallas,Male,FALSE,False
+1396,Customer_1396,57,61258.95,2020-05-14,IT,48.2,user1395@yahoo.com,San Jose,Other,TRUE,False
+1146,Customer_1146,49,69352.51,2022-12-08,Finance,48.2,user1145@company.com,San Antonio,Male,FALSE,False
+1032,Customer_1032,27,56753.04,,Marketing,48.2,user1031@company.com,New York,Male,TRUE,False
+373,Customer_373,49,58813.74,,IT,48.2,user372@company.com,Houston,Male,TRUE,False
+668,Customer_668,27,71169.31,,Finance,48.2,,Dallas,Male,FALSE,True
+1549,Customer_1549,45,58969.66,,Finance,48.2,user1548@yahoo.com,San Diego,Male,FALSE,False
+358,Customer_358,77,56302.89,,IT,48.2,user357@yahoo.com,Chicago,Male,FALSE,False
+968,Customer_968,70,58090.74,2022-07-23,Support,48.2,user967@yahoo.com,Phoenix,Male,TRUE,False
+784,Customer_784,78,-10000,,Finance,48.2,user783@outlook.com,Dallas,Female,FALSE,False
+199,Customer_736,46,62931.23,,IT,48.2,user735@gmail.com,Dallas,Female,FALSE,False
+1036,Customer_1036,,53456.84,2016-04-16,Finance,48.2,user1035@gmail.com,Phoenix,Other,FALSE,False
+971,Customer_971,45,33775.71,2019-12-20,Marketing,48.2,user970@gmail.com,Los Angeles,Female,TRUE,False
+1548,,66,65544.31,2016-12-14,Sales,48.2,user1547@yahoo.com,Phoenix,Male,TRUE,False
+1510,Customer_1510,60,,,Marketing,48.2,user1509@outlook.com,San Diego,,FALSE,False
+1547,,59,,2022-02-25,Sales,48.2,user1546@company.com,Chicago,Male,TRUE,False
+1369,Customer_1369,26,69305.08,2019-05-19,Marketing,48.2,user1368@gmail.com,Chicago,Female,TRUE,False
+1882,,37,53981.28,2016-05-14,Finance,48.2,user1881@gmail.com,Chicago,Female,TRUE,False
+1666,Customer_1666,45,54541.45,,IT,48.2,user1665@gmail.com,San Jose,Male,TRUE,False
+1253,Customer_1253,55,60965.53,,Finance,48.2,user1252@yahoo.com,Phoenix,Other,FALSE,False
+1719,Customer_1719,49,40405.75,2022-07-17,Support,48.2,user1718@company.com,San Antonio,Other,FALSE,False
+1741,Customer_1741,65,56997.27,2019-05-02,HR,48.2,user1740@company.com,Los Angeles,Other,FALSE,False
+1237,Customer_1237,34,58114.74,,Support,48.2,user1236@yahoo.com,San Diego,Female,TRUE,False
+886,Customer_886,25,44868.08,2016-06-16,Marketing,48.2,user885@gmail.com,San Antonio,Male,FALSE,False
+80,Customer_80,25,50970.46,2020-03-19,Marketing,48.2,user79@company.com,Chicago,Other,FALSE,False
+1173,Customer_1173,31,73138.99,2022-05-13,Sales,48.2,user1172@yahoo.com,Phoenix,Other,TRUE,False
+815,Customer_815,75,60508.48,,Operations,48.2,user814@gmail.com,Phoenix,Other,FALSE,False
+1304,Customer_1304,41,57036.31,2018-10-05,Support,48.2,user1303@company.com,Phoenix,Female,FALSE,False
+672,Customer_672,49,69177.91,2016-07-30,Sales,48.2,user671@outlook.com,San Diego,Other,FALSE,False
+14,Customer_1555,46,47344.98,,Finance,48.2,user1554@outlook.com,Houston,Female,FALSE,False
+58,Customer_58,24,41824.43,,Finance,48.2,user57@outlook.com,Los Angeles,Female,FALSE,False
+134,Customer_134,24,67901.45,2022-04-18,Sales,48.2,user133@gmail.com,Houston,Female,FALSE,False
+1141,CUSTOMER_1141,57,54219.7,2020-08-28,HR,48.2,user1140@outlook.com,Houston,Female,TRUE,False
+934,Customer_934,20,56720.66,2018-01-24,HR,48.2,user933@yahoo.com,Dallas,Other,TRUE,False
+1710,Customer_1710,,57415.77,,IT,48.2,user1709@yahoo.com,Philadelphia,Female,TRUE,False
+824,Customer_824,60,23050.35,,HR,48.2,user823@yahoo.com,San Antonio,Other,TRUE,False
+505,Customer_505,,39648.71,2020-07-21,IT,48.2,user504@yahoo.com,New York,Male,TRUE,False
+1802,Customer_1802,46,34166.63,2015-04-20,IT,48.2,user1801@outlook.com,Los Angeles,Female,FALSE,False
+348,Customer_348,45,55876.02,2020-08-11,HR,48.2,user347@gmail.com,San Diego,Female,TRUE,False
+387,Customer_387,50,39973.48,2022-07-07,Finance,48.2,user386@yahoo.com,Phoenix,Other,FALSE,False
+1025,Customer_1025,20,55833.63,2020-02-27,Operations,48.2,user1024@outlook.com,Los Angeles,Other,FALSE,False
+895,Customer_895,74,47452.82,,Sales,48.2,user894@gmail.com,Los Angeles,Other,TRUE,False
+829,Customer_829,26,74059.47,2020-07-01,Support,48.2,user828@gmail.com,Dallas,Other,FALSE,False
+1923,Customer_1923,76,79125.84,,Operations,48.2,user1922@yahoo.com,Philadelphia,Other,TRUE,False
+476,Customer_476,70,31932.29,2022-05-27,Sales,48.2,user475@yahoo.com,Houston,Female,TRUE,False
+1493,Customer_1493,32,42288.55,2022-08-13,Marketing,48.2,user1492@company.com,San Diego,Male,TRUE,False
+1468,Customer_1468,50,47783.9,2015-11-04,Marketing,48.2,user1467@yahoo.com,Chicago,Male,TRUE,False
+1495,,25,54270.9,,IT,48.2,user1494@gmail.com,Los Angeles,Male,TRUE,False
+653,Customer_653,56,64900.16,2018-04-23,Sales,48.2,user652@outlook.com,San Diego,Male,FALSE,False
+173,Customer_173,18,55937.54,2017-09-15,Finance,48.2,user172@gmail.com,Houston,Male,TRUE,False
+55,,49,65116.02,,Operations,48.2,user1149@outlook.com,Dallas,Male,FALSE,False
+39,Customer_39,44,52762.16,,HR,48.2,user38@yahoo.com,Houston,Female,TRUE,False
+714,Customer_714,68,66737.4,,Sales,48.2,user713@outlook.com,San Diego,Female,FALSE,False
+91,Customer_91,,,,Support,48.2,user90@gmail.com,Chicago,Male,FALSE,False
+1967,Customer_1967,39,37094.34,2016-07-03,Operations,48.2,user1966@yahoo.com,Los Angeles,Female,TRUE,False
+1206,,31,42259.2,,,48.2,user1205@gmail.com,Phoenix,Other,TRUE,False
+876,Customer_876,,61322.1,2016-09-17,Sales,48.2,user875@gmail.com,Phoenix,Other,FALSE,False
+1565,Customer_1565,38,61073.71,2021-11-11,,48.2,user1564@gmail.com,Los Angeles,Female,FALSE,False
+1920,Customer_1920,36,64785.83,2019-08-20,HR,48.2,user1919@yahoo.com,San Antonio,Male,TRUE,False
+1094,CUSTOMER_1094,51,57342.82,,Support,48.2,user1093@yahoo.com,New York,Male,FALSE,False
+1156,Customer_1156,38,80429.94,,Marketing,48.2,user1155@outlook.com,Houston,Male,TRUE,False
+1792,Customer_1792,,67167.15,2015-03-10,Finance,48.2,user1791@gmail.com,San Diego,,FALSE,False
+1989,,76,78185.68,,Sales,48.2,user1988@outlook.com,New York,Female,FALSE,False
+500,Customer_500,64,63200.37,2019-04-11,HR,48.2,user499@yahoo.com,New York,Other,TRUE,False
+339,,69,22731.56,,Operations,48.2,user338@gmail.com,San Antonio,Male,FALSE,False
+1189,Customer_1189,34,52953.29,2022-12-13,IT,48.2,user1188@company.com,San Antonio,Other,TRUE,False
+1218,Customer_1218,40,57515.89,2015-11-13,HR,48.2,user1217@yahoo.com,Philadelphia,,TRUE,False
+1344,Customer_1344,31,"$42,199",2020-10-11,IT,48.2,user1343@gmail.com,New York,Other,TRUE,False
+1849,Customer_1849,25,,2018-07-09,Sales,48.2,user1848@company.com,San Antonio,Other,TRUE,False
+946,Customer_946,41,55415.83,,IT,48.2,user945@company.com,Chicago,Other,,False
+170,Customer_170,39,49252.26,,HR,48.2,user169@outlook.com,New York,Male,TRUE,False
+1425,Customer_1425,57,25998.38,,,48.2,user1424@gmail.com,Chicago,Female,TRUE,False
+1198,,32,47937.57,,Marketing,48.2,user1197@outlook.com,Houston,Other,FALSE,False
+1254,Customer_1254,64,57366.26,,Finance,48.2,user1253@gmail.com,Dallas,Female,FALSE,False
+1419,Customer_1419,59,42940.41,2019-01-02,Support,48.2,user1418@gmail.com,San Jose,Female,TRUE,False
+913,Customer_913,71,60823.64,,Operations,48.2,user912@yahoo.com,Los Angeles,Female,FALSE,False
+492,Customer_492,71,85029.19,2021-05-31,Sales,48.2,user491@outlook.com,Los Angeles,Female,TRUE,False
+954,Customer_954,25,49673.74,2020-02-02,Finance,48.2,user953@yahoo.com,San Antonio,Male,FALSE,False
+1098,Customer_1098,50,60958.67,2015-10-07,Support,48.2,user1097@company.com,Philadelphia,Female,FALSE,False
+1033,Customer_1033,36,59754.14,,Sales,48.2,user1032@outlook.com,New York,Female,TRUE,False
+588,Customer_588,59,53042.27,2022-06-24,Marketing,48.2,user587@yahoo.com,Houston,Other,FALSE,False
+751,Customer_751,65,38961.24,,HR,48.2,user750@yahoo.com,San Antonio,Male,FALSE,False
+658,Customer_658,54,70263.11,2016-06-25,IT,48.2,user657@outlook.com,San Diego,Female,FALSE,False
+235,,42,73694.9,,Marketing,48.2,user234@outlook.com,San Jose,Other,FALSE,False
+733,Customer_733,,61432.18,2022-05-06,Operations,48.2,user732@outlook.com,Chicago,Male,FALSE,False
+1656,Customer_1656,57,56704.37,,Finance,48.2,user1655@yahoo.com,,Other,TRUE,False
+1157,Customer_1157,22,53400.23,2019-08-02,Support,48.2,user1156@company.com,Los Angeles,Other,TRUE,False
+1492,Customer_1492,25,59677.21,,IT,48.2,user1491@company.com,Philadelphia,Other,TRUE,False
+1445,Customer_1445,68,68491.53,,Operations,48.2,user1444@gmail.com,San Antonio,Male,TRUE,False
+1651,Customer_1651,66,59952.14,,HR,48.2,user1650@company.com,Los Angeles,Male,FALSE,False
+935,Customer_935,33,,,Operations,48.2,user934@gmail.com,Dallas,Other,FALSE,False
+179,Customer_1210,43,74339.05,2017-01-08,Marketing,48.2,user1209@yahoo.com,Phoenix,Other,TRUE,False
+1066,Customer_1066,22,23261.2,2017-03-05,Marketing,48.2,user1065@yahoo.com,Los Angeles,Female,TRUE,False
+109,Customer_109,31,46201.78,2016-05-10,Support,48.2,user108@outlook.com,Phoenix,Male,TRUE,False
+1566,Customer_1566,43,54364.97,2015-12-20,IT,48.2,user1565@gmail.com,San Jose,Female,,False
+569,Customer_569,61,71373.27,2022-08-24,Sales,48.2,user568@company.com,Houston,Female,TRUE,False
+1168,Customer_1168,29,62349.11,2021-04-04,HR,48.2,user1167@company.com,Los Angeles,Female,TRUE,False
+1175,Customer_1175,62,57708.75,2016-09-07,IT,48.2,user1174@outlook.com,Houston,Female,TRUE,False
+891,,20,49960.31,,Sales,48.2,user890@outlook.com,Los Angeles,Male,FALSE,False
+948,Customer_948,70,58615.73,,Sales,48.2,user947@gmail.com,San Jose,Male,FALSE,False
+1049,Customer_1049,51,58935.44,,Operations,48.2,user1048@outlook.com,Philadelphia,Other,TRUE,False
+1371,Customer_1371,,42419.66,,Sales,48.2,user1370@yahoo.com,Chicago,Male,TRUE,False
+1954,,43,79114.61,2015-06-03,Operations,48.2,user1953@company.com,Dallas,Female,TRUE,False
+408,Customer_1467,74,77240.72,2015-08-23,Support,48.2,user1466@yahoo.com,San Jose,Male,TRUE,False
+885,Customer_885,45,50236.4,2019-03-07,IT,48.2,user884@company.com,Philadelphia,Other,TRUE,False
+1698,Customer_1698,20,67043.86,2020-08-02,HR,48.2,user1697@outlook.com,Chicago,Female,TRUE,False
+851,Customer_851,25,42109.9,,Operations,48.2,user850@outlook.com,Chicago,Female,TRUE,False
+735,Customer_735,28,48828.69,,Sales,48.2,user734@outlook.com,Los Angeles,Female,TRUE,False
+718,Customer_718,34,65473.75,2016-04-20,Support,48.2,user717@gmail.com,Houston,Other,FALSE,False
+455,Customer_455,65,50097.46,,IT,48.2,user454@yahoo.com,Los Angeles,Other,TRUE,False
+265,Customer_265,41,46130.45,,Finance,48.2,user264@outlook.com,New York,Other,TRUE,False
+76,Customer_76,77,80969.81,2022-07-05,Finance,48.2,user75@yahoo.com,San Jose,Male,TRUE,False
+1682,Customer_1682,36,57332.84,,Finance,48.2,user1681@gmail.com,Chicago,Male,TRUE,False
+396,Customer_396,37,58981.06,2019-06-29,Operations,48.2,user395@company.com,Houston,Female,TRUE,False
+177,Customer_177,31,64481.74,,,48.2,user176@yahoo.com,Houston,Female,TRUE,False
+1043,Customer_1043,21,52471.16,2022-09-25,Marketing,48.2,user1042@outlook.com,Philadelphia,Male,FALSE,False
+1762,Customer_1762,54,67311.39,,Marketing,48.2,user1761@company.com,San Antonio,Other,FALSE,False
+1422,Customer_1422,57,,,HR,48.2,user1421@company.com,Phoenix,Male,TRUE,False
+1770,Customer_1770,,55658.1,2020-02-15,Operations,48.2,user1769@company.com,Philadelphia,Other,FALSE,False
+1799,,25,59736.04,2018-06-14,Support,48.2,user1798@gmail.com,Los Angeles,Female,TRUE,False
+596,Customer_596,72,54726.25,,Operations,48.2,user595@yahoo.com,San Antonio,Female,FALSE,False
+62,Customer_62,35,52186.32,2017-07-07,Finance,48.2,user61@gmail.com,Dallas,Other,FALSE,False
+1297,Customer_1297,72,53363.37,2015-12-01,Marketing,48.2,user1296@company.com,Dallas,Other,FALSE,False
+873,Customer_873,43,46024.48,2022-06-17,Operations,48.2,user872@outlook.com,Dallas,Male,FALSE,False
+1513,Customer_1513,37,66912.1,2019-05-05,HR,48.2,user1512@outlook.com,Philadelphia,Other,TRUE,False
+1909,Customer_1909,52,17242.85,2021-07-31,Support,48.2,user1908@company.com,San Jose,Female,FALSE,False
+279,Customer_279,54,57608.62,,HR,48.2,user278@outlook.com,Chicago,Male,TRUE,False
+37,Customer_37,42,67473.14,2015-04-22,Operations,48.2,user36@gmail.com,Los Angeles,Female,FALSE,False
+1539,Customer_1539,61,34817.73,2021-03-02,Sales,48.2,user1538@yahoo.com,Philadelphia,Other,TRUE,False
+663,Customer_663,22,49670.32,2018-01-21,,48.2,user662@yahoo.com,Chicago,,TRUE,False
+1835,Customer_1835,62,52513.43,,HR,48.2,user1834@company.com,Houston,Male,TRUE,False
+1465,Customer_1465,46,67179.1,,Operations,48.2,user1464@outlook.com,Los Angeles,,TRUE,False
+978,Customer_978,23,90455.77,2018-01-23,Finance,48.2,user977@outlook.com,New York,Male,FALSE,False
+1595,,19,,2020-10-23,IT,48.2,,New York,Other,TRUE,True
+739,Customer_739,42,14288.39,,IT,48.2,user738@company.com,San Antonio,Female,FALSE,False
+62,Customer_192,30,61962.02,2022-06-12,Finance,48.2,user191@yahoo.com,New York,Other,TRUE,False
+452,Customer_920,36,69134.68,,Sales,48.2,user919@company.com,Dallas,Other,TRUE,False
+457,Customer_457,21,0,2020-02-14,Operations,48.2,user456@gmail.com,San Antonio,Male,FALSE,False
+676,Customer_676,62,56246.21,,Marketing,48.2,user675@outlook.com,San Antonio,Female,TRUE,False
+761,Customer_761,54,71066.87,,Support,48.2,user760@company.com,Los Angeles,Male,TRUE,False
+1836,Customer_1836,74,38773.79,,,48.2,user1835@company.com,New York,Other,TRUE,False
+1626,Customer_1626,34,70543.03,,Marketing,48.2,user1625@gmail.com,San Jose,Female,TRUE,False
+729,Customer_729,24,62676.07,2019-09-13,Finance,48.2,user728@company.com,New York,Male,FALSE,False
+1400,CUSTOMER_1400,25,74045.18,,Financ,48.2,user1399@yahoo.com,New York,Male,TRUE,False
+413,Customer_413,58,39048.98,2017-02-07,Sales,48.2,user412@gmail.com,Phoenix,Other,TRUE,False
+1099,Customer_1099,41,35979.47,2020-04-04,HR,48.2,user1098@gmail.com,New York,Other,FALSE,False
+826,Customer_826,35,51920.8,2019-10-13,Marketing,48.2,user825@gmail.com,New York,Other,,False
+1520,Customer_1520,25,41517.09,2017-05-28,Marketing,48.2,user1519@outlook.com,Dallas,Other,FALSE,False
+617,Customer_617,57,$60k,,IT,48.2,user616@outlook.com,Houston,Male,TRUE,False
+115,CUSTOMER_115,38,48262.54,2022-06-02,HR,48.2,user114@outlook.com,Los Angeles,Female,TRUE,False
+418,Customer_418,31,34717.53,,Operations,48.2,user417@gmail.com,Houston,Male,FALSE,False
+1941,Customer_1941,34,79422.24,2022-04-25,HR,48.2,user1940@outlook.com,San Antonio,Other,FALSE,False
+970,Customer_970,30,31107.96,,Operations,48.2,user969@yahoo.com,Philadelphia,,FALSE,False
+605,Customer_605,70,44746.09,,Marketing,48.2,user604@yahoo.com,Los Angeles,Female,TRUE,False
+1949,Customer_1949,35,73192.31,,IT,48.2,user1948@company.com,San Jose,Other,TRUE,False
+90,Customer_90,79,67933.95,,HR,48.2,user89@yahoo.com,Houston,Male,FALSE,False
+849,Customer_849,55,"$33,641",,Sales,48.2,user848@gmail.com,Phoenix,Male,FALSE,False
+1543,Customer_1543,22,54180.81,,Support,48.2,user1542@gmail.com,Los Angeles,Female,TRUE,False
+1948,Customer_1948,42,93437.91,,IT,48.2,user1947@yahoo.com,New York,Female,TRUE,False
+754,Customer_754,66,65711.29,2019-06-19,Finance,48.2,user753@company.com,San Antonio,Other,TRUE,False
+499,Customer_499,49,56309.72,,Operations,48.2,user498@yahoo.com,Los Angeles,Male,FALSE,False
+1277,Customer_1277,54,,2018-03-13,Support,48.2,user1276@outlook.com,Dallas,Male,FALSE,False
+1326,Customer_1326,43,57248.98,2016-03-31,Finance,48.2,user1325@gmail.com,San Jose,Male,FALSE,False
+12,Customer_12,40,52056.08,2021-01-13,Marketing,48.2,user11@gmail.com,Chicago,Other,FALSE,False
+397,Customer_397,79,30726.84,2021-03-03,HR,48.2,user396@outlook.com,San Antonio,Female,FALSE,False
+285,Customer_285,19,57864.07,2018-06-04,IT,48.2,,Phoenix,Female,TRUE,True
+1067,Customer_1067,47,74104.6,,Marketing,48.2,user1066@gmail.com,San Diego,Male,FALSE,False
+1192,Customer_1192,18,43667.45,2021-04-08,Operations,48.2,user1191@gmail.com,New York,Other,FALSE,False
+1771,Customer_1771,,48774.98,2016-09-02,Marketing,48.2,user1770@yahoo.com,Los Angeles,Male,FALSE,False
+691,Customer_691,52,49090.28,2019-04-10,Sales,48.2,user690@outlook.com,Philadelphia,Male,TRUE,False
+1655,Customer_1655,33,37695.64,2020-02-01,Support,48.2,user1654@company.com,Phoenix,Male,TRUE,False
+1906,Customer_1906,59,34022.21,2016-07-16,Operations,48.2,user1905@yahoo.com,Philadelphia,Male,TRUE,False
+690,Customer_690,67,49634.24,,Operations,48.2,user689@company.com,San Antonio,Female,TRUE,False
+852,Customer_852,65,,2021-10-15,Support,48.2,user851@outlook.com,San Jose,Other,FALSE,False
+160,Customer_160,50,53915.75,,Finance,48.2,user159@gmail.com,Houston,,TRUE,False
+896,Customer_896,77,76659.95,,HR,48.2,user895@company.com,New York,Female,TRUE,False
+1841,Customer_1841,,87820.85,,IT,48.2,user1840@yahoo.com,Los Angeles,Other,FALSE,False
+258,,61,53593.52,2019-06-30,Support,48.2,user257@yahoo.com,Los Angeles,Male,TRUE,False
+336,Customer_336,37,71071.01,2018-06-13,Sales,48.2,user335@outlook.com,Los Angeles,Male,TRUE,False
+1910,Customer_1910,20,34633.14,2017-09-07,Support,48.2,user1909@yahoo.com,New York,Male,FALSE,False
+1040,,68,64277.27,,Finance,48.2,user1039@yahoo.com,San Jose,Female,FALSE,False
+516,Customer_516,46,40457.14,2015-03-04,IT,48.2,user515@gmail.com,Philadelphia,Female,,False
+1349,Customer_1349,53,73647.75,2019-10-25,IT,48.2,user1348@yahoo.com,Phoenix,Male,FALSE,False
+1016,Customer_1016,65,87986.47,2020-08-11,Support,48.2,user1015@yahoo.com,San Antonio,Other,TRUE,False
+769,Customer_769,58,63136.96,,Operations,48.2,user768@company.com,,Female,FALSE,False
+1914,Customer_1914,61,54070.71,2020-12-15,Finance,48.2,user1913@company.com,Phoenix,Other,FALSE,False
+762,Customer_762,29,44077.65,,HR,48.2,user761@outlook.com,Los Angeles,Other,TRUE,False
+1247,Customer_1247,42,48783.13,2017-08-16,Operations,48.2,user1246@company.com,Chicago,Other,FALSE,False
+1204,Customer_1204,45,47821.34,2019-10-01,Marketing,48.2,user1203@outlook.com,San Antonio,Female,FALSE,False
+1490,Customer_1490,41,59952.5,,HR,48.2,user1489@company.com,Philadelphia,Other,TRUE,False
+522,Customer_522,42,24766.01,2020-04-07,Sales,48.2,user521@gmail.com,Philadelphia,Female,TRUE,False
+23,Customer_23,19,81065.94,2018-10-08,Finance,48.2,user22@outlook.com,New York,Male,FALSE,False
+357,Customer_357,24,74781.47,2021-10-08,Operations,48.2,user356@outlook.com,Dallas,Female,FALSE,False
+1278,Customer_1278,74,49901.28,,Finance,48.2,user1277@yahoo.com,Dallas,Female,FALSE,False
+1313,,23,69335.62,,Support,48.2,user1312@gmail.com,Phoenix,Other,FALSE,False
+1916,Customer_1916,47,55087.5,2022-02-26,Finance,48.2,user1915@yahoo.com,Dallas,Male,FALSE,False
+341,Customer_341,,55625.34,2016-05-24,HR,48.2,user340@gmail.com,San Diego,Female,TRUE,False
+432,Customer_432,34,80735.53,2021-10-29,HR,48.2,user431@company.com,Chicago,,FALSE,False
+474,Customer_474,66,,2021-08-01,IT,48.2,user473@yahoo.com,Houston,Female,FALSE,False
+218,,59,62541.85,2020-06-06,Sales,48.2,user217@yahoo.com,Los Angeles,Other,FALSE,False
+912,Customer_912,33,50455.53,,Finance,48.2,user911@yahoo.com,Los Angeles,Male,FALSE,False
+1228,Customer_1228,68,45765.57,2016-06-20,Marketing,48.2,user1227@gmail.com,Los Angeles,Male,TRUE,False
+1620,Customer_1620,43,59467.84,2016-11-21,HR,48.2,user1619@yahoo.com,San Jose,Male,FALSE,False
+1012,Customer_1012,58,63885.28,2019-04-07,Support,48.2,user1011@yahoo.com,Chicago,Female,TRUE,False
+1980,Customer_1980,40,77508.57,,Support,48.2,user1979@outlook.com,Phoenix,Male,TRUE,False
+94,Customer_94,21,41769.59,,Marketing,48.2,user93@gmail.com,Phoenix,Female,TRUE,False
+1009,Customer_1009,30,49345.07,,Sales,48.2,user1008@outlook.com,Chicago,Other,TRUE,False
+1071,Customer_1071,34,56607.4,,Support,48.2,user1070@yahoo.com,Houston,Male,TRUE,False
+1093,Customer_1093,68,55214.85,2018-08-16,HR,48.2,user1092@company.com,Phoenix,Female,FALSE,False
+1609,Customer_1609,42,56043.22,2022-02-14,Sales,48.2,,Phoenix,Female,TRUE,True
+1309,,45,36905.93,,,48.2,user1308@company.com,Houston,Female,FALSE,False
+697,,60,46934.65,2020-04-15,HR,48.2,user696@company.com,Los Angeles,Other,FALSE,False
+1821,Customer_1821,29,57059.14,2015-05-10,IT,48.2,user1820@yahoo.com,San Diego,Female,TRUE,False
+997,Customer_997,35,66371.59,2015-08-13,Marketing,48.2,user996@gmail.com,,Male,FALSE,False
+1459,Customer_1459,50,46268.33,2018-12-10,Marketing,48.2,user1458@outlook.com,Philadelphia,Male,TRUE,False
+154,Customer_154,45,72318.76,,Operations,48.2,user153@yahoo.com,San Diego,Female,FALSE,False
+1100,,32,56849.94,,Operations,48.2,user1099@gmail.com,Chicago,Other,TRUE,False
+1744,Customer_1744,53,54887.27,,HR,48.2,user1743@yahoo.com,Philadelphia,Male,FALSE,False
+790,Customer_790,45,72254.36,,Marketing,48.2,user789@outlook.com,Dallas,Other,,False
+581,Customer_581,72,54724.76,2016-08-09,Marketing,48.2,user580@outlook.com,Chicago,Other,TRUE,False
+1471,CUSTOMER_1471,44,46439.93,2019-07-22,HR,48.2,user1470@outlook.com,Dallas,Other,TRUE,False
+704,Customer_704,27,78436.89,,Finance,48.2,user703@gmail.com,Los Angeles,Other,TRUE,False
+1213,Customer_1213,73,31526.3,2020-06-14,Marketing,48.2,user1212@yahoo.com,New York,Other,FALSE,False
+1296,Customer_1296,26,60510.83,2019-05-01,Finance,48.2,user1295@outlook.com,New York,Male,FALSE,False
+1691,Customer_1691,67,43921.97,,IT,48.2,user1690@company.com,San Jose,Male,FALSE,False
+1261,Customer_1261,57,low,,Finance,48.2,user1260@outlook.com,San Diego,Male,TRUE,False
+488,Customer_488,,55423.04,2018-08-11,Financ,48.2,user487@company.com,Los Angeles,Other,TRUE,False
+560,Customer_560,32,71142.75,2018-04-16,Support,48.2,user559@outlook.com,San Jose,Male,TRUE,False
+1142,Customer_1142,21,,2022-03-31,IT,48.2,user1141@yahoo.com,Phoenix,Male,TRUE,False
+1120,Customer_1120,23,45484.85,2021-08-30,Finance,48.2,user1119@company.com,,Female,TRUE,False
+513,Customer_513,71,31281.14,2016-02-13,Operations,48.2,user512@gmail.com,Phoenix,Other,FALSE,False
+634,Customer_634,39,63242.12,2017-02-17,Marketing,48.2,user633@yahoo.com,New York,Male,TRUE,False
+1502,Customer_1502,19,48104.04,2019-02-12,Marketing,48.2,user1501@yahoo.com,Philadelphia,Female,TRUE,False
+1815,Customer_1815,51,38511.58,,Marketing,48.2,user1814@yahoo.com,Los Angeles,Male,TRUE,False
+1569,,71,,2019-06-19,Operations,48.2,user1568@company.com,San Jose,Male,FALSE,False
+1151,Customer_1151,67,63045.87,,HR,48.2,user1150@company.com,San Jose,Male,FALSE,False
+791,Customer_791,31,61063.86,2016-06-23,Finance,48.2,user790@yahoo.com,Dallas,Female,FALSE,False
+117,Customer_117,62,46484.74,2015-10-10,SALES,48.2,user116@yahoo.com,San Antonio,Other,TRUE,False
+1498,Customer_1498,64,49325.57,2015-11-11,IT,48.2,user1497@outlook.com,San Antonio,Female,FALSE,False
+1765,Customer_741,78,57345.67,,Finance,48.2,user740@company.com,San Antonio,Female,TRUE,False
+1776,Customer_1776,27,44904.3,2021-11-16,Finance,48.2,,,Female,FALSE,True
+1082,Customer_1082,56,66045.84,,Marketing,48.2,user1081@yahoo.com,San Diego,Other,TRUE,False
+831,Customer_831,75,40849.25,2019-12-22,Marketing,48.2,user830@gmail.com,Dallas,Female,FALSE,False
+120,Customer_120,70,54279.56,,Marketing,48.2,user119@outlook.com,Houston,Female,FALSE,False
+657,Customer_657,47,52320.85,2017-04-02,Support,48.2,user656@outlook.com,Houston,Other,TRUE,False
+636,Customer_636,46,65330.17,2017-10-23,Support,48.2,user635@company.com,New York,Other,FALSE,False
+370,Customer_370,29,58102.66,2016-12-18,Operations,48.2,user369@company.com,Philadelphia,Male,FALSE,False
+269,Customer_269,33,87846.25,,Marketing,48.2,user268@yahoo.com,Phoenix,Other,FALSE,False
+656,Customer_656,79,42155.4,,Marketing,48.2,user655@outlook.com,Phoenix,Male,FALSE,False
+936,Customer_936,40,29618.22,,Marketing,48.2,user935@outlook.com,San Jose,Other,TRUE,False
+823,Customer_823,46,42949.54,2015-09-07,Support,48.2,user822@yahoo.com,Chicago,Female,TRUE,False
+867,,78,38355.32,2019-06-22,IT,48.2,user866@company.com,San Antonio,Female,TRUE,False
+47,Customer_47,79,36262.37,,Support,48.2,user46@company.com,San Jose,Other,FALSE,False
+1374,Customer_1374,41,57774.13,,Operations,48.2,user1373@gmail.com,San Jose,Male,TRUE,False
+1746,Customer_1746,77,54325.68,,Finance,48.2,user1745@gmail.com,Los Angeles,Female,FALSE,False
+992,Customer_992,72,56295.51,2018-06-17,Marketing,48.2,user991@gmail.com,,Other,FALSE,False
+877,Customer_877,20,61710.39,,HR,48.2,user876@yahoo.com,Houston,Female,TRUE,False
+774,Customer_774,37,44450.93,2017-04-28,Sales,48.2,user773@outlook.com,Chicago,Female,FALSE,False
+1220,Customer_1220,60,,,Sale,48.2,user1219@yahoo.com,Dallas,Other,TRUE,False
+5,Customer_5,25,75007.89,,Marketing,48.2,user4@yahoo.com,Los Angeles,Female,FALSE,False
+1004,Customer_1004,42,67532.41,,IT,48.2,user1003@yahoo.com,San Jose,Male,FALSE,False
+1750,Customer_1750,64,71631.83,,Finance,48.2,user1749@gmail.com,Phoenix,Female,FALSE,False
+264,Customer_264,49,69933.23,2015-08-08,Operations,48.2,user263@company.com,Los Angeles,Female,FALSE,False
+1593,Customer_1593,28,,2015-08-15,Marketing,48.2,user1592@gmail.com,Los Angeles,Male,TRUE,False
+1859,Customer_1859,38,69030.88,,Support,48.2,user1858@gmail.com,Chicago,Female,TRUE,False
+444,Customer_444,44,68058.64,2020-03-05,Operations,48.2,user443@company.com,San Jose,,FALSE,False
+1003,Customer_1003,43,37270.86,,Marketing,48.2,user1002@company.com,New York,Male,TRUE,False
+1078,Customer_1078,31,56465.14,2016-09-18,Marketing,48.2,user1077@outlook.com,Chicago,Other,TRUE,False
+838,Customer_838,30,27544.13,,Sales,48.2,user837@yahoo.com,Philadelphia,Female,TRUE,False
+1818,Customer_1818,42,33006.88,2016-08-28,Finance,48.2,user1817@outlook.com,New York,Female,FALSE,False
+305,Customer_305,72,65027.02,,Marketing,48.2,user304@yahoo.com,Los Angeles,Male,FALSE,False
+1366,Customer_1366,,,2020-09-10,Marketing,48.2,user1365@outlook.com,San Diego,Other,TRUE,False
+1581,Customer_1581,70,42738.97,,Marketing,48.2,user1580@gmail.com,Chicago,Other,TRUE,False
+314,,51,82230.59,,Operations,48.2,user313@yahoo.com,,Other,TRUE,False
+150,Customer_150,59,31304.15,,HR,48.2,user149@outlook.com,Los Angeles,Male,TRUE,False
+1149,Customer_1149,,51672.6,2020-11-16,Support,48.2,user1148@gmail.com,Los Angeles,Other,FALSE,False
+1214,Customer_1214,68,51742.1,2017-02-25,Marketing,48.2,user1213@gmail.com,Dallas,Female,TRUE,False
+575,Customer_575,62,61975.68,,Sales,48.2,user574@outlook.com,Chicago,Male,FALSE,False
+51,Customer_51,61,"$39,956",,HR,48.2,user50@yahoo.com,Dallas,Male,TRUE,False
+1576,Customer_1576,57,44479.94,2016-05-28,,48.2,user1575@outlook.com,Houston,Female,TRUE,False
+727,Customer_727,68,60342.5,,Operations,48.2,user726@company.com,San Antonio,Other,FALSE,False
+834,Customer_834,78,63033.66,,Marketing,48.2,user833@outlook.com,San Jose,Female,FALSE,False
+1378,Customer_1378,47,"$67,556",2015-10-04,Support,48.2,user1377@yahoo.com,New York,Male,TRUE,False
+1116,Customer_1116,37,45188.8,2015-11-11,HR,48.2,user1115@gmail.com,Los Angeles,Other,FALSE,False
+1167,Customer_1167,58,71267.91,2016-01-23,Marketing,48.2,,Houston,Other,TRUE,True
+471,Customer_471,54,57331.41,,Support,48.2,user470@outlook.com,Los Angeles,Female,FALSE,False
+972,Customer_972,65,16102.81,,Financ,48.2,user971@company.com,Los Angeles,Female,TRUE,False
+654,Customer_654,53,76528.71,2018-08-31,IT,48.2,user653@outlook.com,Philadelphia,Female,FALSE,False
+400,Customer_400,79,41305.78,,Marketing,48.2,user399@yahoo.com,Dallas,Male,FALSE,False
+512,Customer_512,,39224.58,,Finance,48.2,user511@outlook.com,Dallas,Female,FALSE,False
+321,Customer_321,26,45934.92,,Marketing,48.2,user320@outlook.com,Phoenix,Male,FALSE,False
+20,Customer_20,,32181.33,,HR,48.2,USER1511@COMPANY.COM,Dallas,Female,FALSE,False
+685,Customer_685,49,50686.13,2020-02-06,Sales,48.2,user684@gmail.com,San Antonio,Male,TRUE,False
+36,Customer_36,61,32012.09,,Support,48.2,user35@gmail.com,San Diego,Female,TRUE,False
+903,Customer_903,23,31586.64,2018-12-11,Support,48.2,user902@outlook.com,Phoenix,Male,FALSE,False
+1806,Customer_1806,,21859.73,2022-05-09,Operations,48.2,user1805@gmail.com,San Antonio,Female,TRUE,False
+828,Customer_828,29,51058.25,,Sales,48.2,user827@outlook.com,New York,Female,FALSE,False
+1825,Customer_1825,39,79608,2017-02-20,HR,48.2,user1824@gmail.com,San Jose,Other,TRUE,False
+408,,19,46209.14,2022-05-17,Operations,48.2,user407@company.com,San Diego,Male,TRUE,False
+921,Customer_921,37,87992.9,2021-04-16,Marketing,48.2,user920@yahoo.com,Philadelphia,Male,TRUE,False
+538,Customer_538,68,44474.92,,Sales,48.2,user537@yahoo.com,Los Angeles,Other,TRUE,False
+334,Customer_759,79,25781.7,2016-01-11,HR,48.2,user758@outlook.com,Los Angeles,Other,FALSE,False
+1935,Customer_1935,33,72762.59,,Finance,48.2,user1934@gmail.com,San Jose,Female,TRUE,False
+1063,Customer_1063,18,48936.74,,HR,48.2,user1062@yahoo.com,Dallas,Other,FALSE,False
+1200,Customer_1200,73,59197.64,,Finance,48.2,user1199@outlook.com,San Diego,Male,FALSE,False
+246,Customer_246,58,43960.72,2021-06-09,,48.2,user245@gmail.com,San Jose,Male,FALSE,False
+1417,Customer_1417,42,27395.06,,Marketing,48.2,user1416@company.com,Chicago,Female,TRUE,False
+1128,Customer_1128,28,39706.58,2021-05-30,Support,48.2,user1127@outlook.com,New York,Other,TRUE,False
+785,Customer_785,58,,,Marketing,48.2,user784@company.com,Chicago,Male,TRUE,False
+1794,,26,34042.63,2018-09-18,Finance,48.2,user1793@outlook.com,Philadelphia,Female,FALSE,False
+490,Customer_490,59,,,IT,48.2,user489@company.com,Los Angeles,Male,FALSE,False
+155,Customer_155,,33198.6,2015-04-28,IT,48.2,user154@yahoo.com,Philadelphia,Male,FALSE,False
+962,Customer_962,53,44886.69,,Sales,48.2,user961@outlook.com,Phoenix,Female,TRUE,False
+854,Customer_854,18,59546.84,2016-02-11,IT,48.2,user853@company.com,Houston,Female,TRUE,False
+1312,Customer_1312,32,65968.7,,HR,48.2,user1311@yahoo.com,Houston,Female,TRUE,False
+626,Customer_626,46,49465.31,2021-10-19,HR,48.2,user625@yahoo.com,Houston,Female,FALSE,False
+686,Customer_686,44,40876.16,,Finance,48.2,user685@yahoo.com,Phoenix,Female,FALSE,False
+1992,Customer_1992,,34248.2,,Finance,48.2,user1991@outlook.com,Dallas,Male,,False
+190,Customer_570,61,62995.21,,Support,48.2,user569@gmail.com,Chicago,Male,TRUE,False
+1939,Customer_1939,48,48710.27,,HR,48.2,user1938@yahoo.com,San Antonio,Other,FALSE,False
+18,Customer_18,57,45244.44,2018-01-22,,48.2,user@.com,Houston,Male,TRUE,True
+128,Customer_128,58,,2020-02-27,Sales,48.2,user127@company.com,San Diego,Other,TRUE,False
+1347,Customer_1347,79,61575.74,,Support,48.2,user1346@outlook.com,Los Angeles,Female,TRUE,False
+1280,Customer_1280,70,40114.63,2018-01-22,IT,48.2,user1279@outlook.com,Chicago,Female,FALSE,False
+1999,Customer_1999,62,77752.19,2018-08-18,IT,48.2,user1998@gmail.com,,Female,TRUE,False
+928,Customer_928,32,41711.26,2021-10-30,Sales,48.2,user927@yahoo.com,New York,Other,FALSE,False
+981,Customer_981,22,50351.77,,Finance,48.2,user980@outlook.com,Dallas,Male,FALSE,False
+1995,Customer_1995,,58271.13,2016-01-26,Operations,48.2,user1994@gmail.com,Philadelphia,Other,TRUE,False
+191,Customer_191,77,75272.18,,Operations,48.2,user190@outlook.com,New York,Female,FALSE,False
+1140,Customer_1140,21,55433.14,,Marketing,48.2,user1139@company.com,Chicago,Female,TRUE,False
+993,Customer_993,73,,,IT,48.2,user992@company.com,New York,Female,FALSE,False
+1986,Customer_1986,56,53484.42,2021-11-07,IT,48.2,user1985@outlook.com,San Antonio,Other,FALSE,False
+1681,Customer_1681,27,500000,,Finance,48.2,user1680@yahoo.com,Philadelphia,Male,TRUE,False
+607,Customer_607,75,51829.96,2019-04-25,Marketing,48.2,user606@gmail.com,Houston,Other,FALSE,False
+181,Customer_181,43,80525.44,,Finance,48.2,user180@gmail.com,New York,Female,,False
+302,Customer_302,49,46092.45,,Marketing,48.2,user301@gmail.com,New York,Female,FALSE,False
+497,Customer_497,41,48488.35,,Marketing,48.2,user496@gmail.com,San Diego,Female,FALSE,False
+1721,Customer_1721,63,,2018-03-16,Finance,48.2,user1720@gmail.com,Houston,Male,TRUE,False
+1735,Customer_1735,27,43640.34,,Finance,48.2,user1734@gmail.com,Los Angeles,Female,FALSE,False
+1867,Customer_1867,57,80899.4,2018-05-07,Finance,48.2,user1866@outlook.com,San Antonio,Male,FALSE,False
+518,Customer_518,72,48115.65,,Marketing,48.2,user517@outlook.com,San Antonio,Male,TRUE,False
+1070,Customer_1070,74,58125.33,,HR,48.2,user1069@gmail.com,Phoenix,Female,FALSE,False
+1752,Customer_477,48,36695.24,,Support,48.2,user476@yahoo.com,New York,Female,TRUE,False
+158,Customer_158,29,49224.1,2017-01-14,Marketing,48.2,user157@yahoo.com,New York,Female,FALSE,False
+1244,Customer_1244,34,56663.34,,Marketing,48.2,user1243@outlook.com,San Diego,Female,TRUE,False
+1196,,78,70415.57,,Finance,48.2,user1195@gmail.com,New York,Female,TRUE,False
+17,Customer_17,52,93965.57,2017-06-17,Operations,48.2,user16@yahoo.com,Houston,Male,TRUE,False
+1536,Customer_1536,77,55041.43,2018-11-24,Sales,48.2,user1535@company.com,New York,Male,TRUE,False
+1073,Customer_1073,64,59078.1,,IT,48.2,user1072@gmail.com,San Antonio,Female,FALSE,False
+547,,68,0,,IT,48.2,user546@gmail.com,San Antonio,Other,TRUE,False
+1540,Customer_1540,53,,2021-01-29,Operations,48.2,user1539@gmail.com,Dallas,Other,FALSE,False
+659,Customer_659,40,58093.71,,Sales,48.2,user658@gmail.com,San Diego,Male,FALSE,False
+1671,Customer_1671,68,55637.24,2019-06-22,HR,48.2,,Los Angeles,Other,TRUE,True
+1020,Customer_1020,34,42813.93,,IT,48.2,user1019@gmail.com,Philadelphia,Female,TRUE,False
+1687,Customer_1687,40,63536.19,2018-04-03,Support,48.2,user1686@outlook.com,Los Angeles,Other,FALSE,False
+1505,Customer_1505,68,59675.53,,Finance,48.2,user1504@gmail.com,San Antonio,Female,TRUE,False
+960,Customer_960,54,60830.8,2021-05-13,Operations,48.2,user959@outlook.com,Dallas,Male,TRUE,False
+1912,Customer_1912,54,54722.61,2015-07-27,IT,48.2,user1911@outlook.com,Philadelphia,Male,TRUE,False
+284,,66,,,Marketing,48.2,user283@company.com,San Antonio,Male,FALSE,False
+798,Customer_798,70,,2016-12-14,IT,48.2,user797@outlook.com,Houston,Other,FALSE,False
+1650,Customer_1650,46,75439.26,2020-06-01,HR,48.2,user1649@yahoo.com,Los Angeles,Male,FALSE,False
+226,Customer_226,61,61183.28,2018-04-28,HR,48.2,user225@company.com,Phoenix,Female,FALSE,False
+27,Customer_27,55,66792.62,2016-11-07,HR,48.2,user26@outlook.com,Chicago,Female,FALSE,False
+1798,Customer_1798,63,64767.42,2021-07-18,Marketing,48.2,user1797@yahoo.com,San Diego,Other,FALSE,False
+438,Customer_438,25,51776.01,,IT,48.2,user437@yahoo.com,San Antonio,Other,TRUE,False
+1979,Customer_1979,76,67766.04,,Support,48.2,user1978@company.com,Phoenix,Female,TRUE,False
+1389,Customer_1389,28,70749.76,,Operations,48.2,user1388@company.com,Houston,Male,FALSE,False
+230,,,79607.55,2018-05-23,Marketing,48.2,user229@company.com,Dallas,Female,TRUE,False
+38,Customer_38,66,58114.19,2015-12-10,Sales,48.2,user37@gmail.com,San Antonio,Other,FALSE,False
+750,Customer_750,52,40695.93,2021-02-08,Operations,48.2,user749@outlook.com,Chicago,Other,FALSE,False
+1046,Customer_1046,66,71254.09,2019-11-24,Sales,48.2,user1045@outlook.com,San Diego,Other,TRUE,False
+1399,Customer_1399,46,46762.8,2016-07-06,,48.2,user1398@outlook.com,San Antonio,Female,TRUE,False
+470,CUSTOMER_470,58,60034.87,,IT,48.2,user469@company.com,Dallas,Other,FALSE,False
+1718,Customer_1718,31,41778.5,2022-05-03,Finance,48.2,user1717@yahoo.com,New York,Male,FALSE,False
+1998,Customer_1998,77,63837.09,2020-05-09,HR,48.2,user1997@company.com,San Antonio,Other,TRUE,False
+688,Customer_688,41,,2022-07-16,Finance,48.2,user687@company.com,New York,Female,TRUE,False
+1872,Customer_1872,64,49259.82,,Finance,48.2,,Dallas,Female,FALSE,True
+640,Customer_640,64,43009.09,2016-07-14,IT,48.2,user639@gmail.com,San Antonio,Other,TRUE,False
+1738,Customer_1738,40,,,Finance,48.2,user1737@company.com,Chicago,Male,TRUE,False
+1219,Customer_1219,63,58394.51,,IT,48.2,user1218@outlook.com,San Jose,Other,FALSE,False
+1159,Customer_1159,45,39651.58,,Operations,48.2,user1158@gmail.com,San Antonio,Other,TRUE,False
+1416,Customer_1416,,33403.39,,Marketing,48.2,user1415@yahoo.com,Houston,Female,TRUE,False
+1528,Customer_1528,30,54276.91,,Marketing,48.2,user1527@outlook.com,San Jose,Other,TRUE,False
+1680,Customer_1680,27,60301.46,,IT,48.2,user1679@outlook.com,San Antonio,Male,TRUE,False
+1301,CUSTOMER_1301,57,42012,,IT,48.2,user1300@gmail.com,Phoenix,Female,FALSE,False
+1851,Customer_1851,60,52652.39,,,48.2,user1850@outlook.com,,Male,TRUE,False
+801,Customer_801,29,56085.66,2016-06-03,IT,48.2,,Los Angeles,Male,FALSE,True
+1604,Customer_1604,61,74499.61,,Operations,48.2,user@.com,San Diego,Other,FALSE,True
+161,Customer_161,65,68527.37,2018-12-24,Support,48.2,user160@outlook.com,San Diego,Other,FALSE,False
+957,Customer_957,67,63698.63,2019-02-24,,48.2,user956@company.com,San Diego,Male,FALSE,False
+1187,Customer_1187,,60859.2,2016-06-12,HR,48.2,user1186@yahoo.com,Phoenix,Other,FALSE,False
+822,CUSTOMER_822,40,48052.53,,Support,48.2,user821@outlook.com,Dallas,Male,FALSE,False
+1707,Customer_1707,54,64293.5,2020-09-01,HR,48.2,user1706@gmail.com,Dallas,Female,TRUE,False
+878,,62,36791.09,2020-04-26,Finance,48.2,user877@company.com,Philadelphia,Female,TRUE,False
+914,Customer_914,38,,2021-03-28,,48.2,user913@yahoo.com,Chicago,Other,TRUE,False
+153,Customer_153,58,35103.18,2019-04-02,Marketing,48.2,user152@outlook.com,Chicago,Other,FALSE,False
+1865,Customer_1865,76,34632.66,,Finance,48.2,user1864@yahoo.com,Dallas,Female,FALSE,False
+1804,Customer_1804,51,46314.21,,Sales,48.2,user1803@gmail.com,San Antonio,Female,FALSE,False
+510,Customer_510,,69967.19,,Sales,48.2,user509@gmail.com,San Antonio,Other,FALSE,False
+1136,Customer_1136,53,,2015-09-11,Support,48.2,user1135@outlook.com,Houston,Female,TRUE,False
+1251,Customer_1251,58,45125.9,,Financ,48.2,user1250@outlook.com,San Antonio,Female,FALSE,False
+1689,Customer_1689,45,33847.88,2021-11-25,Support,48.2,user1688@yahoo.com,Chicago,Other,TRUE,False
+104,Customer_104,31,62376.9,2016-02-22,Operations,48.2,user103@yahoo.com,Dallas,Female,TRUE,False
+1446,Customer_1446,,66168.76,2018-08-08,Operations,48.2,user1445@yahoo.com,San Antonio,Male,TRUE,False
+1444,Customer_1444,57,53661.62,,Finance,48.2,user1443@outlook.com,Houston,Female,FALSE,False
+1765,Customer_1765,26,,,Operations,48.2,user1764@gmail.com,San Diego,Female,TRUE,False
+587,Customer_587,77,70162.93,2017-11-11,Operations,48.2,user586@company.com,Houston,Male,FALSE,False
+1937,Customer_1937,36,45290.27,,Sales,48.2,user1936@yahoo.com,Dallas,Male,FALSE,False
+1144,Customer_1144,42,26132.68,,Sales,48.2,USER1746@GMAIL.COM,Phoenix,Male,TRUE,False
+54,Customer_54,74,102510.58,2019-09-23,Support,48.2,user53@outlook.com,Houston,Female,FALSE,False
+152,Customer_152,75,48034.13,2022-06-29,Marketing,48.2,user151@gmail.com,Phoenix,Female,FALSE,False
+404,Customer_404,46,,2016-04-19,Marketing,48.2,user403@company.com,San Antonio,Other,TRUE,False
+1973,Customer_1973,24,48829.15,,IT,48.2,user1972@company.com,San Antonio,Male,TRUE,False
+208,Customer_208,46,25038.83,2017-08-02,Sales,48.2,user207@gmail.com,Philadelphia,Other,FALSE,False
+1925,Customer_1925,66,49674.27,2016-07-17,Sales,48.2,user1924@company.com,San Antonio,Other,FALSE,False
+1123,Customer_1123,30,,2020-03-10,Operations,48.2,user1122@gmail.com,Houston,Female,FALSE,False
+1777,Customer_1777,47,54600.45,2018-07-28,Finance,48.2,user1776@gmail.com,San Jose,Male,FALSE,False
+9,Customer_9,56,57179.44,,Marketing,48.2,user8@company.com,San Jose,Male,TRUE,False
+1015,Customer_1015,38,71980.52,2017-07-31,Sales,48.2,user1014@outlook.com,New York,Other,TRUE,False
+1824,Customer_1824,59,70912.21,2016-03-26,HR,48.2,user1823@gmail.com,Philadelphia,Male,TRUE,False
+1061,Customer_1061,67,,,Support,48.2,user1060@yahoo.com,Los Angeles,Other,FALSE,False
+453,Customer_453,77,74668.15,,Marketing,48.2,user452@company.com,San Diego,Female,FALSE,False
+1676,Customer_1676,72,74018.83,,Support,48.2,user1675@gmail.com,San Antonio,Male,FALSE,False
+254,Customer_254,54,71095.78,2017-10-31,Finance,48.2,user253@gmail.com,New York,Female,FALSE,False
+1328,CUSTOMER_1328,62,91110.66,,Operations,48.2,user1327@gmail.com,Philadelphia,Female,FALSE,False
+897,Customer_897,66,60139.19,2022-06-18,Operations,48.2,user896@outlook.com,San Antonio,Female,TRUE,False
+1760,Customer_1760,37,63655.39,,Marketing,48.2,user1759@outlook.com,Phoenix,Male,TRUE,False
+881,Customer_881,,66935.55,2015-12-16,Sales,48.2,user880@outlook.com,San Jose,Other,FALSE,False
+1596,Customer_1596,24,81453.36,2016-09-18,Finance,48.2,user1595@yahoo.com,New York,Female,TRUE,False
+1919,CUSTOMER_1919,29,58030.82,,Marketing,48.2,user1918@gmail.com,San Diego,Male,TRUE,False
+624,Customer_624,22,23057.3,2022-09-10,Support,48.2,user623@outlook.com,Philadelphia,Female,FALSE,False
+346,Customer_346,18,79306.44,2019-07-07,Sales,48.2,user345@gmail.com,San Antonio,Male,FALSE,False
+1728,Customer_1728,38,78340.74,2019-02-07,Operations,48.2,user1727@outlook.com,Los Angeles,Other,FALSE,False
+263,,49,52743.7,2022-09-12,Operations,48.2,USER1789@GMAIL.COM,San Jose,Male,TRUE,False
+1635,Customer_1635,57,66522.69,,HR,48.2,user1634@company.com,Philadelphia,Other,FALSE,False
+1322,Customer_1322,19,72298.58,2021-02-25,IT,48.2,user1321@gmail.com,Dallas,Female,FALSE,False
+1439,Customer_1439,72,34283.35,2019-10-05,Operations,48.2,user1438@yahoo.com,San Antonio,Male,FALSE,False
+151,Customer_151,56,46391.66,,IT,48.2,user150@company.com,,Other,FALSE,False
+473,Customer_473,46,50637.91,2018-05-07,Finance,48.2,user472@company.com,San Jose,Female,FALSE,False
+641,Customer_641,66,59417.87,2022-01-17,HR,48.2,user640@outlook.com,San Antonio,Other,FALSE,False
+1913,Customer_1913,61,65527.74,2022-07-06,HR,48.2,user1912@yahoo.com,New York,Male,FALSE,False
+551,Customer_551,78,51509.92,,Support,48.2,user550@yahoo.com,New York,Other,TRUE,False
+1984,Customer_1984,,70120.03,,Finance,48.2,user1983@outlook.com,Houston,Female,FALSE,False
+929,Customer_929,48,45165.45,2022-05-18,,48.2,user928@outlook.com,Chicago,Other,TRUE,False
+489,Customer_489,55,87878.61,,Marketing,48.2,user488@company.com,San Antonio,Other,TRUE,False
+1840,Customer_1840,62,22504.29,2016-07-19,Marketing,48.2,user1839@gmail.com,Chicago,Male,FALSE,False
+1172,Customer_1172,66,57114.08,2017-10-29,HR,48.2,user1171@outlook.com,New York,Female,FALSE,False
+147,CUSTOMER_147,50,79571.69,2020-01-21,Marketing,48.2,invalid@,Dallas,Male,FALSE,True
+1730,Customer_1730,48,58336.51,,Finance,48.2,user1729@company.com,Chicago,Other,TRUE,False
+1959,Customer_1959,49,42698.17,,H R,48.2,user1958@yahoo.com,New York,Other,TRUE,False
+403,Customer_403,42,63800.17,2018-08-17,Sales,48.2,user@.com,New York,Female,TRUE,True
+955,Customer_955,75,,2018-10-28,IT,48.2,user954@yahoo.com,San Diego,Other,TRUE,False
+1908,Customer_1908,56,75267.04,2021-11-26,Finance,48.2,user1907@gmail.com,Houston,Female,FALSE,False
+660,Customer_660,75,,2019-02-07,Support,48.2,user659@gmail.com,Chicago,Other,TRUE,False
+1373,CUSTOMER_1373,32,55152.63,2019-05-04,HR,48.2,user1372@gmail.com,Houston,Other,TRUE,False
+464,Customer_464,46,66461.44,,Finance,48.2,user463@gmail.com,Philadelphia,Female,TRUE,False
+1350,Customer_1350,30,41517.8,,Finance,48.2,user1349@outlook.com,San Jose,Male,TRUE,False
+187,,32,49968.82,2017-06-26,Finance,48.2,user186@gmail.com,Los Angeles,Female,TRUE,False
+1148,Customer_1148,44,37640.2,2019-12-05,HR,48.2,user1147@outlook.com,San Diego,Other,FALSE,False
+1225,Customer_1225,75,41945.99,,Operations,48.2,user1224@outlook.com,Houston,Female,TRUE,False
+609,Customer_609,18,54592.62,2016-03-12,HR,48.2,user608@outlook.com,Los Angeles,Male,FALSE,False
+144,Customer_144,25,17780.58,,Sales,48.2,user143@yahoo.com,Chicago,Male,TRUE,False
+752,Customer_752,53,25952.22,,HR,48.2,user751@company.com,Los Angeles,Female,FALSE,False
+1535,Customer_1535,,43269.64,,,48.2,user1534@gmail.com,Philadelphia,Female,FALSE,False
+982,Customer_982,64,28086.14,2018-11-14,Marketing,48.2,user981@yahoo.com,San Diego,Other,TRUE,False
+198,Customer_198,78,78510.3,,Support,48.2,user197@company.com,San Jose,Other,TRUE,False
+1634,Customer_1634,78,74124.84,,Support,48.2,user1633@company.com,New York,Other,TRUE,False
+884,Customer_884,37,,2016-01-31,Sales,48.2,user883@gmail.com,Chicago,Male,TRUE,False
+280,Customer_280,66,71341.55,,IT,48.2,user279@company.com,Phoenix,Female,FALSE,False
+294,Customer_294,36,29885.53,,IT,48.2,user293@yahoo.com,Houston,,TRUE,False
+1852,Customer_1852,,74624.74,2020-12-23,HR,48.2,user1851@outlook.com,Phoenix,Male,FALSE,False
+401,Customer_401,42,61533.34,,IT,48.2,user400@yahoo.com,San Diego,Female,FALSE,False
+123,Customer_123,42,67511.29,2020-06-30,Operations,48.2,user122@outlook.com,New York,Other,TRUE,False
+1208,Customer_1208,19,71347.53,,Operations,48.2,user1207@yahoo.com,Philadelphia,Male,TRUE,False
+203,Customer_203,40,80072.8,2022-11-18,HR,48.2,user202@yahoo.com,Los Angeles,Male,FALSE,False
+1463,Customer_1463,44,46093.07,2021-11-23,IT,48.2,user1462@outlook.com,Los Angeles,Other,FALSE,False
+836,Customer_836,24,69352.85,,Operations,48.2,user835@outlook.com,Philadelphia,Other,TRUE,False
+247,Customer_247,20,52000.9,2018-03-10,HR,48.2,user246@outlook.com,San Jose,Other,TRUE,False
+1440,Customer_1440,19,75777.23,2015-11-20,Sales,48.2,user1439@gmail.com,Chicago,Other,TRUE,False
+1734,Customer_1734,24,80797.69,2021-05-24,Finance,48.2,user1733@company.com,San Diego,Other,,False
+1780,Customer_1780,63,43768.25,,Marketing,48.2,user1779@outlook.com,Dallas,Male,,False
+1932,CUSTOMER_1932,64,48052.49,2020-05-09,Finance,48.2,USER625@YAHOO.COM,Philadelphia,Female,FALSE,False
+1708,Customer_1708,20,61160.96,2020-02-16,HR,48.2,user1707@company.com,San Jose,Other,FALSE,False
+1911,Customer_1911,,72112.83,2017-09-20,Support,48.2,user1910@company.com,Philadelphia,Other,FALSE,False
+1154,Customer_1154,68,29313.41,2019-03-08,Finance,48.2,user1153@company.com,San Jose,Male,FALSE,False
+1662,Customer_1662,64,61406.46,,Operations,48.2,user1661@gmail.com,Los Angeles,Male,TRUE,False
+1427,Customer_1427,25,"$39,721",2019-06-27,Marketing,48.2,user1426@outlook.com,New York,Male,FALSE,False
+385,Customer_385,71,48075.56,2018-09-27,Support,48.2,USER1732@OUTLOOK.COM,San Antonio,Male,FALSE,False
+1785,Customer_1785,68,59389.77,,Support,48.2,user1784@outlook.com,San Antonio,,TRUE,False
+855,Customer_855,39,60512.83,,HR,48.2,user854@yahoo.com,San Jose,Other,FALSE,False
+1590,CUSTOMER_1590,69,66565.58,2016-06-12,IT,48.2,user1589@company.com,San Diego,Female,FALSE,False
+220,Customer_220,79,70470.1,2021-08-11,HR,48.2,user219@company.com,San Jose,Female,TRUE,False
+642,Customer_642,47,29237.56,2016-02-02,Sale,48.2,USER175@YAHOO.COM,Philadelphia,Other,FALSE,False
+2,,69,70199.74,,Marketing,48.2,user1@gmail.com,Phoenix,Male,TRUE,False
+113,Customer_113,79,45563.92,2020-12-22,Finance,48.2,user112@outlook.com,San Diego,Female,FALSE,False
+699,Customer_699,29,66013.91,2021-12-12,Operations,48.2,user698@yahoo.com,Phoenix,Male,TRUE,False
+1946,Customer_1946,23,,2016-12-18,IT,48.2,user1945@outlook.com,Los Angeles,Male,TRUE,False
+952,Customer_952,53,,,Support,48.2,user951@outlook.com,Houston,Other,,False
+1649,CUSTOMER_1649,47,48694.07,2018-05-22,Support,48.2,user1648@outlook.com,Dallas,Other,FALSE,False
+1637,Customer_1637,24,52989.3,2022-04-21,Marketing,48.2,,Houston,Male,FALSE,True
+1775,Customer_1775,34,41544.3,,HR,48.2,user1774@outlook.com,Phoenix,Other,FALSE,False
+1411,Customer_1411,36,88851.27,,Operations,48.2,user1410@company.com,New York,Male,FALSE,False
+1410,CUSTOMER_1410,22,33048.91,2020-10-12,HR,48.2,user1409@company.com,New York,Other,TRUE,False
+1534,Customer_1534,64,46585.97,2018-08-02,Support,48.2,user1533@yahoo.com,Houston,Female,TRUE,False
+1292,Customer_1292,47,72930.04,2019-06-12,Operations,48.2,user1291@yahoo.com,Chicago,Male,FALSE,False
+1901,Customer_1901,18,58506.21,,Finance,48.2,user1900@gmail.com,Dallas,Male,TRUE,False
+442,Customer_442,25,67360.22,,Sales,48.2,user441@outlook.com,Los Angeles,Female,TRUE,False
+1521,Customer_1521,64,83234.38,2021-11-11,Support,48.2,user1520@outlook.com,Dallas,Other,FALSE,False
+1137,Customer_1137,71,47146.83,,Support,48.2,user1136@outlook.com,San Jose,Female,FALSE,False
+1716,Customer_1716,49,60230.36,2020-07-20,Sale,48.2,user1715@yahoo.com,San Jose,Female,TRUE,False
+1257,Customer_1257,39,54947.38,,Finance,48.2,user1256@company.com,San Diego,Female,TRUE,False
+1893,Customer_1893,26,53077.22,,IT,48.2,user1892@yahoo.com,Chicago,Other,FALSE,False
+1632,Customer_1632,39,34756.77,,Sales,48.2,user1631@gmail.com,San Antonio,Other,FALSE,False
+1696,Customer_1696,74,56592.62,2017-02-16,IT,48.2,user1695@yahoo.com,Phoenix,Other,TRUE,False
+1398,Customer_1398,77,60243.92,2017-01-16,Sales,48.2,user1397@company.com,San Antonio,Female,FALSE,False
+664,,53,64153.67,,IT,48.2,user663@outlook.com,New York,Other,FALSE,False
+1875,Customer_1875,39,64036.99,,HR,48.2,user1874@yahoo.com,Los Angeles,Female,TRUE,False
+1258,Customer_1258,51,40449.94,2018-02-28,IT,48.2,user1257@gmail.com,,Female,TRUE,False
+1801,Customer_1801,75,76692.92,2022-01-21,Sales,48.2,user1800@outlook.com,Chicago,Male,TRUE,False
+1701,Customer_1701,76,20175.54,,HR,48.2,user1700@company.com,Los Angeles,Other,TRUE,False
+318,Customer_318,25,68965.14,2022-09-16,Sales,48.2,user317@company.com,Los Angeles,Female,FALSE,False
+1435,Customer_1435,42,42099.8,,HR,48.2,user1434@company.com,Dallas,Female,FALSE,False
+1480,Customer_1480,76,39427.46,2019-11-30,Support,48.2,USER959@OUTLOOK.COM,Philadelphia,Male,TRUE,False
+710,Customer_710,48,74598.36,,Finance,48.2,user709@company.com,San Diego,Other,TRUE,False
+1383,Customer_1383,77,51736.89,,HR,48.2,user1382@yahoo.com,San Jose,Other,FALSE,False
+1283,Customer_1283,23,58448.08,,Sales,48.2,user1282@outlook.com,San Antonio,Female,TRUE,False
+1769,Customer_1769,52,74976.35,2020-10-28,Marketing,48.2,user1768@gmail.com,Philadelphia,Male,FALSE,False
+973,Customer_973,46,,,Marketing,48.2,,Los Angeles,Other,TRUE,True
+628,Customer_628,20,52504.25,2018-03-18,Operations,48.2,user627@gmail.com,San Jose,Other,FALSE,False
+633,Customer_633,54,49750.33,,Finance,48.2,user632@gmail.com,San Jose,Female,TRUE,False
+1307,Customer_1307,19,51085.68,2015-06-06,,48.2,user1306@gmail.com,Los Angeles,Other,TRUE,False
+1401,Customer_1401,28,75504.86,,Finance,48.2,user1400@company.com,Los Angeles,Other,TRUE,False
+1409,Customer_1409,54,107438.17,,IT,48.2,user1408@gmail.com,San Jose,Female,FALSE,False
+1249,Customer_1249,27,52472.4,2017-09-06,HR,48.2,user1248@outlook.com,Chicago,Male,TRUE,False
+1983,Customer_1983,48,44416.69,,Marketing,48.2,user1982@outlook.com,San Antonio,Other,TRUE,False
+1255,Customer_1255,53,,,Sales,48.2,user1254@gmail.com,Philadelphia,Female,FALSE,False
+1497,Customer_1497,46,49677.89,2019-12-24,Sales,48.2,user1496@yahoo.com,San Jose,Other,FALSE,False
+1372,Customer_1372,33,61042.33,2022-02-16,Sales,48.2,user1371@gmail.com,Chicago,Other,FALSE,False
+1530,,79,58448.9,,Sales,48.2,user1529@gmail.com,Dallas,Female,FALSE,False
+1664,Customer_1664,19,79392.14,,Support,48.2,user1663@gmail.com,San Jose,Female,FALSE,False
+94,Customer_1355,67,54927.63,2019-09-03,Finance,48.2,user1354@company.com,Philadelphia,Other,FALSE,False
+1956,Customer_1956,62,57357.44,,Operations,48.2,user1955@gmail.com,San Diego,Other,TRUE,False
+1931,,66,83589.12,2020-05-02,IT,48.2,user1930@company.com,San Antonio,Female,FALSE,False
+1644,Customer_1644,76,43707.33,,HR,48.2,user1643@gmail.com,Philadelphia,Other,FALSE,False
+1878,Customer_1878,50,52142.07,2018-11-29,Marketing,48.2,user1877@gmail.com,Chicago,Female,FALSE,False
+796,Customer_796,64,71788.94,,Marketing,48.2,user795@yahoo.com,Dallas,Other,FALSE,False
+646,Customer_646,22,59100.5,,Sales,48.2,user645@outlook.com,San Jose,Female,FALSE,False
+1013,Customer_1013,52,44946.25,2020-12-21,Marketing,48.2,user1012@gmail.com,New York,Male,TRUE,False
+1868,Customer_1868,52,56556.96,2017-07-10,Marketing,48.2,user1867@yahoo.com,Philadelphia,Male,FALSE,False
+557,Customer_557,69,,2015-07-08,HR,48.2,user556@outlook.com,San Jose,Female,FALSE,False
+682,Customer_682,19,62129.28,2017-12-19,IT,48.2,user681@company.com,New York,Male,TRUE,False
+578,Customer_578,47,52499.14,,Marketing,48.2,user@.com,Phoenix,Female,TRUE,True
+1820,Customer_1820,75,49630.84,2017-09-19,Operations,48.2,user1819@outlook.com,Chicago,Male,TRUE,False
+1110,Customer_1110,27,47369.24,2020-03-06,Operations,48.2,user1109@yahoo.com,Philadelphia,Male,TRUE,False
+1267,Customer_1267,54,79324,,Marketing,48.2,user1266@gmail.com,San Jose,Other,FALSE,False
+1723,Customer_1723,33,47374.16,2015-02-03,Marketing,48.2,user1722@outlook.com,San Jose,Female,TRUE,False
+1184,Customer_1184,73,66769,2022-10-31,Marketing Dept,48.2,user1183@company.com,Los Angeles,Male,FALSE,False
+525,Customer_525,77,79592.33,2021-12-27,Sales,48.2,user524@gmail.com,San Antonio,Female,FALSE,False
+1060,,76,19124.18,,Marketing,48.2,user1059@gmail.com,Houston,Female,TRUE,False
+541,Customer_541,,62059.04,,Finance,48.2,user540@gmail.com,Houston,Male,FALSE,False
+1195,Customer_1195,52,50813.37,2018-09-07,Support,48.2,user1194@gmail.com,New York,Other,FALSE,False
+1679,Customer_1679,49,30656.09,2020-03-25,Support,48.2,user1678@company.com,Philadelphia,Other,FALSE,False
+1899,Customer_1899,57,68263.63,2017-05-26,IT,48.2,user1898@yahoo.com,,Female,TRUE,False
+1431,Customer_1431,50,76303.85,,HR,48.2,user1430@company.com,Los Angeles,Other,TRUE,False
+485,Customer_485,,25091.04,,Support,48.2,user484@yahoo.com,Chicago,Female,FALSE,False
+1758,Customer_1758,72,40890.33,2017-03-26,,48.2,user1757@gmail.com,New York,Female,FALSE,False
+96,Customer_96,46,44943.53,,Marketing,48.2,user95@outlook.com,Houston,Female,FALSE,False
+1021,Customer_1021,22,81731.17,2019-06-15,HR,48.2,user1020@yahoo.com,Los Angeles,Other,FALSE,False
+564,Customer_564,54,35379.27,,Finance,48.2,user563@outlook.com,New York,Female,FALSE,False
+1265,Customer_1265,59,58298.76,,Sales,48.2,user1264@outlook.com,New York,Female,FALSE,False
+743,Customer_743,53,47698.64,,IT,48.2,user742@yahoo.com,New York,Male,FALSE,False
+864,Customer_864,77,39862.63,2019-08-22,Finance,48.2,user863@company.com,Phoenix,Male,FALSE,False
+1599,Customer_1599,51,52991.67,,HR,48.2,user1598@gmail.com,Dallas,Other,TRUE,False
+1715,Customer_1715,52,63589.12,,HR,48.2,user1714@gmail.com,Chicago,Female,FALSE,False
+1485,Customer_1485,30,50128.4,2022-03-27,HR,48.2,user1484@company.com,Phoenix,Other,TRUE,False
+892,Customer_892,30,61490.93,,HR,48.2,user891@gmail.com,Phoenix,Male,FALSE,False
+1578,Customer_1578,38,"$67,548",,,48.2,USER878@YAHOO.COM,Philadelphia,Male,TRUE,False
+1039,Customer_1039,18,,,Finance,48.2,user1038@gmail.com,San Diego,Female,FALSE,False
+1775,Customer_207,60,62589.87,,Sales,48.2,user206@company.com,Philadelphia,Other,FALSE,False
+393,Customer_393,53,low,2020-07-22,Sales,48.2,user392@gmail.com,San Antonio,Male,FALSE,False
+795,Customer_795,75,53152.33,2021-08-08,Marketing,48.2,user794@gmail.com,San Jose,Male,FALSE,False
+871,Customer_871,44,,2019-10-15,Operations,48.2,user870@outlook.com,San Antonio,Male,FALSE,False
+398,Customer_398,52,60626.08,,Operations,48.2,user397@yahoo.com,Phoenix,Male,TRUE,False
+767,Customer_767,42,72396.87,,HR,48.2,user766@yahoo.com,San Jose,Female,FALSE,False
+1870,,51,44153.27,,Finance,48.2,user1869@outlook.com,Houston,Other,TRUE,False
+1242,Customer_1242,61,61906.3,2017-08-30,Finance,48.2,user1241@gmail.com,Philadelphia,Female,TRUE,False
+1029,Customer_1029,70,74972.18,,Marketing,48.2,user1028@company.com,Phoenix,Other,TRUE,False
+1793,Customer_1793,56,33208.06,2019-02-17,Sales,48.2,user1792@company.com,Los Angeles,Male,TRUE,False
+643,Customer_643,63,46897.7,2022-01-14,HR,48.2,user642@yahoo.com,,Female,TRUE,False
+1922,Customer_1922,61,47704.65,,Operations,48.2,user1921@yahoo.com,Philadelphia,Female,FALSE,False
+613,Customer_613,79,53903.97,2019-01-10,Marketing,48.2,user612@outlook.com,San Antonio,Female,FALSE,False
+1763,,,70961.71,,Finance,48.2,user1762@company.com,San Jose,Male,TRUE,False
+961,Customer_961,58,65909.8,,Marketing,48.2,user960@yahoo.com,Phoenix,Male,FALSE,False
+1571,Customer_1571,74,60116.91,2020-11-23,IT,48.2,user1570@yahoo.com,New York,Female,FALSE,False
+726,Customer_726,,68135.74,,Operations,48.2,user725@yahoo.com,San Antonio,Male,TRUE,False
+684,Customer_684,,4725.84,2016-05-21,IT,48.2,user683@gmail.com,San Diego,Other,TRUE,False
+99,Customer_99,61,49732.89,,Operations,48.2,user98@yahoo.com,Dallas,Male,FALSE,False
+805,Customer_805,38,67636.75,,Sales,48.2,user804@company.com,San Diego,Other,TRUE,False
+1752,Customer_1752,37,75015.25,,Support,48.2,noemail,Phoenix,Female,FALSE,True
+1598,Customer_1598,,57541.63,2016-11-05,Finance,48.2,user1597@outlook.com,Chicago,Female,TRUE,False
+407,Customer_407,35,48292.8,2015-01-05,Sales,48.2,user406@company.com,Houston,Other,FALSE,False
+503,Customer_503,19,25462.79,,Marketing,48.2,user502@yahoo.com,New York,Female,FALSE,False
+1072,Customer_1072,65,72950.36,,Sales,48.2,user1071@outlook.com,San Diego,Male,FALSE,False
+1057,Customer_1057,71,50913.58,,Operations,48.2,user1056@yahoo.com,Los Angeles,Female,TRUE,False
+930,,18,57231.26,2022-10-11,Finance,48.2,user929@outlook.com,New York,Male,FALSE,False
+780,Customer_780,36,52537.31,,Marketing,48.2,user779@outlook.com,Chicago,Other,TRUE,False
+1864,Customer_1864,66,62057.72,,Operations,48.2,user1863@gmail.com,San Diego,Female,TRUE,False
+201,Customer_201,,31636.26,2018-09-16,Financ,48.2,user200@outlook.com,San Antonio,Male,FALSE,False
+135,Customer_135,26,60306.44,,HR,48.2,user134@outlook.com,San Diego,Other,FALSE,False
+1052,Customer_1052,25,35070.92,2020-11-16,Marketing,48.2,user1051@company.com,Philadelphia,Male,TRUE,False
+41,Customer_41,59,47854.33,2016-07-09,IT,48.2,user40@company.com,Houston,Other,TRUE,False
+1018,Customer_1018,23,67868.25,2022-06-29,HR,48.2,user1017@gmail.com,San Antonio,Female,TRUE,False
+231,Customer_231,28,63996.76,2015-02-27,Support,48.2,user230@gmail.com,San Jose,Female,FALSE,False
+1514,Customer_1514,28,51696.18,2021-04-19,Operations,48.2,user1513@company.com,Chicago,Male,TRUE,False
+1797,Customer_1797,60,52252.09,2019-09-03,Support,48.2,user1796@outlook.com,Dallas,Male,FALSE,False
+379,Customer_379,36,46895.17,,,48.2,user378@outlook.com,Philadelphia,Female,TRUE,False
+289,Customer_289,40,84575.03,2021-11-02,Finance,48.2,user288@gmail.com,Philadelphia,Other,TRUE,False
+419,Customer_419,38,65004.71,2019-12-16,Finance,48.2,,San Jose,Male,TRUE,True
+1699,Customer_1699,,19540.47,2020-10-09,HR,48.2,user1698@company.com,San Diego,Male,TRUE,False
+392,Customer_392,25,72410.24,,Sales,48.2,user391@outlook.com,Los Angeles,Male,FALSE,False
+593,Customer_593,36,18491.47,,Operations,48.2,user592@outlook.com,New York,Female,TRUE,False
+1523,Customer_1523,43,89347.09,2022-10-13,Sales,48.2,user1522@company.com,Dallas,Female,TRUE,False
+1163,Customer_1163,38,65840.44,2022-04-05,HR,48.2,,Chicago,Female,FALSE,True
+1087,,67,55691.71,,Operations,48.2,user1086@outlook.com,San Antonio,Other,FALSE,False
+1496,Customer_1496,22,61729.2,2019-03-04,Marketing,48.2,user1495@yahoo.com,Los Angeles,Male,FALSE,False
+648,Customer_648,33,63046.25,,Finance,48.2,user647@company.com,Houston,Female,TRUE,False
+1153,Customer_1153,75,22005.84,2019-01-30,Operations,48.2,user1152@yahoo.com,Houston,Other,TRUE,False
+1368,Customer_1368,54,,,,48.2,user1367@company.com,San Diego,Male,TRUE,False
+521,Customer_521,67,72159.82,2015-11-03,Marketing,48.2,user520@gmail.com,Philadelphia,Female,TRUE,False
+1863,Customer_1863,53,60592.49,,Support,48.2,user1862@yahoo.com,San Diego,,TRUE,False
+1881,Customer_1881,64,57582.76,2018-03-24,Sales,48.2,user1880@gmail.com,New York,Female,TRUE,False
+65,Customer_65,77,40515.74,,IT,48.2,user64@yahoo.com,,Female,TRUE,False
+1837,Customer_1837,70,63485.31,2020-04-15,IT,48.2,user1836@company.com,San Antonio,Female,TRUE,False
+15,Customer_15,0,48435.01,2017-06-22,Finance,48.2,user14@yahoo.com,San Antonio,Male,FALSE,False
+1181,Customer_1181,,69427.82,,Operations,48.2,user1180@outlook.com,San Antonio,Male,FALSE,False
+1065,Customer_1065,61,high,2020-09-19,Marketing Dept,48.2,user1064@company.com,San Antonio,Male,TRUE,False
+493,Customer_493,75,44454.06,2019-04-18,Operations,48.2,user492@company.com,Philadelphia,Male,TRUE,False
+380,Customer_380,65,62703.11,,Operations,48.2,user379@company.com,San Diego,Male,TRUE,False
+188,Customer_188,32,91200.91,,HR,48.2,user187@outlook.com,Chicago,,FALSE,False
+764,Customer_764,72,51445.01,2021-09-11,Marketing,48.2,user763@gmail.com,Dallas,Other,TRUE,False
+217,Customer_217,19,53623.61,,Finance,48.2,user216@gmail.com,Houston,Male,FALSE,False
+792,Customer_792,48,41739.77,,Finance,48.2,,San Diego,Male,FALSE,True
+1077,Customer_1077,38,38278.78,2021-10-03,Operations,48.2,user1076@gmail.com,San Antonio,Male,TRUE,False
+879,Customer_879,30,84158.15,2015-10-02,Operations,48.2,user878@yahoo.com,,Male,TRUE,False
+338,Customer_338,,71679.82,2021-05-20,Support,48.2,user337@yahoo.com,San Antonio,,FALSE,False
+1773,Customer_1773,61,54447.8,2020-10-12,Finance,48.2,noemail,Dallas,Male,FALSE,True
+720,Customer_720,25,500000,,HR,48.2,user719@outlook.com,Houston,Male,TRUE,False
+1749,Customer_1749,18,66236.35,,Support,48.2,user1748@outlook.com,San Diego,Female,TRUE,False
+296,Customer_296,19,23681.66,2015-11-29,Operations,48.2,user295@company.com,San Jose,Other,FALSE,False
+1726,Customer_1726,54,36613.48,,Operations,48.2,user1725@gmail.com,San Jose,Male,TRUE,False
+1017,Customer_1017,72,51921.81,,IT,48.2,user1016@company.com,San Diego,Male,FALSE,False
+1276,Customer_1276,23,48490.51,2016-05-25,Finance,48.2,user1275@company.com,San Diego,Female,FALSE,False
+1751,Customer_1751,22,63059.73,2016-02-01,Support,48.2,user1750@yahoo.com,,Female,TRUE,False
+1486,Customer_1486,48,89505.93,2019-02-09,Sales,48.2,user1485@gmail.com,Los Angeles,Female,FALSE,False
+456,Customer_456,36,1000000,2017-09-25,IT,48.2,user455@yahoo.com,Los Angeles,Other,FALSE,False
+816,Customer_816,56,78820.66,2015-06-27,Sales,48.2,user815@company.com,New York,Other,FALSE,False
+1887,Customer_1887,34,58593.83,2019-06-05,Operations,48.2,user1886@company.com,Los Angeles,Female,TRUE,False
+270,Customer_270,66,36101.2,2017-10-13,Support,48.2,user269@gmail.com,Houston,Male,FALSE,False
+996,,18,56697.01,,Finance,48.2,user995@company.com,New York,Male,FALSE,False
+202,Customer_202,54,70815.45,,IT,48.2,noemail,San Antonio,Male,FALSE,True
+776,,72,74120.16,,Marketing,48.2,user161@gmail.com,New York,Male,FALSE,False
+1580,Customer_1580,,86663.09,,Sales,48.2,user1579@yahoo.com,San Antonio,Other,TRUE,False
+730,Customer_730,21,42170.04,,Sales,48.2,user729@yahoo.com,Los Angeles,Male,TRUE,False
+402,Customer_402,52,68383.95,2017-10-30,Support,48.2,user401@yahoo.com,Philadelphia,Other,FALSE,False
+703,Customer_703,57,79091.79,2017-06-25,sales,48.2,user702@gmail.com,,Male,TRUE,False
+1501,Customer_1501,62,49476.62,,Support,48.2,user1500@company.com,Los Angeles,Other,TRUE,False
+1846,Customer_1846,75,"$53,659",2020-05-13,Sales,48.2,user1845@yahoo.com,Los Angeles,Male,FALSE,False
+1796,Customer_1796,39,49070.42,,HR,48.2,user1795@gmail.com,San Diego,Male,FALSE,False
+1130,Customer_1130,,72132.4,,Sales,48.2,user1129@company.com,San Diego,Female,FALSE,False
+566,Customer_566,25,54925.57,,Finance,48.2,user565@yahoo.com,San Antonio,Male,TRUE,False
+1414,Customer_1414,43,44915.83,,Sales,48.2,user1413@gmail.com,Philadelphia,Female,FALSE,False
+1022,Customer_1022,48,39022.23,2015-06-23,Operations,48.2,user1021@outlook.com,Philadelphia,Other,FALSE,False
+1026,,70,93202.5,2015-11-15,IT,48.2,user1025@company.com,Phoenix,Female,TRUE,False
+1412,Customer_1412,76,50388.65,,Finance,48.2,user1411@yahoo.com,Los Angeles,Other,FALSE,False
+1896,CUSTOMER_1896,,32874.44,2022-05-10,Finance,48.2,user1895@yahoo.com,Los Angeles,Female,TRUE,False
+1586,Customer_1586,70,45581.75,,IT,48.2,user1585@company.com,Phoenix,Other,FALSE,False
+1105,,68,42099.09,,Finance,48.2,user1104@yahoo.com,San Antonio,Female,TRUE,False
+206,Customer_206,32,70641.48,,IT,48.2,user205@gmail.com,Los Angeles,Female,FALSE,False
+35,Customer_35,78,63446.18,,HR,48.2,user34@outlook.com,San Antonio,Other,TRUE,False
+776,Customer_776,42,39039.49,2017-06-03,Finance,48.2,user775@yahoo.com,San Diego,Other,TRUE,False
+509,Customer_509,57,62654.19,,IT,48.2,user508@gmail.com,New York,Female,FALSE,False
+1452,Customer_1452,68,64992.49,,Finance,48.2,user1451@outlook.com,Los Angeles,Female,TRUE,False
+1479,,22,49697.57,2022-08-09,Operations,48.2,user1478@company.com,Phoenix,Female,TRUE,False
+1391,Customer_1391,51,44063.81,,Sales,48.2,user1390@gmail.com,San Antonio,Male,FALSE,False
+92,Customer_92,71,26611.81,2015-04-16,Sales,48.2,user91@outlook.com,Phoenix,Male,TRUE,False
+1364,Customer_1364,57,78525.09,2021-02-06,Marketing,48.2,user1363@outlook.com,Philadelphia,Other,TRUE,False
+898,,42,58301.04,2019-09-29,IT,48.2,user897@company.com,Los Angeles,Male,TRUE,False
+565,Customer_565,50,28857.64,,IT,48.2,user564@gmail.com,Los Angeles,Other,TRUE,False
+1370,Customer_1370,34,54328.53,2020-04-09,Sales,48.2,user1369@outlook.com,San Diego,,TRUE,False
+777,Customer_777,39,59605.97,2017-08-12,HR,48.2,user776@yahoo.com,San Antonio,Female,FALSE,False
+242,Customer_242,79,76664.67,,Operations,48.2,user241@gmail.com,San Diego,Female,TRUE,False
+14,Customer_14,28,19425.77,2021-10-06,Operations,48.2,user13@company.com,Los Angeles,Male,FALSE,False
+316,Customer_316,39,48399.89,2020-02-03,Sales,48.2,user315@outlook.com,Houston,Male,TRUE,False
+1131,Customer_601,79,43030.61,2019-10-04,Operations,48.2,user600@gmail.com,Los Angeles,Female,TRUE,False
+388,Customer_388,41,56027.07,2016-03-04,Sales,48.2,user387@company.com,San Jose,Other,TRUE,False
+1298,Customer_1298,20,47671.04,2019-03-16,HR,48.2,user1297@yahoo.com,,Other,FALSE,False
+167,Customer_167,52,57441.43,,Support,48.2,user166@outlook.com,San Diego,Male,TRUE,False
+841,Customer_841,26,66833.49,,Sales,48.2,user840@yahoo.com,Dallas,Other,FALSE,False
+21,Customer_21,39,51005.24,,IT,48.2,user20@company.com,,,TRUE,False
+647,CUSTOMER_647,29,54799.23,2019-12-11,,48.2,user646@company.com,San Jose,Female,FALSE,False
+1843,,38,42804.82,,,48.2,user1842@outlook.com,Los Angeles,Other,FALSE,False
+1509,Customer_1509,43,0,,Finance,48.2,user1508@gmail.com,San Antonio,Other,TRUE,False
+1155,Customer_1155,36,77762.8,2018-03-04,Sales,48.2,user1154@yahoo.com,Chicago,Female,TRUE,False
+1529,Customer_1529,57,57807.46,,Operations,48.2,user1528@company.com,San Antonio,Other,FALSE,False
+832,Customer_832,61,38141.48,,Operations,48.2,user831@company.com,San Diego,Other,FALSE,False
+1268,Customer_1268,23,45675.59,,Sales,48.2,user1267@yahoo.com,Phoenix,Male,FALSE,False
+1591,Customer_1591,42,41426.28,2019-11-08,Finance,48.2,user1590@outlook.com,New York,Male,TRUE,False
+1900,Customer_1900,34,72547.01,,Sales,48.2,user1899@yahoo.com,San Antonio,Female,FALSE,False
+563,Customer_563,77,,,Support,48.2,user562@gmail.com,San Antonio,Female,TRUE,False
+1982,Customer_1982,35,36739.06,,SALES,48.2,user1981@outlook.com,Phoenix,Other,FALSE,False
+687,Customer_687,37,"$61,647",2022-07-18,IT,48.2,user686@company.com,Chicago,Other,TRUE,False
+958,Customer_958,45,72994.88,,IT,48.2,user957@company.com,Philadelphia,Other,TRUE,False
+190,Customer_190,,84648.16,2017-09-23,Operations,48.2,user189@yahoo.com,New York,Female,FALSE,False
+1807,Customer_1807,28,22517.78,,Finance,48.2,user1806@outlook.com,Philadelphia,Male,FALSE,False
+976,Customer_976,52,15528.52,2019-12-16,IT,48.2,user975@yahoo.com,Chicago,Male,TRUE,False
+700,Customer_700,20,40099.33,,Operations,48.2,user699@yahoo.com,Phoenix,Other,TRUE,False
+1500,Customer_1500,29,69133.57,2016-07-17,Sales,48.2,user1499@company.com,Chicago,Female,FALSE,False
+1706,Customer_1706,64,,2019-05-30,Marketing,48.2,user1705@outlook.com,Dallas,Other,TRUE,False
+511,Customer_511,26,,2016-02-16,Sales,48.2,user510@outlook.com,San Jose,Male,FALSE,False
+1083,Customer_1083,55,30889.61,2020-07-16,HR,48.2,user1082@gmail.com,San Diego,Other,TRUE,False
+475,Customer_475,63,37648.75,2021-07-03,HR,48.2,user474@gmail.com,Chicago,,TRUE,False
+1585,Customer_1585,74,81485.64,2016-06-09,IT,48.2,user1584@gmail.com,Dallas,Male,TRUE,False
+857,Customer_857,34,60848.3,2022-05-05,Sales,48.2,user856@outlook.com,Phoenix,Female,FALSE,False
+1709,Customer_748,52,67194.36,2022-09-09,Sales,48.2,user747@gmail.com,Phoenix,Female,FALSE,False
+253,Customer_253,79,35123.85,,Marketing,48.2,user252@company.com,San Jose,Female,TRUE,False
+22,Customer_22,70,45031.98,,,48.2,user21@yahoo.com,San Diego,Male,FALSE,False
+1338,Customer_1338,37,59881.48,2016-03-30,HR,48.2,user1337@outlook.com,New York,Male,TRUE,False
+460,Customer_460,34,60754.18,,Support,48.2,user459@company.com,Phoenix,Male,FALSE,False
+1185,Customer_1185,47,80876.76,,Sales,48.2,user1184@yahoo.com,Phoenix,Other,TRUE,False
+277,Customer_277,20,47984.31,2017-07-13,HR,48.2,user276@outlook.com,San Diego,Male,TRUE,False
+956,Customer_956,77,64518.1,,Marketing,48.2,user955@yahoo.com,Chicago,Male,TRUE,False
+1216,Customer_1216,20,39756.26,2016-07-17,Operations,48.2,user1215@outlook.com,Philadelphia,Female,FALSE,False
+386,Customer_386,73,72284.99,,IT,48.2,,San Diego,Other,FALSE,True
+806,Customer_806,53,49559.26,,Operations,48.2,user805@yahoo.com,Philadelphia,Female,FALSE,False
+1438,CUSTOMER_1438,64,56295.33,,HR,48.2,user1437@outlook.com,Dallas,Other,TRUE,False
+1516,Customer_1516,27,50151.43,2017-12-08,Finance,48.2,,San Antonio,Male,TRUE,True
+344,Customer_344,35,39264.9,,Marketing,48.2,user343@outlook.com,Dallas,Other,FALSE,False
+770,Customer_770,47,73815.35,,,48.2,user769@outlook.com,San Diego,Female,TRUE,False
+1333,Customer_1333,71,57817.04,,Finance,48.2,user1332@yahoo.com,San Antonio,Male,FALSE,False
+1686,Customer_1686,50,46522.4,2015-07-27,HR,48.2,user1685@yahoo.com,Dallas,Female,TRUE,False
+131,,62,38251.21,,HR,48.2,,Los Angeles,Male,TRUE,True
+1688,Customer_1688,72,73487.87,2019-04-23,Operations,48.2,user1687@gmail.com,Dallas,Female,FALSE,False
+872,Customer_872,27,57423.45,2018-07-04,Marketing,48.2,user871@gmail.com,Chicago,Other,FALSE,False
+1124,Customer_1124,79,53730.21,,Sales,48.2,user1123@company.com,New York,Other,TRUE,False
+1397,,,72065.59,2022-01-31,Support,48.2,user1396@outlook.com,Los Angeles,Female,TRUE,False
+88,Customer_88,21,52712.93,,Finance,48.2,user87@gmail.com,San Antonio,Female,FALSE,False
+1483,Customer_1483,71,28774.28,,Sales,48.2,user1482@gmail.com,San Diego,Other,FALSE,False
+331,,,34892.07,,Support,48.2,user330@company.com,San Jose,Female,FALSE,False
+1239,Customer_1239,39,26806.59,,,48.2,user1238@outlook.com,Los Angeles,Female,FALSE,False
+467,Customer_467,23,51451.29,2019-08-27,Finance,48.2,user@domain,Houston,Female,TRUE,True
+122,Customer_122,43,56615.2,2019-09-17,Marketing,48.2,user121@yahoo.com,New York,Male,TRUE,False
+1639,Customer_1639,,68751.17,,Support,48.2,user1638@company.com,Los Angeles,Male,TRUE,False
+1045,Customer_1045,18,50560.35,,Operations,48.2,user1044@yahoo.com,San Jose,Male,FALSE,False
+1725,Customer_1725,69,41999.16,2019-11-01,Operations,48.2,user1724@outlook.com,Chicago,Other,FALSE,False
+1096,Customer_1096,74,43331.22,,Finance,48.2,user1095@gmail.com,San Antonio,Male,TRUE,False
+1131,Customer_1131,74,46818.31,2018-08-09,Marketing,48.2,user1130@outlook.com,Phoenix,Other,FALSE,False
+861,Customer_861,21,,2019-10-28,Finance,48.2,user860@gmail.com,Los Angeles,Other,TRUE,False
+1460,Customer_1460,69,46179.42,2020-01-06,IT,48.2,user1459@outlook.com,Los Angeles,Female,FALSE,False
+1127,Customer_1127,65,58869.43,2020-01-17,Finance,48.2,user1126@outlook.com,San Jose,Male,FALSE,False
